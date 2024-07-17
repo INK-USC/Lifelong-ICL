@@ -1,9 +1,7 @@
 # Lifelong-ICL: Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack
 
 
-This repository contains code for our paper Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack. Lifelong ICL challenges long-context language
-models to learn various language tasks sequentially through in-context2
-learning.
+This repository contains code for our paper Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack. Lifelong ICL challenges long-context language models to learn various language tasks sequentially through in-context learning.
 
  We benchmark 8 open-source models and 2 commercial models using Lifelong ICL. Here are our main results:
 | Model  / Pass Rate             | 1-shot 16-tasks (4k) | 2-shot 16-tasks (8k) | 4-shot 16-tasks (16k) | 8-shot 16-tasks (32k) | 2-shot 8-tasks (4k) | 2-shot 16-tasks (8k) | 2-shot 32-tasks (15k) | 2-shot 64-tasks (25k) |
