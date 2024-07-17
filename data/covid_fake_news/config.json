@@ -1,0 +1,9 @@
+{
+    "name": "pun_detection",
+    "task_type": "classification",
+    "options": ["real", "fake"],
+    "instruction": "Verify if the news about COVID-19 mentioned in the tweet is real or fake.",
+    "instruction_2": "Determine whether the COVID-19 news in the tweet is fake or real.",
+    "demonstration_prompt": "tweet: {tweet}\nlabel: {label}",
+    "inference_prompt": "tweet: {tweet}\nlabel:"
+}

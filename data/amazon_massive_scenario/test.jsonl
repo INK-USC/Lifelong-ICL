@@ -1,0 +1,100 @@
+{"text": "i need you to mark next monday", "label": "calendar", "id": "test_0"}
+{"text": "let's play my most played song list", "label": "play", "id": "test_1"}
+{"text": "disable alarm for three p. m.", "label": "alarm", "id": "test_2"}
+{"text": "cancel alarm", "label": "alarm", "id": "test_3"}
+{"text": "remind me about my schedule for the afternoon", "label": "calendar", "id": "test_4"}
+{"text": "pause the book", "label": "play", "id": "test_5"}
+{"text": "hi can you please turn lower the lights", "label": "iot", "id": "test_6"}
+{"text": "when is easter in the year two thousand and eighteen", "label": "datetime", "id": "test_7"}
+{"text": "speak loudly", "label": "audio", "id": "test_8"}
+{"text": "how do i make a turkey", "label": "cooking", "id": "test_9"}
+{"text": "please compose a new email to coworker", "label": "email", "id": "test_10"}
+{"text": "when does the super bowl officially start", "label": "qa", "id": "test_11"}
+{"text": "i need to get a ticket via train to orlando from hwood", "label": "transport", "id": "test_12"}
+{"text": "please add oranges to my grocery list", "label": "lists", "id": "test_13"}
+{"text": "add a wrist watch to the shopping list", "label": "lists", "id": "test_14"}
+{"text": "please play the latest bill simmons podcast", "label": "play", "id": "test_15"}
+{"text": "how long should i cook a steak to achieve medium rare", "label": "cooking", "id": "test_16"}
+{"text": "hey what will the weather be like to today in los angeles california", "label": "weather", "id": "test_17"}
+{"text": "i can barely hear you", "label": "audio", "id": "test_18"}
+{"text": "where is the nearest walmart", "label": "recommendation", "id": "test_19"}
+{"text": "who is the music director of this song", "label": "music", "id": "test_20"}
+{"text": "what is the news today", "label": "news", "id": "test_21"}
+{"text": "new alarm for six am", "label": "alarm", "id": "test_22"}
+{"text": "what all goes into a red velvet cake", "label": "cooking", "id": "test_23"}
+{"text": "move to next section", "label": "play", "id": "test_24"}
+{"text": "searching information online", "label": "general", "id": "test_25"}
+{"text": "cancel the tomorrow's meeting from my calendar", "label": "calendar", "id": "test_26"}
+{"text": "siri today is what date", "label": "datetime", "id": "test_27"}
+{"text": "olly what are new drama movies opening this weekend", "label": "recommendation", "id": "test_28"}
+{"text": "can you book an uber for me", "label": "transport", "id": "test_29"}
+{"text": "check for emails from steve", "label": "email", "id": "test_30"}
+{"text": "add this song for the next playing song", "label": "play", "id": "test_31"}
+{"text": "what time is it in london right now", "label": "datetime", "id": "test_32"}
+{"text": "hey what time is it in london now", "label": "datetime", "id": "test_33"}
+{"text": "what was the subject of the last email from mom", "label": "email", "id": "test_34"}
+{"text": "make me a cup of coffee with salted carmel flavored cream", "label": "iot", "id": "test_35"}
+{"text": "what's the latest news on c. n. n.", "label": "news", "id": "test_36"}
+{"text": "remove this list from the others", "label": "lists", "id": "test_37"}
+{"text": "what's the weather in portland", "label": "weather", "id": "test_38"}
+{"text": "display list of recent emails", "label": "email", "id": "test_39"}
+{"text": "is my alarm set for tomorrow morning", "label": "alarm", "id": "test_40"}
+{"text": "will i need to shovel my driveway this morning", "label": "weather", "id": "test_41"}
+{"text": "show geographic details of pyramids", "label": "qa", "id": "test_42"}
+{"text": "play songs by barenaked ladies", "label": "play", "id": "test_43"}
+{"text": "do you know the weather", "label": "weather", "id": "test_44"}
+{"text": "i want some jazz music to play", "label": "play", "id": "test_45"}
+{"text": "send email to joseph at gmail dot com", "label": "email", "id": "test_46"}
+{"text": "put this event in a repeating pattern on my calendar", "label": "calendar", "id": "test_47"}
+{"text": "what day of the week is first april", "label": "datetime", "id": "test_48"}
+{"text": "how are you feeling today", "label": "general", "id": "test_49"}
+{"text": "what is the top searches in google today", "label": "general", "id": "test_50"}
+{"text": "in my calendar delete all of my golf events for the current month", "label": "calendar", "id": "test_51"}
+{"text": "play my soundtrack", "label": "play", "id": "test_52"}
+{"text": "is the city cheaper or costlier to live", "label": "weather", "id": "test_53"}
+{"text": "start music app and play a song for me", "label": "play", "id": "test_54"}
+{"text": "instructions to make a meal", "label": "cooking", "id": "test_55"}
+{"text": "will i need my snow boots this afternoon", "label": "weather", "id": "test_56"}
+{"text": "email chelsea", "label": "email", "id": "test_57"}
+{"text": "do i have a grocery list ready", "label": "lists", "id": "test_58"}
+{"text": "please load new email for bruce and send message now", "label": "email", "id": "test_59"}
+{"text": "please play songs i've purchased and favorited", "label": "play", "id": "test_60"}
+{"text": "silence for two hours", "label": "audio", "id": "test_61"}
+{"text": "what alarms did i set", "label": "alarm", "id": "test_62"}
+{"text": "describe the new football game rules", "label": "general", "id": "test_63"}
+{"text": "open games", "label": "play", "id": "test_64"}
+{"text": "tell me some best tourist places to visit in america", "label": "recommendation", "id": "test_65"}
+{"text": "olly play a good track from my favorite jazz player", "label": "play", "id": "test_66"}
+{"text": "send mom an email now", "label": "email", "id": "test_67"}
+{"text": "info on this week weather", "label": "weather", "id": "test_68"}
+{"text": "turn off the shed light", "label": "iot", "id": "test_69"}
+{"text": "road traffic", "label": "transport", "id": "test_70"}
+{"text": "go to contacts and enter a new email address", "label": "email", "id": "test_71"}
+{"text": "please place my new email address to the contact", "label": "email", "id": "test_72"}
+{"text": "find the latest disney podcast", "label": "play", "id": "test_73"}
+{"text": "start audio playback of twilight again", "label": "play", "id": "test_74"}
+{"text": "what's euro u. s. d. right now", "label": "qa", "id": "test_75"}
+{"text": "hey olly i met one of my old classmates today", "label": "general", "id": "test_76"}
+{"text": "play game", "label": "play", "id": "test_77"}
+{"text": "what date is it today", "label": "datetime", "id": "test_78"}
+{"text": "i got promoted today it feels so good", "label": "general", "id": "test_79"}
+{"text": "delete the first item on the list", "label": "lists", "id": "test_80"}
+{"text": "alexa i've got dollars for the month how much can i spend every day this month", "label": "qa", "id": "test_81"}
+{"text": "where did amal clooney go to college", "label": "qa", "id": "test_82"}
+{"text": "can you please make a coffee", "label": "iot", "id": "test_83"}
+{"text": "what is the exchange rate of euro and dollar", "label": "qa", "id": "test_84"}
+{"text": "compose a new email but i got a new address this time brandon at example dot com", "label": "email", "id": "test_85"}
+{"text": "begin vacuuming", "label": "iot", "id": "test_86"}
+{"text": "are you aware this joke", "label": "general", "id": "test_87"}
+{"text": "where on earth has the most volcanoes", "label": "qa", "id": "test_88"}
+{"text": "play all by playlist", "label": "play", "id": "test_89"}
+{"text": "what did i tell susan in my last email", "label": "email", "id": "test_90"}
+{"text": "please read new emails", "label": "email", "id": "test_91"}
+{"text": "what is four plus five", "label": "qa", "id": "test_92"}
+{"text": "tweet esurance and tell them they suck", "label": "social", "id": "test_93"}
+{"text": "what is the current traffic situation", "label": "transport", "id": "test_94"}
+{"text": "could you order sushi for tonight dinner", "label": "takeaway", "id": "test_95"}
+{"text": "c. n. n. headlines", "label": "news", "id": "test_96"}
+{"text": "brighten up the lighting", "label": "iot", "id": "test_97"}
+{"text": "new york", "label": "transport", "id": "test_98"}
+{"text": "email karen about the budget meeting", "label": "email", "id": "test_99"}

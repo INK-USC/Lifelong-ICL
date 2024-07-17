@@ -1,0 +1,9 @@
+{
+    "name": "imdb",
+    "task_type": "classification",
+    "options": ["positive", "negative"],
+    "instruction": "Classify an English movie review into two basic emotions: positive, negative.",
+    "instruction_2": "Sort an English film critique into one of two fundamental sentiments: negative or positive.",
+    "demonstration_prompt": "Movie review: {text}\nEmotion: {label}",
+    "inference_prompt": "Movie review: {text}\nEmotion:"
+}

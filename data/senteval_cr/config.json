@@ -1,0 +1,9 @@
+{
+    "name": "senteval_cr",
+    "task_type": "classification",
+    "options": ["negative", "positive"],
+    "instruction": "Classify the sentiment of customer review into either positive or negative.",
+    "instruction_2": "Assess the customer review and determine if the sentiment expressed is negative or positive.",
+    "demonstration_prompt": "Review: {text}\nSentiment: {label}",
+    "inference_prompt": "Review: {text}\nSentiment:"
+}

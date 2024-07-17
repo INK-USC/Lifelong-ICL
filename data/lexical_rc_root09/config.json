@@ -1,0 +1,9 @@
+{
+    "name": "lexical_rc_root09",
+    "task_type": "classification",
+    "options": ["unrelated", "hypernym", "co-hyponym"],
+    "instruction": "Determine whether the relationship between the head term and the tail term is hypernym, co-hyponym, or unrelated.",
+    "instruction_2": "Classify the relation between the head term and the tail term as unrelated, hypernym, or co-hyponym.",
+    "demonstration_prompt": "head term: {head}\ntail term: {tail}\nrelation: {label}",
+    "inference_prompt": "head term: {head}\ntail term: {tail}\nrelation:"
+}

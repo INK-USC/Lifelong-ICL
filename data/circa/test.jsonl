@@ -1,0 +1,100 @@
+{"id": "test_0", "answer": "Only in the local park.", "question": "Have you ever seen a live band play?", "context": "X wants to know about Y's music preferences.", "label": "yes"}
+{"id": "test_1", "answer": "My favorite is orange chicken.", "question": "Are you a fan of Chinese food?", "context": "X wants to know about Y's food preferences.", "label": "yes"}
+{"id": "test_2", "answer": "I am still in that field", "question": "Do you still work in tech?", "context": "X and Y are childhood neighbours who unexpectedly run into each other at a cafe.", "label": "yes"}
+{"id": "test_3", "answer": "I don't know how to do anything else.", "question": "Are you looking for work in the same field?", "context": "Y has just told X that he/she is considering switching his/her job.", "label": "yes"}
+{"id": "test_4", "answer": "I've gotten the pleasure of trying all sorts of foods on my travels.", "question": "Have you tried different ethnic foods?", "context": "X wants to know about Y's food preferences.", "label": "yes"}
+{"id": "test_5", "answer": "I'm not into dancing.", "question": "Would you go to a dance with me?", "context": "Y has just moved into a neighbourhood and meets his/her new neighbour X.", "label": "no"}
+{"id": "test_6", "answer": "Thank you that would be nice", "question": "Would you like to stay over?", "context": "Y has just travelled from a different city to meet X.", "label": "yes"}
+{"id": "test_7", "answer": "I read once or twice a week.", "question": "Do you read a lot?", "context": "X wants to know what sorts of books Y likes to read.", "label": "yes"}
+{"id": "test_8", "answer": "It's in a dangerous neighborhood.", "question": "Is the location of your job a concern?", "context": "Y has just told X that he/she is considering switching his/her job.", "label": "yes"}
+{"id": "test_9", "answer": "I think it'd be exciting!", "question": "Would traveling for work be OK?", "context": "Y has just told X that he/she is considering switching his/her job.", "label": "yes"}
+{"id": "test_10", "answer": "I feel like celebrating.", "question": "Aren't you happy it's Friday?", "context": "X and Y are colleagues who are leaving work on a Friday at the same time.", "label": "yes"}
+{"id": "test_11", "answer": "I have a very healthy appetite.", "question": "Have you been eating alright?", "context": "Y has just travelled from a different city to meet X.", "label": "yes"}
+{"id": "test_12", "answer": "I have always wanted to try.", "question": "Are you a hiker?", "context": "X wants to know what activities Y likes to do during weekends.", "label": "no"}
+{"id": "test_13", "answer": "It's hard for me to choose just one favourite singer.", "question": "Do you have a favorite singer?", "context": "X wants to know about Y's music preferences.", "label": "no"}
+{"id": "test_14", "answer": "I'm terrified of flying.", "question": "Do you enjoy flying?", "context": "Y has just travelled from a different city to meet X.", "label": "no"}
+{"id": "test_15", "answer": "I'm not a vegetarian!", "question": "Can you eat meat?", "context": "X wants to know about Y's food preferences.", "label": "yes"}
+{"id": "test_16", "answer": "Emma is my favorite book.", "question": "Do you like Jane Austen?", "context": "X wants to know what sorts of books Y likes to read.", "label": "yes"}
+{"id": "test_17", "answer": "I always thought it would be better.", "question": "Are you happy with your life?", "context": "X and Y are childhood neighbours who unexpectedly run into each other at a cafe.", "label": "no"}
+{"id": "test_18", "answer": "I don't enjoy spicy food very much.", "question": "You like spicy food?", "context": "X wants to know about Y's food preferences.", "label": "no"}
+{"id": "test_19", "answer": "I have flown to Peru.", "question": "Have you flown before on an airplane?", "context": "Y has just travelled from a different city to meet X.", "label": "yes"}
+{"id": "test_20", "answer": "They'll never leave.", "question": "Are your parents still living in your childhood house?", "context": "X and Y are childhood neighbours who unexpectedly run into each other at a cafe.", "label": "yes"}
+{"id": "test_21", "answer": "I've completed all of the work.", "question": "Did you get everything finished?", "context": "X and Y are colleagues who are leaving work on a Friday at the same time.", "label": "yes"}
+{"id": "test_22", "answer": "I was born at the hospital around the corner.", "question": "Are you from around here?", "context": "Y has just moved into a neighbourhood and meets his/her new neighbour X.", "label": "yes"}
+{"id": "test_23", "answer": "I live here.", "question": "Are you here visiting from out of town?", "context": "X and Y are childhood neighbours who unexpectedly run into each other at a cafe.", "label": "no"}
+{"id": "test_24", "answer": "A quiet, relaxing meal sounds nice.", "question": "Does a place that\\'s cozy sound good?", "context": "X wants to know about Y's food preferences.", "label": "yes"}
+{"id": "test_25", "answer": "I jam to it every weekend.", "question": "Are you into electronic music?", "context": "X wants to know about Y's music preferences.", "label": "yes"}
+{"id": "test_26", "answer": "It sounded really different from her old songs.", "question": "Have you heard Taylor Swift's new song?", "context": "X wants to know about Y's music preferences.", "label": "yes"}
+{"id": "test_27", "answer": "I've never been to one actually.", "question": "Have you been to a book reading lately?", "context": "X wants to know what sorts of books Y likes to read.", "label": "no"}
+{"id": "test_28", "answer": "I've been wanting to hike more.", "question": "Would you like to go hiking?", "context": "X and Y are colleagues who are leaving work on a Friday at the same time.", "label": "yes"}
+{"id": "test_29", "answer": "I love lake trips", "question": "Do you like going to the lake?", "context": "X wants to know what activities Y likes to do during weekends.", "label": "yes"}
+{"id": "test_30", "answer": "I'm content with the life I have.", "question": "Are you satisfied with how things have turned out?", "context": "X and Y are childhood neighbours who unexpectedly run into each other at a cafe.", "label": "yes"}
+{"id": "test_31", "answer": "Two brothers and a sister.", "question": "Do you have any siblings?", "context": "Y has just moved into a neighbourhood and meets his/her new neighbour X.", "label": "yes"}
+{"id": "test_32", "answer": "I don't like that band.", "question": "Want to go and see The Killers tonight?", "context": "X wants to know about Y's music preferences.", "label": "no"}
+{"id": "test_33", "answer": "My stomach is made of iron.", "question": "Can you eat spicy food?", "context": "X wants to know about Y's food preferences.", "label": "yes"}
+{"id": "test_34", "answer": "I need an outlet for my creativity.", "question": "Do you like being creative?", "context": "X wants to know what activities Y likes to do during weekends.", "label": "yes"}
+{"id": "test_35", "answer": "It was great.", "question": "Did you like the restaurant we went to?", "context": "Y has just travelled from a different city to meet X.", "label": "yes"}
+{"id": "test_36", "answer": "I've always wanted to learn.", "question": "Do you play guitar?", "context": "X wants to know about Y's music preferences.", "label": "no"}
+{"id": "test_37", "answer": "Lasagna is my favorite food.", "question": "Would you like Italian food?", "context": "X wants to know about Y's food preferences.", "label": "yes"}
+{"id": "test_38", "answer": "First time I have been", "question": "Do you come here a lot?", "context": "X and Y are childhood neighbours who unexpectedly run into each other at a cafe.", "label": "no"}
+{"id": "test_39", "answer": "I've become a vegetarian.", "question": "Do you like to eat BBQ?", "context": "Y has just travelled from a different city to meet X.", "label": "no"}
+{"id": "test_40", "answer": "Not anymore", "question": "Do you own a bike?", "context": "Y has just travelled from a different city to meet X.", "label": "no"}
+{"id": "test_41", "answer": "I like looking at oil paintings.", "question": "Do you enjoy art?", "context": "X wants to know what sorts of books Y likes to read.", "label": "yes"}
+{"id": "test_42", "answer": "I have meetings all week.", "question": "Do you have any meetings tomorrow?", "context": "X and Y are colleagues who are leaving work on a Friday at the same time.", "label": "yes"}
+{"id": "test_43", "answer": "I was thinking we could play laser tag.", "question": "Did you have ideas about things you would like to do?", "context": "Y has just travelled from a different city to meet X.", "label": "yes"}
+{"id": "test_44", "answer": "I've found a few people who are interested.", "question": "Are you looking for roommates?", "context": "Y has just told X that he/she is thinking of buying a flat in New York.", "label": "yes"}
+{"id": "test_45", "answer": "I play the piano", "question": "Have you played any instruments before?", "context": "X wants to know about Y's music preferences.", "label": "yes"}
+{"id": "test_46", "answer": "I I took piano lessons when I was 30.", "question": "Do you play any musical instruments?", "context": "X wants to know about Y's music preferences.", "label": "yes"}
+{"id": "test_47", "answer": "It's the primary part of my job.", "question": "Do you spend a lot of time filling in paper work?", "context": "Y has just told X that he/she is considering switching his/her job.", "label": "yes"}
+{"id": "test_48", "answer": "I have not heard of Malcolm Gladwell", "question": "Have  you read Malcolm Gladwell's book?", "context": "X wants to know what sorts of books Y likes to read.", "label": "no"}
+{"id": "test_49", "answer": "We've just moved here from out of state.", "question": "Are you a local?", "context": "Y has just moved into a neighbourhood and meets his/her new neighbour X.", "label": "no"}
+{"id": "test_50", "answer": "It will have to be May.", "question": "Are you available to move in April?", "context": "Y has just told X that he/she is thinking of buying a flat in New York.", "label": "no"}
+{"id": "test_51", "answer": "I have lots of ones I like", "question": "Do you have a favorite musician?", "context": "X wants to know about Y's music preferences.", "label": "no"}
+{"id": "test_52", "answer": "I've done it once or twice", "question": "Do you ever go hiking?", "context": "X wants to know what activities Y likes to do during weekends.", "label": "yes"}
+{"id": "test_53", "answer": "I don't have a phone.", "question": "Is Spotify on your phone?", "context": "X wants to know about Y's music preferences.", "label": "no"}
+{"id": "test_54", "answer": "I do like trying out the various types of foods they have.", "question": "Do you like going to food trucks?", "context": "X wants to know about Y's food preferences.", "label": "yes"}
+{"id": "test_55", "answer": "I enjoy taking the stairs.", "question": "Are you looking for a building with an elevator?", "context": "Y has just told X that he/she is thinking of buying a flat in New York.", "label": "no"}
+{"id": "test_56", "answer": "I would work 40 hours a week.", "question": "Is your job a full time one?", "context": "Y has just told X that he/she is considering switching his/her job.", "label": "yes"}
+{"id": "test_57", "answer": "I love all things Italian.", "question": "Do you like Italian food?", "context": "X wants to know about Y's food preferences.", "label": "yes"}
+{"id": "test_58", "answer": "I read them often.", "question": "Are mysteries something you are interested in?", "context": "X wants to know what sorts of books Y likes to read.", "label": "yes"}
+{"id": "test_59", "answer": "I have a lot of savings in the bank.", "question": "Can you handle the cost of living there?", "context": "Y has just told X that he/she is thinking of buying a flat in New York.", "label": "yes"}
+{"id": "test_60", "answer": "I have never tried him.", "question": "How about Stephen King?", "context": "X wants to know what sorts of books Y likes to read.", "label": "no"}
+{"id": "test_61", "answer": "I try to have it with most meals", "question": "Is salad something you're interested in?", "context": "X wants to know about Y's food preferences.", "label": "yes"}
+{"id": "test_62", "answer": "They are all living in Australia.", "question": "Are your brothers and sisters nearby?", "context": "X and Y are childhood neighbours who unexpectedly run into each other at a cafe.", "label": "no"}
+{"id": "test_63", "answer": "JK Rowling is my favorite author.", "question": "Did you like the Harry Potter books?", "context": "X wants to know what sorts of books Y likes to read.", "label": "yes"}
+{"id": "test_64", "answer": "I used to have one", "question": "Do you have a netflix account?", "context": "X wants to know what activities Y likes to do during weekends.", "label": "no"}
+{"id": "test_65", "answer": "Are you talking about this 'sports' thing I've heard of?", "question": "Are you into athletics?", "context": "X wants to know what activities Y likes to do during weekends.", "label": "no"}
+{"id": "test_66", "answer": "I love it.", "question": "Do you like the neighborhood so far", "context": "Y has just moved into a neighbourhood and meets his/her new neighbour X.", "label": "yes"}
+{"id": "test_67", "answer": "You could say that.", "question": "Are you a fan of Drake's music?", "context": "X wants to know about Y's music preferences.", "label": "yes"}
+{"id": "test_68", "answer": "I supervise a team of three.", "question": "Are you a manager of people?", "context": "Y has just told X that he/she is considering switching his/her job.", "label": "yes"}
+{"id": "test_69", "answer": "I have plenty of energy.", "question": "Do you need a nap?", "context": "Y has just travelled from a different city to meet X.", "label": "no"}
+{"id": "test_70", "answer": "The Handmaids Tales was a very good book", "question": "Can you remember something that you absolutely loved reading?", "context": "X wants to know what sorts of books Y likes to read.", "label": "yes"}
+{"id": "test_71", "answer": "We're going to the zoo.", "question": "Are you doing something fun this weekend?", "context": "X and Y are colleagues who are leaving work on a Friday at the same time.", "label": "yes"}
+{"id": "test_72", "answer": "That would be nice.", "question": "Want to grab a coffee one of these days?", "context": "X and Y are childhood neighbours who unexpectedly run into each other at a cafe.", "label": "yes"}
+{"id": "test_73", "answer": "I quit my book club because the people were annoying.", "question": "Are you in a book club?", "context": "X wants to know what sorts of books Y likes to read.", "label": "no"}
+{"id": "test_74", "answer": "The cheaper, the better.", "question": "Would you consider somewhere cheaper?", "context": "Y has just told X that he/she is thinking of buying a flat in New York.", "label": "yes"}
+{"id": "test_75", "answer": "I'm always ready to hang with you.", "question": "Are you ready for a good time?", "context": "Y has just travelled from a different city to meet X.", "label": "yes"}
+{"id": "test_76", "answer": "I'm ready for an adventure.", "question": "Are you up to getting out?", "context": "Y has just travelled from a different city to meet X.", "label": "yes"}
+{"id": "test_77", "answer": "I checked one out in university.", "question": "Have you ever attended a job fair?", "context": "Y has just told X that he/she is considering switching his/her job.", "label": "yes"}
+{"id": "test_78", "answer": "I see them all the time.", "question": "Are there young families in this neighborhood?", "context": "Y has just moved into a neighbourhood and meets his/her new neighbour X.", "label": "yes"}
+{"id": "test_79", "answer": "I went onto finish a masters.", "question": "Did you graduate college yet?", "context": "X and Y are childhood neighbours who unexpectedly run into each other at a cafe.", "label": "yes"}
+{"id": "test_80", "answer": "It's too challenging.", "question": "Is your job challenging enough for you?", "context": "Y has just told X that he/she is considering switching his/her job.", "label": "yes"}
+{"id": "test_81", "answer": "I read Coraline as a child.", "question": "Have you ever read Neil Gaiman?", "context": "X wants to know what sorts of books Y likes to read.", "label": "yes"}
+{"id": "test_82", "answer": "I'm always on the go for my job.", "question": "Do you stand up at work?", "context": "Y has just told X that he/she is thinking of buying a flat in New York.", "label": "yes"}
+{"id": "test_83", "answer": "I prefer pop", "question": "Is country your favorite genre of music?", "context": "X wants to know about Y's music preferences.", "label": "no"}
+{"id": "test_84", "answer": "I just went to Greece.", "question": "Have you taken any big vacations lately?", "context": "Y has just travelled from a different city to meet X.", "label": "yes"}
+{"id": "test_85", "answer": "It took double the time I was expecting.", "question": "Was the trip grueling?", "context": "Y has just travelled from a different city to meet X.", "label": "yes"}
+{"id": "test_86", "answer": "Olive Garden is really good.", "question": "Do you have a favorite restaurant?", "context": "X wants to know about Y's food preferences.", "label": "yes"}
+{"id": "test_87", "answer": "I can't play any instruments.", "question": "Are you a musician?", "context": "X wants to know about Y's music preferences.", "label": "no"}
+{"id": "test_88", "answer": "The view is of a park.", "question": "Does it have a good view?", "context": "Y has just told X that he/she is thinking of buying a flat in New York.", "label": "yes"}
+{"id": "test_89", "answer": "I'm craving ice cream.", "question": "Want to go grab some food?", "context": "Y has just travelled from a different city to meet X.", "label": "yes"}
+{"id": "test_90", "answer": "we might as well", "question": "Want to go downtown?", "context": "Y has just travelled from a different city to meet X.", "label": "yes"}
+{"id": "test_91", "answer": "I went to the one across town.", "question": "Did you attend the neighborhood's high school?", "context": "X and Y are childhood neighbours who unexpectedly run into each other at a cafe.", "label": "no"}
+{"id": "test_92", "answer": "I live in Michigan.", "question": "Hey are you still living in Maryland?", "context": "X and Y are childhood neighbours who unexpectedly run into each other at a cafe.", "label": "no"}
+{"id": "test_93", "answer": "I find it challenging but rewarding.", "question": "Do you like hiking?", "context": "X wants to know what activities Y likes to do during weekends.", "label": "yes"}
+{"id": "test_94", "answer": "I've already checked out 20 books.", "question": "Do you have a library card?", "context": "X wants to know what sorts of books Y likes to read.", "label": "yes"}
+{"id": "test_95", "answer": "I've been looking forward to their pizza.", "question": "Would you like to eat at my favorite place?", "context": "Y has just travelled from a different city to meet X.", "label": "yes"}
+{"id": "test_96", "answer": "Let's not look at screens.", "question": "Would you like to watch a movie while we eat dinner?", "context": "Y has just travelled from a different city to meet X.", "label": "no"}
+{"id": "test_97", "answer": "I just moved back in with my parents.", "question": "Do you live around here now?", "context": "X and Y are childhood neighbours who unexpectedly run into each other at a cafe.", "label": "yes"}
+{"id": "test_98", "answer": "I love to hike in the sunshine", "question": "The weather is supposed to be great, would you want to go and hike the greenbelt this weekend?", "context": "X wants to know what activities Y likes to do during weekends.", "label": "yes"}
+{"id": "test_99", "answer": "I'm really shy.", "question": "Are you extroverted?", "context": "Y has just moved into a neighbourhood and meets his/her new neighbour X.", "label": "no"}

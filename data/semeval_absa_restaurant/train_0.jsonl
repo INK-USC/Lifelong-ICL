@@ -1,0 +1,80 @@
+{"text": "Usually 3 vs. 4 items per <term> dish </term>.", "term": "dish", "label": "neutral", "id": "train_0_0"}
+{"text": "<term> Taxan </term> delicious!", "term": "Taxan", "label": "positive", "id": "train_0_1"}
+{"text": "those <term> rolls </term> were big, but not good and sashimi wasn't fresh.", "term": "rolls", "label": "conflict", "id": "train_0_2"}
+{"text": "The <term> food </term> is nothing like its menu description.", "term": "food", "label": "negative", "id": "train_0_3"}
+{"text": "The <term> place </term> wasn't too hard to find, but it was kind of packed, as soon as my boyfriend and I got our food, the line reached the door.", "term": "place", "label": "conflict", "id": "train_0_4"}
+{"text": "I have been to spice three times- twice during <term> lunch </term> and once at dinner.", "term": "lunch", "label": "neutral", "id": "train_0_5"}
+{"text": "They were such a rip-off ($8.95 for four small <term> meat patties in steamed buns </term>) and not worth trying.", "term": "meat patties in steamed buns", "label": "negative", "id": "train_0_6"}
+{"text": "The <term> food </term> was exceptional.", "term": "food", "label": "positive", "id": "train_0_7"}
+{"text": "If you love <term> seafood </term>, you would love this place!", "term": "seafood", "label": "positive", "id": "train_0_8"}
+{"text": "For years, I thought <term> Tuscan cuisine </term> was the best, but Salvatore converted me to the hearty Neapolitan fare on my first visit.", "term": "Tuscan cuisine", "label": "conflict", "id": "train_0_9"}
+{"text": "We did have to wait at the <term> bar </term> for approx.", "term": "bar", "label": "neutral", "id": "train_0_10"}
+{"text": "There was no <term> ambiance </term>.", "term": "ambiance", "label": "negative", "id": "train_0_11"}
+{"text": "The <term> food </term> was delicious (I had a halibut special, my husband had steak), and the service was top-notch.", "term": "food", "label": "positive", "id": "train_0_12"}
+{"text": "They offer the same <term> menu </term> but have creative drinks that are loaded with alcohol and cheeky names -- but they do cost you.", "term": "menu", "label": "neutral", "id": "train_0_13"}
+{"text": "honestly the worst <term> sushi </term> my husband and i had in our entire lives.", "term": "sushi", "label": "negative", "id": "train_0_14"}
+{"text": "An oasis of refinement:  <term> Food </term>, though somewhat uneven, often reaches the pinnacles of new American fine cuisine - chef's passion (and kitchen's precise execution) is most evident in the fish dishes and soups.", "term": "Food", "label": "conflict", "id": "train_0_15"}
+{"text": "The <term> eggplant parmesan </term> is also great, and my friend who grew up in Manhattan claims that no one serves a better baked ziti with meatsauce.", "term": "eggplant parmesan", "label": "positive", "id": "train_0_16"}
+{"text": "We actually gave 10% tip (which we have never done despite mediocre <term> food </term> and service), because we felt totally ripped off.", "term": "food", "label": "neutral", "id": "train_0_17"}
+{"text": "The <term> service </term> does sometimes lack focus and it is not ideal if you are in a hurry but I have never been treated rudely.", "term": "service", "label": "conflict", "id": "train_0_18"}
+{"text": "The <term> service </term> was terrible, we had to wait for everything and ask several of different people for the same thing before we were allowed to be served.", "term": "service", "label": "negative", "id": "train_0_19"}
+{"text": "The <term> food </term> is very good for it's price, better than most fried dumplings I've had.", "term": "food", "label": "positive", "id": "train_0_20"}
+{"text": "Though the <term> Spider Roll </term> may look like a challenge to eat, with soft shell crab hanging out of the roll, it is well worth the price you pay for them.", "term": "Spider Roll", "label": "conflict", "id": "train_0_21"}
+{"text": "It takes forever to get a <term> drink </term> and they almost always forget to bring something (although they dont forget to charge you for it.", "term": "drink", "label": "neutral", "id": "train_0_22"}
+{"text": "The <term> menu </term> may be small, but everything on it is delicious.", "term": "menu", "label": "negative", "id": "train_0_23"}
+{"text": "We visited Orsay during NY Restaurant Week and tried their $35 <term> menu </term>.", "term": "menu", "label": "neutral", "id": "train_0_24"}
+{"text": "<term> Service </term> here was great, food was fantastic.", "term": "Service", "label": "positive", "id": "train_0_25"}
+{"text": "We ordered a <term> tuna melt </term> - it came with out cheese which just made it a tuna sandwich.", "term": "tuna melt", "label": "negative", "id": "train_0_26"}
+{"text": "Maybe I say so because it looked promising for people who like artery-clogging <term> jewish deli food </term>, but turns out to be poorly run and awful.", "term": "jewish deli food", "label": "conflict", "id": "train_0_27"}
+{"text": "Frankly, when you compare what you can have here for <term> lunch </term>, versus McDs or so many other sandwich shops in the city, there is no comparison.", "term": "lunch", "label": "positive", "id": "train_0_28"}
+{"text": "<term> Waiters </term> are slow but sweet.", "term": "Waiters", "label": "conflict", "id": "train_0_29"}
+{"text": "The <term> Thali </term> was small, thoroughly unremarkable, and $14.95.", "term": "Thali", "label": "negative", "id": "train_0_30"}
+{"text": "If you like the <term> food </term> and the value you get from some of Chinatown restaurants, this is not the place for you.", "term": "food", "label": "neutral", "id": "train_0_31"}
+{"text": "The <term> staff </term> ignored my friends and I the entire time we were there.", "term": "staff", "label": "negative", "id": "train_0_32"}
+{"text": "Every <term> waitress </term> and customer who passed by me bumped into my chair.", "term": "waitress", "label": "neutral", "id": "train_0_33"}
+{"text": "being a fan of <term> spicy ethnic foods </term>, indian included, i made friends with this place long ago.", "term": "spicy ethnic foods", "label": "positive", "id": "train_0_34"}
+{"text": "My wife and I always enjoy the young, not always well trained but nevertheless friendly, <term> staff </term>, all of whom have a story.", "term": "staff", "label": "conflict", "id": "train_0_35"}
+{"text": "I could have drank 4 <term> glasses of water </term> and still been parched - so watch out.", "term": "glasses of water", "label": "neutral", "id": "train_0_36"}
+{"text": "<term> Service </term> was very prompt but slightly rushed.", "term": "Service", "label": "conflict", "id": "train_0_37"}
+{"text": "Always popular, always full, always a <term> wait </term>.", "term": "wait", "label": "negative", "id": "train_0_38"}
+{"text": "i recommend the <term> thai popcorn </term> :)", "term": "thai popcorn", "label": "positive", "id": "train_0_39"}
+{"text": "i don't usually order <term> wine </term> with indian so i can't comment on their wine list or their wines.", "term": "wine", "label": "neutral", "id": "train_0_40"}
+{"text": "instead ordered an ice cold <term> beer </term> which to me works with indian.", "term": "beer", "label": "positive", "id": "train_0_41"}
+{"text": "There are a few Italian <term> employees </term> who may not speak the best English but for me that adds to the experience.", "term": "employees", "label": "conflict", "id": "train_0_42"}
+{"text": "First the wrong <term> bread </term> came out with the appetizer, then when i tried to order a second glass of wine for my main course...", "term": "bread", "label": "negative", "id": "train_0_43"}
+{"text": "While the <term> menu </term> isn't especially groundbreaking, everything I've tried so far has been well-executed and tasty.", "term": "menu", "label": "conflict", "id": "train_0_44"}
+{"text": "<term> Food </term> and service was okay.", "term": "Food", "label": "neutral", "id": "train_0_45"}
+{"text": "I got the $10 10-piece <term> dim sum combo </term>, every bite of which was great.", "term": "dim sum combo", "label": "positive", "id": "train_0_46"}
+{"text": "A bit breezy up there on the <term> mezzanine </term> from the wind coming from the tracks.", "term": "mezzanine", "label": "negative", "id": "train_0_47"}
+{"text": "My husband said he could've eaten several more, the <term> portion </term> was fine for me he even exclaimed that the french fries were the best he has had.", "term": "portion", "label": "conflict", "id": "train_0_48"}
+{"text": "i've been to sapphire twice and both times the <term> food </term> was fine, if not good.", "term": "food", "label": "positive", "id": "train_0_49"}
+{"text": "Diner <term> food </term> at bistro prices is a bummer....", "term": "food", "label": "negative", "id": "train_0_50"}
+{"text": "The <term> selection </term> changes frequently but the basic dishes are always available.", "term": "selection", "label": "neutral", "id": "train_0_51"}
+{"text": "They used <term> shredded cheese </term> on top!", "term": "shredded cheese", "label": "neutral", "id": "train_0_52"}
+{"text": "The <term> food </term> is alright - some stuff is good - some is not (like the steak dish which tends to be dry).", "term": "food", "label": "conflict", "id": "train_0_53"}
+{"text": "With the great variety on the <term> menu </term> , I eat here often and never get bored .", "term": "menu", "label": "positive", "id": "train_0_54"}
+{"text": "Over <term> price </term>, and small portions .", "term": "price", "label": "negative", "id": "train_0_55"}
+{"text": "Slightly above average <term> wines </term> start at $70+ with only one selection listed at $30+.", "term": "wines", "label": "negative", "id": "train_0_56"}
+{"text": "Their <term> pad penang </term> is delicious and everything else is fantastic.", "term": "pad penang", "label": "positive", "id": "train_0_57"}
+{"text": "The first time the <term> sushi </term> was outstanding, the second time it was a little bland.", "term": "sushi", "label": "conflict", "id": "train_0_58"}
+{"text": "Once they ran out of <term> Gnochi </term> and made it for me from scratch!", "term": "Gnochi", "label": "neutral", "id": "train_0_59"}
+{"text": "<term> Bill </term> a little high, but worth it.", "term": "Bill", "label": "conflict", "id": "train_0_60"}
+{"text": "For some reason, all the <term> seafood </term> on the menu was unavailable except for the Salmon.", "term": "seafood", "label": "negative", "id": "train_0_61"}
+{"text": "We shared a <term> bottle of sake </term>, an order of edamames, and she had the sushi plate while I had the sashimi.", "term": "bottle of sake", "label": "neutral", "id": "train_0_62"}
+{"text": "The <term> service </term> is friendly, if not the most prompt in the world, the food is great, and the prices, while not cheap, won't put your wallet out of commission.", "term": "service", "label": "positive", "id": "train_0_63"}
+{"text": "<term> Guacamole+shrimp appetizer </term> was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared.", "term": "Guacamole+shrimp appetizer", "label": "positive", "id": "train_0_64"}
+{"text": "<term> Service </term> was decent, but not as smooth as I would expect from a place with these prices and reputation.", "term": "Service", "label": "conflict", "id": "train_0_65"}
+{"text": "I was with a party of 7 (close but not next the the <term> front doors </term>) and we were eating with our coats on.", "term": "front doors", "label": "neutral", "id": "train_0_66"}
+{"text": "Only complaint would be that at an average <term> cost </term> of $12-$15 per meal, I'd like not to have to worry about finding a seat!", "term": "cost", "label": "negative", "id": "train_0_67"}
+{"text": "The <term> cold appetizer dishes </term> taste like the way I remember them to taste when I was growing up in Taiwan.", "term": "cold appetizer dishes", "label": "positive", "id": "train_0_68"}
+{"text": "The website and rating makes this <term> place </term> look wonderful but in reality it was very disappointing.", "term": "place", "label": "conflict", "id": "train_0_69"}
+{"text": "The <term> menu </term> is Prix Fixe, so be prepared to spend at least $60 per person, but it is Well worth itsuperb food.", "term": "menu", "label": "negative", "id": "train_0_70"}
+{"text": "The <term> dish </term> had like 6 pieces of beef in it.", "term": "dish", "label": "neutral", "id": "train_0_71"}
+{"text": "The <term> service </term> varys from day to day- sometimes they're very nice, and sometimes not.", "term": "service", "label": "conflict", "id": "train_0_72"}
+{"text": "This restaurant used to be our regular Thursday night <term> dinner location </term>.", "term": "dinner location", "label": "neutral", "id": "train_0_73"}
+{"text": "The <term> sauce </term> is delicious and the crust is perfect.", "term": "sauce", "label": "positive", "id": "train_0_74"}
+{"text": "Unfortunately, the <term> food </term> was NOT something to get worked up about.", "term": "food", "label": "negative", "id": "train_0_75"}
+{"text": "We ordered some <term> beef </term> and noodle soup dishes from the Thai section of the menu but nothing we got was Thai.", "term": "beef", "label": "negative", "id": "train_0_76"}
+{"text": "Saturday, Nov. 6th I had a group from work come in with about 35 people and the <term> staff </term> was amazing to accomodate us.", "term": "staff", "label": "positive", "id": "train_0_77"}
+{"text": "We ate here in March, 2006 and ordered the <term> pre-theatre 3-course dinner </term> with wine flight.", "term": "pre-theatre 3-course dinner", "label": "neutral", "id": "train_0_78"}
+{"text": "The <term> food </term> was delicious but do not come here on a empty stomach.", "term": "food", "label": "conflict", "id": "train_0_79"}

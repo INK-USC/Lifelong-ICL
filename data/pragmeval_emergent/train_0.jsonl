@@ -1,0 +1,60 @@
+{"sentence1": "a young boy's aunt chopped off his penis after he interrupted her in the bathroom", "sentence2": "disturbed aunt cuts off nephew's penis after he burst's in on her on the toilet.", "label": "for", "id": "train_0_0"}
+{"sentence1": "the iphone 6 pulls out facial hair when being used", "sentence2": "hairgate: iphone hit by new social media storm", "label": "observing", "id": "train_0_1"}
+{"sentence1": "tiger woods is serving a suspension from the pga tour after failing a drug test", "sentence2": "pga tour denies claim that tiger woods failed a drug test", "label": "against", "id": "train_0_2"}
+{"sentence1": "the batmobile was stolen", "sentence2": "zack snyder's batman v superman: dawn of justice stolen batmobile rumor put to rest", "label": "against", "id": "train_0_3"}
+{"sentence1": "apple will launch a 12 macbook air in 2015", "sentence2": "apple's next major mac revealed: the radically new 12-inch macbook air", "label": "for", "id": "train_0_4"}
+{"sentence1": "some isis fighters have contracted ebola", "sentence2": "isis militants have contracted ebola: iraqi, kurdish media reports", "label": "observing", "id": "train_0_5"}
+{"sentence1": "a crowd chopped off a man's penis after he was caught trying to rape a woman", "sentence2": "man has his penis cut off by angry mob after attempted rape of teenager", "label": "for", "id": "train_0_6"}
+{"sentence1": "loggers cut down the world's oldest tree", "sentence2": "fake news report claims loggers have cut down world's oldest tree", "label": "against", "id": "train_0_7"}
+{"sentence1": "a developer quit his job with an x-rated message inserted in a video game called electric boogie", "sentence2": "developer quits using the app he was hired to makeor did he?", "label": "observing", "id": "train_0_8"}
+{"sentence1": "apple removed from apple watch a skin-conductivity sensor that would give a more accurate heart rate", "sentence2": "apple scrapped advanced apple watch health monitoring features due to reliability issues", "label": "for", "id": "train_0_9"}
+{"sentence1": "image shows a group of nigerian women armed with ak-47s who saved a town and school from boko haram", "sentence2": "story of gutsy bravehearts who fought off boko haram is a hoax", "label": "against", "id": "train_0_10"}
+{"sentence1": "isis is harvesting and selling human organs to help fund its operations", "sentence2": "isis might be harvesting organs, iraqi ambassador tells un, amid reports of more hostages being burned alive", "label": "observing", "id": "train_0_11"}
+{"sentence1": "the apple store will have custom-designed safes to store the gold apple watch", "sentence2": "apple stores to install safes to secure gold apple watches", "label": "for", "id": "train_0_12"}
+{"sentence1": "kim jong un broke both of his ankles", "sentence2": "four theories on what may be ailing kim jong-un", "label": "observing", "id": "train_0_13"}
+{"sentence1": "the batmobile was stolen", "sentence2": "zack snyder makes fun of stolen batmobile rumor with new image", "label": "against", "id": "train_0_14"}
+{"sentence1": "apple added additional reinforcement to its iphone 6 plus to ensure it doesn't bend", "sentence2": "has apple quietly fixed its iphone 6 plus bendgate problem?", "label": "observing", "id": "train_0_15"}
+{"sentence1": "reset all settings option in ios 8 deletes iwork files", "sentence2": "bug in ios 8's reset all settings option also erases icloud drive documents", "label": "for", "id": "train_0_16"}
+{"sentence1": "the batmobile was stolen", "sentence2": "batmobile not stolen, mtv contest prize remains unclaimed", "label": "against", "id": "train_0_17"}
+{"sentence1": "a michigan pizza delivery guy received a 2,084 tip", "sentence2": "pizza delivery driver surprised with 2,000 tip", "label": "for", "id": "train_0_18"}
+{"sentence1": "playboy founder hugh hefner is dead", "sentence2": "hugh hefner dead rumors not true", "label": "against", "id": "train_0_19"}
+{"sentence1": "fidel castro has died", "sentence2": "rumors of fidel castro's death circulate after prolonged absence from public life", "label": "observing", "id": "train_0_20"}
+{"sentence1": "apple watch battery doesn't last more than one day", "sentence2": "apple watch battery will require nightly charging", "label": "for", "id": "train_0_21"}
+{"sentence1": "kurdish fighter rehana was killed by isis", "sentence2": "rehana, poster girl for kurdish peshmerga, alive and fighting fiercely, after isis claims of beheading her", "label": "against", "id": "train_0_22"}
+{"sentence1": "kim jong un broke both of his ankles", "sentence2": "north korean leader kim jong-un's mystery illness actually two broken ankles, newspaper says", "label": "observing", "id": "train_0_23"}
+{"sentence1": "a florida woman got a third breast", "sentence2": "meet the 3-boobed woman", "label": "for", "id": "train_0_24"}
+{"sentence1": "isis fighters were caught trying to enter the u.s. via the u.s.-mexico border", "sentence2": "dhs: gop rep.s claim isis members caught at u.s. border categorically false", "label": "against", "id": "train_0_25"}
+{"sentence1": "kim jong un's sister has been put in charge of the country", "sentence2": "kim jong-un's sister reportedly running n. korea", "label": "observing", "id": "train_0_26"}
+{"sentence1": "kevin vickers, the sergeant-at-arms in the house of commons, shot a gunman on parliament hill", "sentence2": "kevin vickers, sergeant-at-arms, shoots a shooting suspect in ottawa called a hero pictures", "label": "for", "id": "train_0_27"}
+{"sentence1": "some isis fighters have contracted ebola", "sentence2": "biological warfare on the horizon? isis soldiers may be infected with ebola", "label": "observing", "id": "train_0_28"}
+{"sentence1": "former cosby show actor lisa bonet tweeted about the accusations against bill cosby", "sentence2": "fake lisa bonet tweet on cosby scandal fools major media outlets", "label": "against", "id": "train_0_29"}
+{"sentence1": "tiger woods is serving a suspension from the pga tour after failing a drug test", "sentence2": "shock claim: pga golfer says tiger woods is suspended for failed drug test", "label": "observing", "id": "train_0_30"}
+{"sentence1": "saudi arabia's national airline will introduce gender segregation on flights", "sentence2": "saudi arabia airline segregation: saudi airlines to assign seats based on gender", "label": "for", "id": "train_0_31"}
+{"sentence1": "youtube star josh paler lin gave a homeless man 100 and filmed how he spent it without the man's knowledge", "sentence2": "was the video of that homeless man doing good deeds with 100 all an elaborate hoax?", "label": "against", "id": "train_0_32"}
+{"sentence1": "the chinese public broadcaster published an article on tips for chinese choosing an english name.", "sentence2": "china: satirical site warns citizens over name choices", "label": "against", "id": "train_0_33"}
+{"sentence1": "a photo shows vladimir putin traveled in a penis-shaped motorcade", "sentence2": "vladimir putin's motorcade looks like a massive knob", "label": "for", "id": "train_0_34"}
+{"sentence1": "lenovo will make a bid to buy blackberry", "sentence2": "lenovo tipped to make a bid for blackberry this week", "label": "observing", "id": "train_0_35"}
+{"sentence1": "the gold apple watch edition will cost 4,999 usd", "sentence2": "apple watch gold edition may cost as much as 5,000", "label": "observing", "id": "train_0_36"}
+{"sentence1": "pope francis told a boy whose dog had died that paradise is open to all of god's creatures", "sentence2": "do all dogs go to heaven? pope tells grieving boy: paradise is open to all of god's creatures", "label": "for", "id": "train_0_37"}
+{"sentence1": "nbc meteorologist mike seidel was caught relieving himself on camera", "sentence2": "brian williams insists nbc news meteorologist did not pee in the snow while on air", "label": "against", "id": "train_0_38"}
+{"sentence1": "a cat that was hit by a car and believed dead dug himself out of his grave", "sentence2": "zombie cat claws way out of grave five days after being buried alive", "label": "for", "id": "train_0_39"}
+{"sentence1": "a tropical spider burrowed under a man's skin", "sentence2": "spiderman squished: experts debunk claims", "label": "against", "id": "train_0_40"}
+{"sentence1": "kim jong un broke both of his ankles", "sentence2": "kim jong un hospitalized with two broken ankles, reportedly from wearing heels and being overweight", "label": "observing", "id": "train_0_41"}
+{"sentence1": "the iphone 6 pulls out facial hair when being used", "sentence2": "hairgate trends on social media: iphone 6 users complain of ripped out hair", "label": "observing", "id": "train_0_42"}
+{"sentence1": "video shows the moment when a man tells his parents that he paid of their mortgage", "sentence2": "son pays off his parents mortgage in a heartwarming christmas video", "label": "for", "id": "train_0_43"}
+{"sentence1": "cesar milln, the dog whisperer, has died", "sentence2": "the news of cesar millan's death is false", "label": "against", "id": "train_0_44"}
+{"sentence1": "the apple store will have custom-designed safes to store the gold apple watch", "sentence2": "apple stores are reportedly installing custom safes to house apple watches", "label": "observing", "id": "train_0_45"}
+{"sentence1": "doctors confirmed the first case of death by genetically modified food", "sentence2": "first human death confirmed from eating gmo satire", "label": "against", "id": "train_0_46"}
+{"sentence1": "an afghan woman avenged her son's death by helping kill 25 taliban fighters", "sentence2": "afghan mother reza gul takes up slain son's gun to kill taliban attackers", "label": "for", "id": "train_0_47"}
+{"sentence1": "joan rivers doctor took a selfie during her operation", "sentence2": "disgusting joan rivers doc gwen korovin's sick selfie exposed last photo of comic icon, when she was under anesthesia, at center of medical investigation", "label": "for", "id": "train_0_48"}
+{"sentence1": "mass grave found in mexico holds bodies of missing students", "sentence2": "missing mexican students not found in mass grave", "label": "against", "id": "train_0_49"}
+{"sentence1": "paul rudd helped take down the dallas airport homophobe", "sentence2": "did paul rudd help tackle that dallas airport gay-basher?", "label": "observing", "id": "train_0_50"}
+{"sentence1": "the batmobile was stolen", "sentence2": "detroit police issue statement that the batmobile is safe", "label": "against", "id": "train_0_51"}
+{"sentence1": "apple will shutdown beats music", "sentence2": "apple to shut down beats music: report", "label": "observing", "id": "train_0_52"}
+{"sentence1": "a woman cut off her husband's penis twice", "sentence2": "woman cuts off husband's penis twice after catching him cheating", "label": "for", "id": "train_0_53"}
+{"sentence1": "there is a case of ebola in kansas city", "sentence2": "hospital: man not being treated for ebola in kansas city", "label": "against", "id": "train_0_54"}
+{"sentence1": "an alaska airlines plane was delayed when a scorpion stung a woman onboard", "sentence2": "scorpion stings passenger, delays flight from los angeles to portland", "label": "for", "id": "train_0_55"}
+{"sentence1": "evander kane could be traded by the jets", "sentence2": "kane's future in winnipeg in doubt?", "label": "observing", "id": "train_0_56"}
+{"sentence1": "anonymous street artist banksy was arrested", "sentence2": "banksy arrest hoax: us website claims street artist caught in watford", "label": "against", "id": "train_0_57"}
+{"sentence1": "christian bale to play steve jobs in an upcoming bio flick", "sentence2": "christian bale will play steve jobs in sony's next biopic", "label": "for", "id": "train_0_58"}
+{"sentence1": "at least one of the taliban five exchanged for soldier bowe bergdahl is trying to return to militancy", "sentence2": "taliban detainee swapped for bowe bergdahl suspected of trying to return to terrorism", "label": "observing", "id": "train_0_59"}

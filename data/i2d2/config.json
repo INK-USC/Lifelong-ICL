@@ -1,0 +1,9 @@
+{
+    "name": "i2d2",
+    "task_type": "classification",
+    "options": ["true", "false"],
+    "instruction": "Decide whether a statement of commonsense facts is true or false.",
+    "instruction_2": "Is the statement of commonsense facts false or true?",
+    "demonstration_prompt": "Statement: {text}\nLabel: {label}",
+    "inference_prompt": "Statement: {text}\nLabel:"
+}

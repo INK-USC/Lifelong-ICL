@@ -1,0 +1,40 @@
+{"question1": "What can I substitute for vegetable oil?", "question2": "Can you substitute canola oil for vegetable oil?", "label": "not duplicate", "id": "train_4_0"}
+{"question1": "What do you think of demonetization in India?", "question2": "How is demonetization helping India?", "label": "duplicate", "id": "train_4_1"}
+{"question1": "What do you do when you got free time?", "question2": "What do you do when you have free time?", "label": "duplicate", "id": "train_4_2"}
+{"question1": "Has there been a US president not born in the US?", "question2": "Who has been the most worldly US President?", "label": "not duplicate", "id": "train_4_3"}
+{"question1": "Does snow increase the height of Mount Everest?", "question2": "Who was the first Indian to climb Mount Everest?", "label": "not duplicate", "id": "train_4_4"}
+{"question1": "What are the most sexy videos on vimeo?", "question2": "What are the sexiest videos on Vimeo?", "label": "duplicate", "id": "train_4_5"}
+{"question1": "Which is the best car in world?", "question2": "What are the best cars in the world?", "label": "duplicate", "id": "train_4_6"}
+{"question1": "What does a 3.0L V6 engine mean?", "question2": "What's the difference between a V4 and V6 engine?", "label": "not duplicate", "id": "train_4_7"}
+{"question1": "What is the best way to reduce abdominal fat?", "question2": "Whats the best way to reduce belly fat?", "label": "duplicate", "id": "train_4_8"}
+{"question1": "Do air-hostesses have sex with passengers in flight?", "question2": "Do pilots have sex with the air hostesses?", "label": "not duplicate", "id": "train_4_9"}
+{"question1": "How do you message on Quora?", "question2": "How can I send a private message through Quora?", "label": "not duplicate", "id": "train_4_10"}
+{"question1": "What's a good workout plan to lose belly fat?", "question2": "How can I lose body fat in my belly and chest?", "label": "duplicate", "id": "train_4_11"}
+{"question1": "How can I factor x^10+x^5+1?", "question2": "How can I factorize [math]x^{10}+x^5+1[/math]?", "label": "not duplicate", "id": "train_4_12"}
+{"question1": "Do Japanese hold grudges on Americans for Hiroshima and Nagasaki?", "question2": "Why don't the Japanese hate the United States for Hiroshima and Nagasaki?", "label": "duplicate", "id": "train_4_13"}
+{"question1": "How did you get your ex girlfriend back if she ignores you?", "question2": "Where can I find family health insurance quotes in Tennessee?", "label": "not duplicate", "id": "train_4_14"}
+{"question1": "Who will win the next 2019 general elections in India and why?", "question2": "Who will win 2019 Lok sabha elections?", "label": "duplicate", "id": "train_4_15"}
+{"question1": "Engineer and design?", "question2": "How are Paper Boat juices health wise compared to Real and Tropicana?", "label": "not duplicate", "id": "train_4_16"}
+{"question1": "I am new to GitHub, so how should I start contributing to open source projects on GitHub?", "question2": "As a web developer how can I contribute to open source on GitHub?", "label": "duplicate", "id": "train_4_17"}
+{"question1": "What are reviews for Food Grade Diatomaceous Earth?", "question2": "Is the use of food grade diatomaceous earth safe?", "label": "duplicate", "id": "train_4_18"}
+{"question1": "What would it take for birdlike creatures to evolve on a planet with stronger gravity? Would it even be possible?", "question2": "Is there a proof in the Bible that Jesus was buried three days and nights?", "label": "not duplicate", "id": "train_4_19"}
+{"question1": "How would a Trump presidency affect schools accessibility for international students?", "question2": "What does Trump\u2019s victory mean for international students?", "label": "duplicate", "id": "train_4_20"}
+{"question1": "Does Chase Bank exchange foreign currency? If so, are their rates competetive?", "question2": "How are foreign currency exchange rates governed in banks?", "label": "not duplicate", "id": "train_4_21"}
+{"question1": "How can I make $10000 in a month?", "question2": "What's the best way to earn Rs 10000 in one month?", "label": "not duplicate", "id": "train_4_22"}
+{"question1": "Gyms and Workout Facilities: Are taking protein powder supplements good for health?", "question2": "Is taking protein during a workout good for health?", "label": "duplicate", "id": "train_4_23"}
+{"question1": "How do you prevent mirror from fogging up?", "question2": "How can you prevent a bathroom mirror from fogging up during a hot shower?", "label": "duplicate", "id": "train_4_24"}
+{"question1": "Is it possible to deflect a meteor crash with 2 to 3 hours of notice?", "question2": "Will the earth be hit by a meteor?", "label": "not duplicate", "id": "train_4_25"}
+{"question1": "What are the things that one should do before they die?", "question2": "What is the most important thing you want to do before you die?", "label": "duplicate", "id": "train_4_26"}
+{"question1": "What are web landing pages?", "question2": "What is a landing page?", "label": "not duplicate", "id": "train_4_27"}
+{"question1": "What is the fact behind Bermuda triangle?", "question2": "What actually happens in the Bermuda Triangle?", "label": "duplicate", "id": "train_4_28"}
+{"question1": "How should I study for iit jee exam?", "question2": "How can we prepare for an IIT-JEE just by self-studying?", "label": "not duplicate", "id": "train_4_29"}
+{"question1": "What are the pros and cons of banning currency notes of 500 and 1000 in India?", "question2": "What is the main reason for discontinuing 500 and 1000 Rupees Note in India? What are the pros and cons of it?", "label": "duplicate", "id": "train_4_30"}
+{"question1": "What it's like to lose your virginity?", "question2": "What does it feel like to lose your virginity to a prostitute?", "label": "not duplicate", "id": "train_4_31"}
+{"question1": "I have completed my mechanical engineering with below 60%. What should I do to get a job in good company", "question2": "I have completed my mechanical engineering with below 60%. What should I do to get a job in good company?", "label": "duplicate", "id": "train_4_32"}
+{"question1": "How can I know if someone blocked me from their moment on WeChat?", "question2": "How do I know if someone block me on their wechat moments?", "label": "not duplicate", "id": "train_4_33"}
+{"question1": "I want to use the most secure operating system for my server without the headache which is Linux. Which should I prefer?", "question2": "Why do people love the Linux operating system?", "label": "not duplicate", "id": "train_4_34"}
+{"question1": "Which is the best online shopping websites?", "question2": "Which is the best online shopping?", "label": "duplicate", "id": "train_4_35"}
+{"question1": "How can I run a 3 phase motor in a two way supply?", "question2": "How can I used 3 phase motor in a 2 way supply?", "label": "duplicate", "id": "train_4_36"}
+{"question1": "What is the biggest state in the world?", "question2": "Why did Germany lose WWII?", "label": "not duplicate", "id": "train_4_37"}
+{"question1": "What is the fee structure of TIME Institute for CAT classroom training in delhi?", "question2": "What is the fee structure of TIME Institute for CAT classroom training in Chennai?", "label": "not duplicate", "id": "train_4_38"}
+{"question1": "Which medical college is better between SMS Jaipur and AIIMS Jodhpur?", "question2": "Which should I choose SMS Jaipur or AIIMS Jodhpur? Why?", "label": "duplicate", "id": "train_4_39"}

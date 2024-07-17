@@ -1,0 +1,9 @@
+{
+    "name": "climate_commitments_actions",
+    "task_type": "classification",
+    "options": ["yes", "no"],
+    "instruction": "This is a binary classification task of whether a given climate-related paragraph is about climate commitments and actions (yes) or not (no).",
+    "instruction_2": "Is the given paragraph related to climate about climate commitments and actions? Answer with yes or no.",
+    "demonstration_prompt": "Paragraph: {text}\nLabel: {label}",
+    "inference_prompt": "Paragraph: {text}\nLabel:"
+}

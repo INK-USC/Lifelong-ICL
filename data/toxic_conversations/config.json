@@ -1,0 +1,9 @@
+{
+    "name": "toxic_conversations",
+    "task_type": "classification",
+    "options": ["toxic", "not toxic"],
+    "instruction": "Classify the text into toxic or not toxic.",
+    "instruction_2": "Decide if the text is not toxic or toxic.",
+    "demonstration_prompt": "Text: {text}\nLabel: {label}",
+    "inference_prompt": "Text: {text}\nLabel:"
+}

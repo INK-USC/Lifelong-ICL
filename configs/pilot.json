@@ -1,0 +1,4 @@
+{    
+"train": ["ag_news", "boolq", "emotion", "qqp", "rte", "sst2", "trec", "wic"],
+"test": ["ag_news", "boolq", "emotion", "qqp", "rte", "sst2", "trec", "wic"]
+}

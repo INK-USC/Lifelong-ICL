@@ -1,0 +1,9 @@
+{
+    "name": "climate_fever",
+    "task_type": "classification",
+    "options": ["supported", "not enough info", "refuted", "disputed"],
+    "instruction": "Classify the claim into supported, not enough info, refuted, and disputed.",
+    "instruction_2": "Determine if the claim is refuted, supported, not enough info, or disputed.",
+    "demonstration_prompt": "Text: {text}\nLabel: {label}",
+    "inference_prompt": "Text: {text}\nLabel:"
+}

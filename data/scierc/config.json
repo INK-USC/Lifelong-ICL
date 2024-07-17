@@ -1,0 +1,9 @@
+{
+    "name": "scierc",
+    "task_type": "classification",
+    "options": ["Used For", "Feature Of", "Hyponym Of", "Compare", "Evaluate For", "Conjunction", "Part Of"],
+    "instruction": "Classify the relation between the subject (marked by << and >>) and the object (marked by [[ and ]]) into Used For, Feature Of, Hyponym Of, Compare, Evaluate For, Conjunction, or Part Of.",
+    "instruction_2": "Determine the type of relation between the marked subject (<< >>) and object ([[ ]]): is it Part Of, Hyponym Of, Used For, Feature Of, Compare, Conjunction, or Evaluate For?",
+    "demonstration_prompt": "Input: {text}\nLabel: {label}",
+    "inference_prompt": "Input: {text}\nLabel:"
+}

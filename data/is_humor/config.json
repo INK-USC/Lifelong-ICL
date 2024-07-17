@@ -1,0 +1,9 @@
+{
+    "name": "is_humor",
+    "task_type": "classification",
+    "options": ["humorous", "not humorous"],
+    "instruction": "This was a binary classification task to detect, given a text, if it was humorous or not.",
+    "instruction_2": "Determine whether the provided text should be classified as humorous or not humorous.",
+    "demonstration_prompt": "Text: {text}\nLabel: {label}",
+    "inference_prompt": "Text: {text}\nLabel:"
+}

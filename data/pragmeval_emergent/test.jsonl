@@ -1,0 +1,100 @@
+{"sentence1": "the town of purdon, texas was quarantined after a family of five tested positive for ebola", "sentence2": "report of quarantined texas town not real shared on a fake news website", "label": "against", "id": "test_0"}
+{"sentence1": "some isis fighters have contracted ebola", "sentence2": "has ebola infected isis militants in mosul?", "label": "observing", "id": "test_1"}
+{"sentence1": "a woman woke up during brain surgery and talked about cats, asked the surgeons how's it going?", "sentence2": "teenager wakes up while undergoing brain surgery in poland... and asks the surgeons how the operation is going", "label": "for", "id": "test_2"}
+{"sentence1": "egyptian president al-sisi proposed expanding the gaza strip through sinai land", "sentence2": "sisi denies claims over providing palestinians with sinai lands", "label": "against", "id": "test_3"}
+{"sentence1": "a crowd chopped off a man's penis after he was caught trying to rape a woman", "sentence2": "rajasthan: angry mob teaches rapist a lesson chops penis off", "label": "for", "id": "test_4"}
+{"sentence1": "the president of argentina became the adopted godmother of a boy to help stop him from becoming a werewolf", "sentence2": "argentina's president adopts godson to prevent him becoming a werewolf", "label": "observing", "id": "test_5"}
+{"sentence1": "saudi tv blurred out michelle obama's uncovered face during a visit to the country", "sentence2": "no, saudi tv did not blur out images of michelle obama", "label": "against", "id": "test_6"}
+{"sentence1": "isis beheaded journalist james wright foley", "sentence2": "pm vows to redouble efforts against islamic extremism after barbaric is murder", "label": "for", "id": "test_7"}
+{"sentence1": "the stainless steel apple watch will retail for 500 usd", "sentence2": "apple watch pricing: will you spend 5000 for gold edition, 500 for stainless steel?", "label": "for", "id": "test_8"}
+{"sentence1": "lenovo will make a bid to buy blackberry", "sentence2": "lenovo still wants to buy blackberry and will try again, source suggests", "label": "observing", "id": "test_9"}
+{"sentence1": "willie nelson is dead", "sentence2": "willie nelson dead? viral hoax fools internet", "label": "against", "id": "test_10"}
+{"sentence1": "a meteorite landed in nicaragua.", "sentence2": "nicaragua asks u.s. for help investigating meteorite crater", "label": "for", "id": "test_11"}
+{"sentence1": "the apple watch will be available in germany at launch", "sentence2": "the apple watch will launch outside the us in april too", "label": "for", "id": "test_12"}
+{"sentence1": "apple will hold a special medialaunch event in february", "sentence2": "apple may or may not hold an event on the 24th of february rumor", "label": "observing", "id": "test_13"}
+{"sentence1": "a macedonian man cut off his penis after his girlfriend broke up with him", "sentence2": "boyfriend cuts off his penis and throws it in the bin after girlfriend dumps him for being bad in bed", "label": "for", "id": "test_14"}
+{"sentence1": "google will purchase roughly half of pacific shores office park", "sentence2": "google said to buy six silicon valley buildings for 585 million", "label": "observing", "id": "test_15"}
+{"sentence1": "a man was saved from a bear attack thanks to a justin bieber ringtone", "sentence2": "man saved from bear attack - thanks to his justin bieber ringtone", "label": "for", "id": "test_16"}
+{"sentence1": "artist banksy drew a cartoon about the charlie hebdo murders", "sentence2": "this powerful cartoon about the charlie hebdo attack is not by banksy", "label": "against", "id": "test_17"}
+{"sentence1": "north korea issued a directive that anyone with the name kim jong un must change it", "sentence2": "kim jong-un bans the name kim jong-un", "label": "observing", "id": "test_18"}
+{"sentence1": "protestors in hong kong adopted hands up, don't shoot from ferguson", "sentence2": "hong kong protesters go ferguson style: hands up, don't shoot", "label": "for", "id": "test_19"}
+{"sentence1": "north korea plans to open a restaurant in scotland", "sentence2": "north korean leader kim jong-un to open restaurant in scotland", "label": "for", "id": "test_20"}
+{"sentence1": "comcast got a man fired from his job after he complained about the company's service", "sentence2": "unhappy customer: comcast told my employer about complaint, got me fired", "label": "observing", "id": "test_21"}
+{"sentence1": "espn planned a special domestic violence panel that didn't include any women", "sentence2": "espn's domestic abuse tonight panel will be 100 dudes", "label": "for", "id": "test_22"}
+{"sentence1": "an 85-year-old woman was arrested for making fur coats out of her neighbors cats", "sentence2": "elderly woman arrested for kidnapping neighbor's cats making fur coats", "label": "for", "id": "test_23"}
+{"sentence1": "kei nishikori is the world's highest-paid tennis player", "sentence2": "kei nishikori highest-paid tennis player in the world", "label": "for", "id": "test_24"}
+{"sentence1": "cosby show actress raven symone accused bill cosby of rape", "sentence2": "raven-symone files molestation charges against bill cosby report is totally fake media fooled", "label": "against", "id": "test_25"}
+{"sentence1": "the apple watch will ship by the end of march", "sentence2": "apple watch launch expected in march, retail training set for mid-february", "label": "for", "id": "test_26"}
+{"sentence1": "the apple watch will ship in march", "sentence2": "new report tips apple watch release in march, 12in macbook air in q1", "label": "observing", "id": "test_27"}
+{"sentence1": "a unique planetary alignment on jan. 4, 2015 will cause partial weightlessness on earth", "sentence2": "no, a planetary alignment on jan. 4, 2015, won't decrease gravity", "label": "against", "id": "test_28"}
+{"sentence1": "jess smith of chatham, kent was the smiling sun baby in the teletubbies tv show", "sentence2": "say eh-oh to the teletubbies sun baby - can you still recognise her after 19 years?", "label": "for", "id": "test_29"}
+{"sentence1": "a woman aborted a fetus after discovering it was male", "sentence2": "therefore, the feminist blogger who aborted a boy probably fake", "label": "against", "id": "test_30"}
+{"sentence1": "claim hewlett-packard will split itself into two separate companies", "sentence2": "hp confirms plan to split company", "label": "for", "id": "test_31"}
+{"sentence1": "the digital crown on the apple watch will come in different colors.", "sentence2": "apple watch digital crown -- could it color adjusted?", "label": "observing", "id": "test_32"}
+{"sentence1": "egyptian president al-sisi proposed expanding the gaza strip through sinai land", "sentence2": "rumors swirling about israel's shocking sinai endgame plan for palestinians in gaza", "label": "observing", "id": "test_33"}
+{"sentence1": "samsung is producing a new chip for apple watch", "sentence2": "samsung is reportedly making a secret new chip in the apple watch", "label": "observing", "id": "test_34"}
+{"sentence1": "a man was saved from a bear attack thanks to a justin bieber ringtone", "sentence2": "justin bieber saved this guy from a bear attack", "label": "for", "id": "test_35"}
+{"sentence1": "a woman tried to eat her baby after giving birth", "sentence2": "cannibal mum tries to eat her own baby shortly after giving birth", "label": "for", "id": "test_36"}
+{"sentence1": "microsoft is going to acquire mojang ab", "sentence2": "microsoft said to be buying the maker of minecraft for 2 billion", "label": "observing", "id": "test_37"}
+{"sentence1": "isis beheaded british aid worker daivd haines", "sentence2": "david haines beheaded by isis, execution video contains threats against uk: reports", "label": "for", "id": "test_38"}
+{"sentence1": "tiger woods is selling his island in lake mlaren, sweden", "sentence2": "for sale: tiger's former island in sweden", "label": "for", "id": "test_39"}
+{"sentence1": "the apple watch will ship in march", "sentence2": "apple watch may go on sale in march according to analyst", "label": "observing", "id": "test_40"}
+{"sentence1": "a video shows sexist peruvian men being tricked into harassing their own mothers", "sentence2": "when street harassers realize the women they're catcalling are their moms in disguise", "label": "for", "id": "test_41"}
+{"sentence1": "kim jong un is drinking cobra wine to help restore his virility", "sentence2": "kim jong-un necks snake wine for virility", "label": "for", "id": "test_42"}
+{"sentence1": "viral photo shows a worker at an app-ranking manipulation farm", "sentence2": "app brush list actually do so sister you tired it?", "label": "observing", "id": "test_43"}
+{"sentence1": "jihadist khalil al-britani was killed", "sentence2": "british teenage jihadi believed to have been killed in syria", "label": "observing", "id": "test_44"}
+{"sentence1": "mcdonald's will stop serving overweight customers", "sentence2": "fake-news: mcdonald's will stop serving overweight customers", "label": "against", "id": "test_45"}
+{"sentence1": "a man was saved from a bear attack thanks to a justin bieber ringtone", "sentence2": "unbearable: man fends off bear attack by playing justin bieber song", "label": "for", "id": "test_46"}
+{"sentence1": "a meteorite landed in nicaragua.", "sentence2": "nasa questions whether crater in nicaragua caused by meteorite", "label": "against", "id": "test_47"}
+{"sentence1": "protestors in hong kong adopted hands up, don't shoot from ferguson", "sentence2": "what's happening in hong kong? stunning images from the occupy-inspired, ferguson-tinged protests", "label": "for", "id": "test_48"}
+{"sentence1": "there will be a sons of anarchy film", "sentence2": "kurt sutter announces plans for sons of anarchy movie starring charlie hunnam, brad pitt", "label": "for", "id": "test_49"}
+{"sentence1": "there's an audio recording of the michael brown shooting", "sentence2": "experts: more facts needed on purported audio recording of michael brown shooting", "label": "observing", "id": "test_50"}
+{"sentence1": "the gold apple watch edition will cost 1,200", "sentence2": "apple watch gold edition rumored to be priced at 1200: will you buy?", "label": "observing", "id": "test_51"}
+{"sentence1": "tiger woods is serving a suspension from the pga tour after failing a drug test", "sentence2": "tiger woods ped, pga tour suspension allegations retracted by dan olsen", "label": "against", "id": "test_52"}
+{"sentence1": "a child soldier with isis was killed in battle, making him youngest islamic state fighter to die", "sentence2": "the cub of baghdadi: isis reports its youngest jihadist got martyred in battle", "label": "observing", "id": "test_53"}
+{"sentence1": "tbs speeds up seinfeld episodes to fit in more commercials", "sentence2": "tbs speeds up seinfeld by 7.5 to add 2 more minutes of commercials", "label": "for", "id": "test_54"}
+{"sentence1": "the indian government fired an employee who hadn't been to work in 24 years", "sentence2": "an indian civil servant just got sacked after not turning up for work for 25 years", "label": "for", "id": "test_55"}
+{"sentence1": "a russian boy attracts metal objects with his body after being hit with jolt of electricity", "sentence2": "meet magneto boy, the kid who attracts metal with his body", "label": "for", "id": "test_56"}
+{"sentence1": "jihadi john is a londoner named mohammed emwazi", "sentence2": "jihadi john named as mohammed emwazi, from west london", "label": "for", "id": "test_57"}
+{"sentence1": "a man caught stealing women's underwear was forced to wear it and walk around in public", "sentence2": "public shaming: underwear thief forced to walk around the block wearing the bras he stole", "label": "for", "id": "test_58"}
+{"sentence1": "the indian government fired an employee who hadn't been to work in 24 years", "sentence2": "indian civil servant sacked after 24-year sickie", "label": "for", "id": "test_59"}
+{"sentence1": "a fourth-grade student from texas was suspended after threatening another student with magic", "sentence2": "texas boy suspended for saying he could make classmate disappear with lord of the rings sorcery", "label": "for", "id": "test_60"}
+{"sentence1": "an oil pipeline exploded in saudi arabia", "sentence2": "oil spikes on u.s. inventory data, saudi pipeline blast", "label": "for", "id": "test_61"}
+{"sentence1": "isis beheaded journalist james wright foley", "sentence2": "islamic state militants claim to have beheaded us journalist james wright foley", "label": "observing", "id": "test_62"}
+{"sentence1": "amazon will open its first physical store in ny this year", "sentence2": "amazon.com to open first physical store in manhattan: dj", "label": "observing", "id": "test_63"}
+{"sentence1": "artist banksy drew a cartoon about the charlie hebdo murders", "sentence2": "banksy instagram tribute to charlie hebdo victims not posted by artist", "label": "against", "id": "test_64"}
+{"sentence1": "the nigerian government and boko haram have reached a ceasefire agreement", "sentence2": "six months after abducting nigerian schoolgirls, boko haram reportedly wants to free them", "label": "observing", "id": "test_65"}
+{"sentence1": "taylor lianne chandler was born intersex", "sentence2": "michael phelps self-proclaimed girlfriend, 41, reveals she was born a male as she describes her amazing intimacy with olympic swimmer", "label": "for", "id": "test_66"}
+{"sentence1": "vogue magazine's new offices are infested with rats", "sentence2": "conde nast's rat problem at one world trade centre: from red carpets to rodent droppings", "label": "for", "id": "test_67"}
+{"sentence1": "apple will launch a 12 macbook air in 2015", "sentence2": "apple's new macbook will be a thinner, cleaner, faster 12-inch macbook air", "label": "for", "id": "test_68"}
+{"sentence1": "a crowd chopped off a man's penis after he was caught trying to rape a woman", "sentence2": "shocking: indian man's penis cut-off after he was caught attempting rape photos", "label": "for", "id": "test_69"}
+{"sentence1": "ibm will cut more than 110,000 jobs this week", "sentence2": "ibm plans massive layoffs of up to 110,000 workers: report", "label": "observing", "id": "test_70"}
+{"sentence1": "hbo now streaming subscription is coming to apple tv", "sentence2": "hbo now coming this spring for 15 per month, with apple as launch partner", "label": "for", "id": "test_71"}
+{"sentence1": "the apple watch will ship in march", "sentence2": "analyst confirms apple watch and 12-inch macbook air's q1 2015 launch", "label": "observing", "id": "test_72"}
+{"sentence1": "comcast is telling customers tor is illegal to use", "sentence2": "comcast declares war on tor?", "label": "observing", "id": "test_73"}
+{"sentence1": "apple will shutdown beats music", "sentence2": "apple plans to shut down beats music", "label": "for", "id": "test_74"}
+{"sentence1": "apple ceo tim cook changed the company's on-hold music", "sentence2": "tim cook makes change at apple after reading email from unhappy customer", "label": "for", "id": "test_75"}
+{"sentence1": "a 50-foot crab was photographed in the u.k.", "sentence2": "crabzilla", "label": "observing", "id": "test_76"}
+{"sentence1": "apple is considering the release of a platinum edition of the apple watch", "sentence2": "apple to take reservations for trying on apple watch, considered platinum model", "label": "for", "id": "test_77"}
+{"sentence1": "an alaska airlines plane was delayed when a scorpion stung a woman onboard", "sentence2": "scorpion stings flier on alaska airlines flight from l.a.", "label": "for", "id": "test_78"}
+{"sentence1": "american hostage kayla mueller was killed in a coalition bombing campaign against isis", "sentence2": "kayla jean mueller, u.s. hostage, killed in jordan airstrike, isis claims", "label": "observing", "id": "test_79"}
+{"sentence1": "isis captured a u.s. airdrop of weapons intended for kurdish fighters", "sentence2": "isis syria news: video shows us airdropped weapons and grenades captured by islamic state", "label": "observing", "id": "test_80"}
+{"sentence1": "isis fighter jihadi john was injured in an airstrike", "sentence2": "isis executioner jihadi john reported wounded in air strike uk investigating", "label": "observing", "id": "test_81"}
+{"sentence1": "the group behind the sony hack sent a message to company execs praising their decision to pull the interview", "sentence2": "hackers tell sony wise to cancel film, don't make more trouble -cnn", "label": "observing", "id": "test_82"}
+{"sentence1": "a n.y. high schooler earned 72 million in the stock market", "sentence2": "the story of the high school trader who made 72 million is a rumor spun out of control", "label": "observing", "id": "test_83"}
+{"sentence1": "the batmobile was stolen", "sentence2": "was the batmobile stolen in detroit?", "label": "observing", "id": "test_84"}
+{"sentence1": "a florida woman got a third breast", "sentence2": "woman has surgery to get third breast: the three most statistically unlikely pairs of boobs", "label": "for", "id": "test_85"}
+{"sentence1": "400 men were castrated on the orders of an indian spiritual guru", "sentence2": "court orders probe into complaints of forced castration in religious dera sect", "label": "observing", "id": "test_86"}
+{"sentence1": "israel caused flooding in gaza by opening river dams", "sentence2": "the flood libel propagandists of 2015", "label": "against", "id": "test_87"}
+{"sentence1": "north korea plans to open a restaurant in scotland", "sentence2": "north korean dictator kim jong-un to open restaurant in scotland", "label": "for", "id": "test_88"}
+{"sentence1": "apple removed from apple watch a sensor that would monitor blood-pressure", "sentence2": "apple tested and cut more advanced fitness sensors from the apple watch", "label": "for", "id": "test_89"}
+{"sentence1": "kim jong un is drinking cobra wine to help restore his virility", "sentence2": "snake wine to the rescue of kim jong-un's love life", "label": "for", "id": "test_90"}
+{"sentence1": "a woman cut off her husband's penis twice", "sentence2": "man in china recovering in hospital after wife chopped off his penis", "label": "for", "id": "test_91"}
+{"sentence1": "apple will launch a 12 macbook air in 2015", "sentence2": "new 12-inch macbook air slims down, has single usb port", "label": "observing", "id": "test_92"}
+{"sentence1": "a man was saved from a bear attack thanks to a justin bieber ringtone", "sentence2": "justin bieber scares off grizzly bear and saves fisherman from a mauling", "label": "for", "id": "test_93"}
+{"sentence1": "an abandoned dog was found at scottish railway station with a suitcase of his belongings", "sentence2": "search launched for dog's owner after pooch found dumped next to suitcase filled with belongings", "label": "for", "id": "test_94"}
+{"sentence1": "anonymous street artist banksy was arrested", "sentence2": "banksy not arrested: internet duped by fake report claiming artist's identity revealed", "label": "against", "id": "test_95"}
+{"sentence1": "a young boy's aunt chopped off his penis after he interrupted her in the bathroom", "sentence2": "china penis amputation: cruel aunt viciously mutilates toddler's genitals as punishment", "label": "for", "id": "test_96"}
+{"sentence1": "the attacker shot and killed on parliament hill is named michael zehaf-bibeau", "sentence2": "ottawa shooting: nathan cirillo named as dead soldier while suspect identified as michael zehaf-bibeau", "label": "for", "id": "test_97"}
+{"sentence1": "there's an audio recording of the michael brown shooting", "sentence2": "shots heard in alleged brown shooting recording audio", "label": "observing", "id": "test_98"}
+{"sentence1": "mob strips adulterous woman", "sentence2": "shocking moment shows adulteress stripped naked and beaten in busy shopping centre", "label": "for", "id": "test_99"}

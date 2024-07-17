@@ -1,0 +1,9 @@
+{
+    "name": "function_of_decision_section",
+    "task_type": "classification",
+    "options": ["Facts", "Procedural History", "Issue", "Rule", "Analysis", "Conclusion", "Decree"],
+    "instruction": "This task is to classify a paragraph extracted from a written decision into one of seven possible categories: Facts, Procedural History, Issue, Rule, Analysis, Conclusion, or Decree.",
+    "instruction_2": "Identify the category that best describes the paragraph from a written decision, choosing from Facts, Rule, Conclusion, Decree, Analysis, Issue, or Procedural History.",
+    "demonstration_prompt": "Input: {paragraph}\nLabel: {label}",
+    "inference_prompt": "Input: {paragraph}\nLabel:"
+}

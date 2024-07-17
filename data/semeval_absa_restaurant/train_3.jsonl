@@ -1,0 +1,80 @@
+{"text": "less <term> wait time </term> for me!", "term": "wait time", "label": "positive", "id": "train_3_0"}
+{"text": "After the <term> main course </term> came, we didn't see our waiter for at least 40 MINUTES!", "term": "main course", "label": "neutral", "id": "train_3_1"}
+{"text": "There is usually a <term> wait </term> but it is well worth it.", "term": "wait", "label": "conflict", "id": "train_3_2"}
+{"text": "The restaurant is dark and not very attractive and then you have <term> spot lights </term> shining on you putting you in the worst light possible, reaching for sunglasses.", "term": "spot lights", "label": "negative", "id": "train_3_3"}
+{"text": "The rest of the <term> menu </term> is limited by everything is good eats.", "term": "menu", "label": "conflict", "id": "train_3_4"}
+{"text": "Its not <term> curry </term> in a slurry crap, and regular run of the mill food.", "term": "curry", "label": "neutral", "id": "train_3_5"}
+{"text": "Where <term> tanks </term> in other Chinatown restaurants display a lurking myriad of sad-looking marine life in their murky waters, the tanks at Ping's are clear as glass with healthy-looking creatures who do not yet know that they will be part of some dim sum lover's brunch.", "term": "tanks", "label": "negative", "id": "train_3_6"}
+{"text": "I REALLY ENJOYED THE <term> SHOWS </term> PUT ON BY THE ACTORS.", "term": "SHOWS", "label": "positive", "id": "train_3_7"}
+{"text": "No gimmicks here -- the <term> food </term> speaks for itself in its freshness and preparation.", "term": "food", "label": "positive", "id": "train_3_8"}
+{"text": "Its worth the <term> wait </term> though.", "term": "wait", "label": "conflict", "id": "train_3_9"}
+{"text": "Been going here since it opened have seen the <term> quality value </term> decrease considerably.", "term": "quality value", "label": "negative", "id": "train_3_10"}
+{"text": "No one asked what was wrong as we left with nothing touched on our <term> plates </term>.", "term": "plates", "label": "neutral", "id": "train_3_11"}
+{"text": "You will pay a lot for the <term> decore </term>, but the food is no better or worse than a lot of other Chinese and Asian fusion places in NY.", "term": "decore", "label": "negative", "id": "train_3_12"}
+{"text": "Try the <term> lobster teriyaki </term> and the rose special roll.", "term": "lobster teriyaki", "label": "positive", "id": "train_3_13"}
+{"text": "The <term> table service </term> could have been a little more attentive but as someone who also works in the service industry, I understood they were busy.", "term": "table service", "label": "conflict", "id": "train_3_14"}
+{"text": "I stumbled upon this second floor walk-up two Fridays ago when I was with two friends in town from L.A. Being serious <term> sushi </term> lovers, we sat at the sushi bar to be closer to the action.", "term": "sushi", "label": "neutral", "id": "train_3_15"}
+{"text": "The <term> service </term> was attentive, yet unimposing, the food was far better than many notorious restaurants in Midtown and the wine list is extensive and well priced.", "term": "service", "label": "conflict", "id": "train_3_16"}
+{"text": "The <term> noise level </term> was unbearable, conversation impossible.", "term": "noise level", "label": "negative", "id": "train_3_17"}
+{"text": "I wasn't there for the <term> Half-Price Saturday Night Special </term>, but Tuesday Night.", "term": "Half-Price Saturday Night Special", "label": "neutral", "id": "train_3_18"}
+{"text": "They also have a <term> back garden </term> open in the summer - cute and French with outdoor seating - what more could you ask for?", "term": "back garden", "label": "positive", "id": "train_3_19"}
+{"text": "Instead of wasting your time here: SUPPORT RESTAURANTS THAT CARE ABOUT <term> FOOD </term>.", "term": "FOOD", "label": "neutral", "id": "train_3_20"}
+{"text": "<term> Delivery </term> is fast too.", "term": "Delivery", "label": "positive", "id": "train_3_21"}
+{"text": "I have been a longtime fan of Holy Basil in the East Village, and while I do believe their <term> food </term> has slightly slipped in quality, I have been hesitant to be disloyal.", "term": "food", "label": "negative", "id": "train_3_22"}
+{"text": "Their <term> bagels </term> are fine, but they are a little overcooked, and not really a 'special' bagel experience.", "term": "bagels", "label": "conflict", "id": "train_3_23"}
+{"text": "Reasonable <term> prices </term>.", "term": "prices", "label": "positive", "id": "train_3_24"}
+{"text": "VT is what <term> baby pizzas </term> hope to be when they grow up.", "term": "baby pizzas", "label": "neutral", "id": "train_3_25"}
+{"text": "Good, because hey, it's more food, but bad because <term> dim sum </term> is supposed to be smaller portions so you can try out more dishes and smaller so that each dish is cheap.", "term": "dim sum", "label": "negative", "id": "train_3_26"}
+{"text": "They should have called it <term> mascarpone with chocolate chip </term>s-good but a far cry from what the name implies.", "term": "mascarpone with chocolate chip", "label": "conflict", "id": "train_3_27"}
+{"text": "Forget the rush and the <term> wait </term> and the noise (which isn't actually that bad), I mean please, who goes to a steakhouse to be coddled and romantic?", "term": "wait", "label": "conflict", "id": "train_3_28"}
+{"text": "The <term> food </term> is great, service is ok.", "term": "food", "label": "positive", "id": "train_3_29"}
+{"text": "The second you walk through the heavy vault like <term> door </term>, with people anticipating your arrival you get the sense that you are going to have the dining ride of a lifetime.", "term": "door", "label": "neutral", "id": "train_3_30"}
+{"text": "While the $20 entree range is not overly expensive, in New York City, there is definitely better <term> food </term> in that range, and so Sapphire, despite it's lovely atmosphere, will most likely not be a restaurant to which I will return.", "term": "food", "label": "negative", "id": "train_3_31"}
+{"text": "With so many good restaurants on the UWS, I don't need overpriced <term> food </term>, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.", "term": "food", "label": "negative", "id": "train_3_32"}
+{"text": "The <term> food </term> is expensive, but worth every bite.", "term": "food", "label": "conflict", "id": "train_3_33"}
+{"text": "If presentation and <term> service </term> is your thing, then this magic show works.", "term": "service", "label": "positive", "id": "train_3_34"}
+{"text": "This <term> food </term> is asian-air fusion.", "term": "food", "label": "neutral", "id": "train_3_35"}
+{"text": "<term> Decor </term> is nice and minimalist, food simple yet very well presented and cooked, and the wine list matches the food very well.", "term": "Decor", "label": "positive", "id": "train_3_36"}
+{"text": "Unless you are eating in the Pizzeria side of this <term> place </term>, and are not in a rush, this place is a bad idea.", "term": "place", "label": "negative", "id": "train_3_37"}
+{"text": "The <term> service </term> is ok, some of the people didn't get what they asked for.", "term": "service", "label": "neutral", "id": "train_3_38"}
+{"text": "As far as the <term> service </term> goes, the waitresses were not particularly friendly, but they got the job done.", "term": "service", "label": "conflict", "id": "train_3_39"}
+{"text": "If you're looking for a place to sit down, have a <term> drink </term> and conversations with friends, go to sweet-n-tart and order yourself a hong-kong styled milk and tea with tapioca pearls (hot).", "term": "drink", "label": "neutral", "id": "train_3_40"}
+{"text": "I found the <term> food </term>, service and value exceptional everytime I have been there.", "term": "food", "label": "positive", "id": "train_3_41"}
+{"text": "those <term> rolls </term> were big, but not good and sashimi wasn't fresh.", "term": "rolls", "label": "conflict", "id": "train_3_42"}
+{"text": "I asked for an open faced cheese sandwich and the <term> manager </term> basically told me to take my business elsewhere!", "term": "manager", "label": "negative", "id": "train_3_43"}
+{"text": "Best <term> Italian food </term> I ever had (and being Italian, that means alot).", "term": "Italian food", "label": "positive", "id": "train_3_44"}
+{"text": "The <term> place </term> wasn't too hard to find, but it was kind of packed, as soon as my boyfriend and I got our food, the line reached the door.", "term": "place", "label": "conflict", "id": "train_3_45"}
+{"text": "My entree of <term> hot pot with seafood </term> was full of imitation crabmeat with a couple pieces of shrimp and squid, and was unnecessarily heated with a burner.", "term": "hot pot with seafood", "label": "negative", "id": "train_3_46"}
+{"text": "They wouldnt even let me finish my <term> glass of wine </term> before offering another.", "term": "glass of wine", "label": "neutral", "id": "train_3_47"}
+{"text": "We only ordered <term> desserts </term> and drinks, but no refills were offered.", "term": "desserts", "label": "neutral", "id": "train_3_48"}
+{"text": "For years, I thought <term> Tuscan cuisine </term> was the best, but Salvatore converted me to the hearty Neapolitan fare on my first visit.", "term": "Tuscan cuisine", "label": "conflict", "id": "train_3_49"}
+{"text": "The entire <term> place </term> and the treatment we received felt as a conveyor belt.", "term": "place", "label": "negative", "id": "train_3_50"}
+{"text": "After my 3rd time the <term> manager </term> remembered me and treated me like an usual customer.", "term": "manager", "label": "positive", "id": "train_3_51"}
+{"text": "While the <term> prices </term> are nothing special, the portions are huge.", "term": "prices", "label": "neutral", "id": "train_3_52"}
+{"text": "They had scrapped the bottom of the vessel in which they make the <term> rice </term> -RESULT - WE HAD LARGE CHUNKS OF BURNT RICE IN OUR SERVING BOWL.", "term": "rice", "label": "negative", "id": "train_3_53"}
+{"text": "An oasis of refinement:  <term> Food </term>, though somewhat uneven, often reaches the pinnacles of new American fine cuisine - chef's passion (and kitchen's precise execution) is most evident in the fish dishes and soups.", "term": "Food", "label": "conflict", "id": "train_3_54"}
+{"text": "<term> Decor </term> is nice though service can be spotty.", "term": "Decor", "label": "positive", "id": "train_3_55"}
+{"text": "The <term> service </term> does sometimes lack focus and it is not ideal if you are in a hurry but I have never been treated rudely.", "term": "service", "label": "conflict", "id": "train_3_56"}
+{"text": "As there were so many to choose from we wandered up and down the street looking in the windows and such noticicing many empty <term> seats </term> ,except at Taj Mahal.", "term": "seats", "label": "negative", "id": "train_3_57"}
+{"text": "I tend to judge a sushi restaurant by its <term> sea urchin </term>, which was heavenly at sushi rose.", "term": "sea urchin", "label": "positive", "id": "train_3_58"}
+{"text": "This is a consistently great place to dine for <term> lunch </term> or dinner.", "term": "lunch", "label": "neutral", "id": "train_3_59"}
+{"text": "Although be warned their dinner menu to sit and take out <term> prices </term> are different.", "term": "prices", "label": "neutral", "id": "train_3_60"}
+{"text": "Though the <term> Spider Roll </term> may look like a challenge to eat, with soft shell crab hanging out of the roll, it is well worth the price you pay for them.", "term": "Spider Roll", "label": "conflict", "id": "train_3_61"}
+{"text": "<term> Pizza </term> and garlic knots are great as well, I order from them quite often and the delivery is always super quick!", "term": "Pizza", "label": "positive", "id": "train_3_62"}
+{"text": "The <term> waitress </term>, seems to be more concerned of looking good than actually waitressing.", "term": "waitress", "label": "negative", "id": "train_3_63"}
+{"text": "The <term> pizza </term> is good though.", "term": "pizza", "label": "positive", "id": "train_3_64"}
+{"text": "Maybe I say so because it looked promising for people who like artery-clogging <term> jewish deli food </term>, but turns out to be poorly run and awful.", "term": "jewish deli food", "label": "conflict", "id": "train_3_65"}
+{"text": "I'm no <term> food </term> critic, but I'd like to think I have a tiny bit of experience under my belt having lived in NY for the last 11 years.", "term": "food", "label": "neutral", "id": "train_3_66"}
+{"text": "Stay away from the two specialty <term> rolls </term> on the menu, though- too much avocado and rice will fill you up right quick.", "term": "rolls", "label": "negative", "id": "train_3_67"}
+{"text": "The <term> food </term> is great and authentic.", "term": "food", "label": "positive", "id": "train_3_68"}
+{"text": "I have tried to make <term> reservations </term>, but both times, the hostess didn't have my name.", "term": "reservations", "label": "neutral", "id": "train_3_69"}
+{"text": "<term> Waiters </term> are slow but sweet.", "term": "Waiters", "label": "conflict", "id": "train_3_70"}
+{"text": "They pray to their Food Gods to make them into a good <term> pizza </term> like VT's.", "term": "pizza", "label": "negative", "id": "train_3_71"}
+{"text": "The <term> service </term> is a little scatty at times but all is forgiven when the food arrives.", "term": "service", "label": "negative", "id": "train_3_72"}
+{"text": "My suggestion is to eat family style because you'll want to try the other <term> dishes </term>.", "term": "dishes", "label": "neutral", "id": "train_3_73"}
+{"text": "very good <term> breads </term> as well.", "term": "breads", "label": "positive", "id": "train_3_74"}
+{"text": "My wife and I always enjoy the young, not always well trained but nevertheless friendly, <term> staff </term>, all of whom have a story.", "term": "staff", "label": "conflict", "id": "train_3_75"}
+{"text": "Going to Volare is like going to your favorite aunt's house for <term> dinner </term>, assuming that your aunt is a great Italian cook.", "term": "dinner", "label": "neutral", "id": "train_3_76"}
+{"text": "Granted the <term> space </term> is smaller than most, it is the best service you will find in even the largest of restaurants.", "term": "space", "label": "negative", "id": "train_3_77"}
+{"text": "<term> Service </term> was very prompt but slightly rushed.", "term": "Service", "label": "conflict", "id": "train_3_78"}
+{"text": "The <term> waiter </term> was attentive.", "term": "waiter", "label": "positive", "id": "train_3_79"}

@@ -1,0 +1,100 @@
+{"id": "test_0", "answer": "The competition was sabotaged.", "premise": "The man lost the competition.", "label": "cause"}
+{"id": "test_1", "answer": "I took deep breaths.", "premise": "I regained composure from my fit of anger.", "label": "cause"}
+{"id": "test_2", "answer": "She wanted to ask her friend for a favor.", "premise": "The woman lavished her friend with flattery.", "label": "cause"}
+{"id": "test_3", "answer": "He cut an onion.", "premise": "The cook's eyes watered.", "label": "cause"}
+{"id": "test_4", "answer": "It was the top of the hour.", "premise": "The clock chimed.", "label": "cause"}
+{"id": "test_5", "answer": "Their responses on the assignment were identical.", "premise": "The pair of students came under scrutiny by the teacher.", "label": "cause"}
+{"id": "test_6", "answer": "I brushed against poison ivy in my yard.", "premise": "My skin broke out into a rash.", "label": "cause"}
+{"id": "test_7", "answer": "The sun went down.", "premise": "The driver turned on the car's headlights.", "label": "cause"}
+{"id": "test_8", "answer": "The parking meter expired.", "premise": "The man received a parking ticket.", "label": "cause"}
+{"id": "test_9", "answer": "The branch moved downstream.", "premise": "The tree branch landed in the river.", "label": "effect"}
+{"id": "test_10", "answer": "She received her pension.", "premise": "The woman retired.", "label": "effect"}
+{"id": "test_11", "answer": "He ran over a nail.", "premise": "The driver got a flat tire.", "label": "cause"}
+{"id": "test_12", "answer": "The woman rejected him.", "premise": "The man confessed his love for the woman.", "label": "effect"}
+{"id": "test_13", "answer": "He scrapped his theory.", "premise": "The detective revealed an anomaly in the case.", "label": "effect"}
+{"id": "test_14", "answer": "A fly bit the horse.", "premise": "The horse bucked.", "label": "cause"}
+{"id": "test_15", "answer": "She told her friend to leave her alone.", "premise": "The woman was in a bad mood.", "label": "effect"}
+{"id": "test_16", "answer": "I stopped receiving new issues.", "premise": "My subscription to the magazine expired.", "label": "effect"}
+{"id": "test_17", "answer": "A deer appeared on the road.", "premise": "The driver slammed on his brakes.", "label": "cause"}
+{"id": "test_18", "answer": "The cook grilled it.", "premise": "The hamburger meat browned.", "label": "cause"}
+{"id": "test_19", "answer": "They offered me compensation.", "premise": "The airline mishandled my luggage.", "label": "effect"}
+{"id": "test_20", "answer": "She got her ears pierced.", "premise": "The girl wanted to wear earrings.", "label": "effect"}
+{"id": "test_21", "answer": "He promised his friend that he would go.", "premise": "The man felt obligated to attend the event.", "label": "cause"}
+{"id": "test_22", "answer": "Her father took away her dessert.", "premise": "The girl refused to eat her vegetables.", "label": "effect"}
+{"id": "test_23", "answer": "The student's phone rang.", "premise": "Everyone in the class turned to stare at the student.", "label": "cause"}
+{"id": "test_24", "answer": "I was sobbing.", "premise": "My eyes became red and puffy.", "label": "cause"}
+{"id": "test_25", "answer": "The pocket had a hole.", "premise": "The key was missing from my pants pocket.", "label": "cause"}
+{"id": "test_26", "answer": "His pocket was filled with coins.", "premise": "The man's pocket jingled as he walked.", "label": "cause"}
+{"id": "test_27", "answer": "A tall person was sitting in front of me.", "premise": "My view of the movie screen was blocked.", "label": "cause"}
+{"id": "test_28", "answer": "The legislature passed the bill.", "premise": "The lobbyist persuaded the legislature to support the bill.", "label": "effect"}
+{"id": "test_29", "answer": "I was tired in the morning.", "premise": "I stayed up late.", "label": "effect"}
+{"id": "test_30", "answer": "She called the wedding off.", "premise": "The bride got cold feet before the wedding.", "label": "effect"}
+{"id": "test_31", "answer": "Water flowed from the spout.", "premise": "The man turned on the faucet.", "label": "effect"}
+{"id": "test_32", "answer": "His friend got sick.", "premise": "The sick child coughed on his friend.", "label": "effect"}
+{"id": "test_33", "answer": "She pulled her hair back with a clip.", "premise": "The woman's hair fell in her face.", "label": "effect"}
+{"id": "test_34", "answer": "The man rolled the bowling ball down the alley.", "premise": "The bowling ball knocked over the bowling pins.", "label": "cause"}
+{"id": "test_35", "answer": "She sneezed.", "premise": "The woman covered her mouth with her hand.", "label": "cause"}
+{"id": "test_36", "answer": "He insulted her.", "premise": "The woman asked the man to leave.", "label": "cause"}
+{"id": "test_37", "answer": "He was excommunicated from the church.", "premise": "The man defied the authorities of the church.", "label": "effect"}
+{"id": "test_38", "answer": "They accepted ransom money.", "premise": "The kidnappers released the hostage.", "label": "cause"}
+{"id": "test_39", "answer": "His hair turned gray.", "premise": "The man grew old.", "label": "effect"}
+{"id": "test_40", "answer": "My face got sunburned.", "premise": "I spent the day at the pool.", "label": "effect"}
+{"id": "test_41", "answer": "They cut the hamburger in half.", "premise": "The friends decided to share the hamburger.", "label": "effect"}
+{"id": "test_42", "answer": "He became rich.", "premise": "The man won the lottery.", "label": "effect"}
+{"id": "test_43", "answer": "I turned his offer down.", "premise": "I doubted the salesman's pitch.", "label": "effect"}
+{"id": "test_44", "answer": "Environmentalists started a petition.", "premise": "Plans were announced to replace a local park with a shopping mall.", "label": "effect"}
+{"id": "test_45", "answer": "She lost her appetite.", "premise": "The girl found a bug in her cereal.", "label": "effect"}
+{"id": "test_46", "answer": "I went to a concert.", "premise": "My ears were ringing.", "label": "cause"}
+{"id": "test_47", "answer": "She committed assault.", "premise": "The woman was arrested.", "label": "cause"}
+{"id": "test_48", "answer": "I was preparing to clean the bathroom.", "premise": "I put rubber gloves on.", "label": "cause"}
+{"id": "test_49", "answer": "I shut off the light in the unoccupied room.", "premise": "I wanted to conserve energy.", "label": "effect"}
+{"id": "test_50", "answer": "Many citizens took refuge in other territories.", "premise": "Political violence broke out in the nation.", "label": "effect"}
+{"id": "test_51", "answer": "Photographers followed her.", "premise": "The woman became famous.", "label": "effect"}
+{"id": "test_52", "answer": "The teacher corrected her.", "premise": "The student misspelled the word.", "label": "effect"}
+{"id": "test_53", "answer": "They planned a wedding.", "premise": "The couple got engaged.", "label": "effect"}
+{"id": "test_54", "answer": "He left his assignment at home.", "premise": "The student was in a rush to get to school on time.", "label": "effect"}
+{"id": "test_55", "answer": "Leaves fell from the trees.", "premise": "The seasons changed from summer to autumn.", "label": "effect"}
+{"id": "test_56", "answer": "I inhaled smoke.", "premise": "I coughed.", "label": "cause"}
+{"id": "test_57", "answer": "The wagon wheels spun forward.", "premise": "I pushed the wagon.", "label": "effect"}
+{"id": "test_58", "answer": "He scheduled a meeting with an important client.", "premise": "The man dressed in his best suit.", "label": "cause"}
+{"id": "test_59", "answer": "I was expecting company.", "premise": "I tidied up my house.", "label": "cause"}
+{"id": "test_60", "answer": "They kissed.", "premise": "The couple was happy to see each other.", "label": "effect"}
+{"id": "test_61", "answer": "The courtroom broke into uproar.", "premise": "The judge pounded the gavel.", "label": "cause"}
+{"id": "test_62", "answer": "It stretched.", "premise": "I pulled the rubber band.", "label": "effect"}
+{"id": "test_63", "answer": "He ate a big lunch.", "premise": "The boy skipped dinner.", "label": "cause"}
+{"id": "test_64", "answer": "Her son fell out of his bed.", "premise": "The mother called an ambulance.", "label": "cause"}
+{"id": "test_65", "answer": "He had a headache the next day.", "premise": "The man drank heavily at the party.", "label": "effect"}
+{"id": "test_66", "answer": "I turned the key in the lock.", "premise": "The lock opened.", "label": "cause"}
+{"id": "test_67", "answer": "She broke her leg.", "premise": "The woman walked with crutches.", "label": "cause"}
+{"id": "test_68", "answer": "The students groaned.", "premise": "The teacher assigned homework to the students.", "label": "effect"}
+{"id": "test_69", "answer": "The children trampled through her garden.", "premise": "The woman banished the children from her property.", "label": "cause"}
+{"id": "test_70", "answer": "The journalist was intrigued by the humanitarian's work.", "premise": "The journalist wrote a biography about the humanitarian's life.", "label": "cause"}
+{"id": "test_71", "answer": "The stolen jewelry was returned to its owners.", "premise": "The jewelry thieves were caught.", "label": "effect"}
+{"id": "test_72", "answer": "A knock sounded at the door.", "premise": "The dog barked.", "label": "cause"}
+{"id": "test_73", "answer": "The egg cracked.", "premise": "The chef hit the egg on the side of the bowl.", "label": "effect"}
+{"id": "test_74", "answer": "The caller waited on the line.", "premise": "The secretary put the caller on hold.", "label": "effect"}
+{"id": "test_75", "answer": "He ran a marathon.", "premise": "The man fainted.", "label": "cause"}
+{"id": "test_76", "answer": "He was removed from office.", "premise": "The politician was convicted of fraud.", "label": "effect"}
+{"id": "test_77", "answer": "The woman planned to buy a condo.", "premise": "The woman contacted the real estate agent.", "label": "cause"}
+{"id": "test_78", "answer": "I bought a new one.", "premise": "The computer was expensive to fix.", "label": "effect"}
+{"id": "test_79", "answer": "He began attending school.", "premise": "The child learned how to read.", "label": "cause"}
+{"id": "test_80", "answer": "My handprint dried in the cement.", "premise": "I pressed my hand into the wet cement.", "label": "effect"}
+{"id": "test_81", "answer": "The forecast called for storms.", "premise": "I decided to stay home for the night.", "label": "cause"}
+{"id": "test_82", "answer": "Wax dripped off the candle.", "premise": "I lit the candle.", "label": "effect"}
+{"id": "test_83", "answer": "His obituary appeared in the newspaper.", "premise": "The community learned of the man's death.", "label": "cause"}
+{"id": "test_84", "answer": "She discovered the outcome of the election.", "premise": "The woman read the newspaper.", "label": "effect"}
+{"id": "test_85", "answer": "The soda fizzed.", "premise": "I twisted the cap off the soda bottle.", "label": "effect"}
+{"id": "test_86", "answer": "The soap rinsed off my hands.", "premise": "I put my hands under the running faucet.", "label": "effect"}
+{"id": "test_87", "answer": "She burned her finger on the toaster.", "premise": "The woman ran her finger under cold water.", "label": "cause"}
+{"id": "test_88", "answer": "They were looking for illegal drugs.", "premise": "The police searched the offender's car.", "label": "cause"}
+{"id": "test_89", "answer": "Their habitat was destroyed.", "premise": "The animal species became endangered.", "label": "cause"}
+{"id": "test_90", "answer": "My finger swelled.", "premise": "The ring on my finger got stuck.", "label": "cause"}
+{"id": "test_91", "answer": "I lost all my data.", "premise": "My computer crashed.", "label": "effect"}
+{"id": "test_92", "answer": "His brother took his toys from him.", "premise": "The boy threw a temper tantrum.", "label": "cause"}
+{"id": "test_93", "answer": "Her teammate threw it to her.", "premise": "The player caught the ball.", "label": "cause"}
+{"id": "test_94", "answer": "She believed her superiors were acting unethically.", "premise": "The woman resigned from her job.", "label": "cause"}
+{"id": "test_95", "answer": "She made up an excuse to tell the teacher.", "premise": "The student forgot to do her assignment.", "label": "effect"}
+{"id": "test_96", "answer": "They were retired.", "premise": "The couple travelled south for the winter.", "label": "cause"}
+{"id": "test_97", "answer": "The woman got her hair cut.", "premise": "The man perceived that the woman looked different.", "label": "cause"}
+{"id": "test_98", "answer": "I organized it.", "premise": "My closet was messy.", "label": "effect"}
+{"id": "test_99", "answer": "I blew on the wick.", "premise": "The flame on the candle went out.", "label": "cause"}

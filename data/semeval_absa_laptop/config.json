@@ -1,0 +1,9 @@
+{
+    "name": "semeval_absa_laptop",
+    "task_type": "classification",
+    "options": ["negative", "positive", "neutral", "conflict"],
+    "instruction": "Classify the sentiment expressed towards the specified term in the text as negative, positive, neutral, or conflict.",
+    "instruction_2": "Read the text and determine whether the emotion towards the term is neutral, positive, conflict, or negative.",
+    "demonstration_prompt": "Text: {text}\nTerm: {term}\nLabel: {label}",
+    "inference_prompt": "Text: {text}\nTerm: {term}\nLabel:"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "sick",
+    "task_type": "classification",
+    "options": ["entailment", "neutral", "contradiction"],
+    "instruction": "Classify whether the relation between sentence 1 and sentence 2 is entailment, neutral or contradiction.",
+    "instruction_2": "Assess the relationship between sentence 1 and sentence 2: is it contradiction, entailment, or neutral?",
+    "demonstration_prompt": "sentence 1: {sentence_A}\nsentence 2: {sentence_B}\nlabel: {label}",
+    "inference_prompt": "sentence 1: {sentence_A}\nsentence 2: {sentence_B}\nlabel:"
+}

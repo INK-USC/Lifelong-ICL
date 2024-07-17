@@ -1,0 +1,9 @@
+{
+    "name": "silicone_dyda_da",
+    "task_type": "classification",
+    "options": ["directive", "commissive", "inform", "question"],
+    "instruction": "Classify the intention of the utterance as directive, commissive, inform, or question.",
+    "instruction_2": "Determine the type of speech act represented by the utterance: question, inform, directive, or commissive.",
+    "demonstration_prompt": "Utterance: {text}\nLabel: {label}",
+    "inference_prompt": "Utterance: {text}\nLabel:"
+}

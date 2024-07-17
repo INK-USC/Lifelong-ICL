@@ -1,0 +1,9 @@
+{
+    "name": "sst5",
+    "task_type": "classification",
+    "options": ["very negative", "negative", "neutral", "positive", "extremely positive"],
+    "instruction": "Classify the sentiment of the movie review into very negative, negative, neutral, positive, or extremely positive.",
+    "instruction_2": "Assess the sentiment expressed in the movie review and categorize it as either extremely positive, positive, neutral, negative, or very negative.",
+    "demonstration_prompt": "Review: {text}\nSentiment: {label}",
+    "inference_prompt": "Review: {text}\nSentiment:"
+}

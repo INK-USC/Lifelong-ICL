@@ -1,0 +1,40 @@
+{"sentence": "Round may not refer to restraint consisting of a rope (or light chain) used to restrain an animal.", "label": "true", "id": "train_4_0"}
+{"sentence": "A glass or plastic vessel used for storing drinks or other liquids is not an appropriate definition of bottle in any context.", "label": "false", "id": "train_4_1"}
+{"sentence": "Place does never stand for a space reserved for sitting (as in a theater or on a train or airplane).", "label": "false", "id": "train_4_2"}
+{"sentence": "Agreement is never an appropriate hypernym of girl.", "label": "true", "id": "train_4_3"}
+{"sentence": "The basic rhythmic unit in a piece of music may not be an appropriate definition of worm in any context.", "label": "true", "id": "train_4_4"}
+{"sentence": "Not a single staircase is commonly a way of access (upward and downward) consisting of a set of steps.", "label": "false", "id": "train_4_5"}
+{"sentence": "Garage does not refer to an outbuilding (or part of a building) for housing automobiles.", "label": "false", "id": "train_4_6"}
+{"sentence": "Not a single pot may be the prevailing current of thought.", "label": "true", "id": "train_4_7"}
+{"sentence": "Lip does not refer to either of two fleshy folds of tissue that surround the mouth and play a role in speaking.", "label": "false", "id": "train_4_8"}
+{"sentence": "A steady even light without flames may not be an appropriate definition of chest.", "label": "true", "id": "train_4_9"}
+{"sentence": "A canvas is commonly a heavy, closely woven fabric (used for clothing or chairs or sails or tents).", "label": "true", "id": "train_4_10"}
+{"sentence": "Proportion does not refer to the quotient obtained when the magnitude of a part is divided by the magnitude of the whole.", "label": "false", "id": "train_4_11"}
+{"sentence": "Dialect may stand for the usage or vocabulary that is characteristic of a specific group of people.", "label": "true", "id": "train_4_12"}
+{"sentence": "A cafe may not be a small restaurant where drinks and snacks are sold.", "label": "false", "id": "train_4_13"}
+{"sentence": "No rubbish is the actors in a play.", "label": "true", "id": "train_4_14"}
+{"sentence": "A bar is commonly a diplomatic building where ambassadors live or work.", "label": "false", "id": "train_4_15"}
+{"sentence": "Harmony may not refer to someone who holds shares of stock in a corporation.", "label": "true", "id": "train_4_16"}
+{"sentence": "A bar may not be the body of individuals qualified to practice law in a particular jurisdiction.", "label": "false", "id": "train_4_17"}
+{"sentence": "Not a single election is commonly a vote to select the winner of a position or political office.", "label": "false", "id": "train_4_18"}
+{"sentence": "Pier commonly refers to a support for two adjacent bridge spans.", "label": "true", "id": "train_4_19"}
+{"sentence": "Accent does never refer to the usage or vocabulary that is characteristic of a specific group of people.", "label": "false", "id": "train_4_20"}
+{"sentence": "A beverage consisting of an infusion of ground coffee beans is an appropriate definition of coffee in certain contexts.", "label": "true", "id": "train_4_21"}
+{"sentence": "In no context an area in which something acts or operates or has power or control: \"the range of a supersonic jet\" is an appropriate definition of uncle.", "label": "true", "id": "train_4_22"}
+{"sentence": "A message expressing a belief about something is never an appropriate definition of view in any context.", "label": "false", "id": "train_4_23"}
+{"sentence": "Not a single extension is an addition that extends a main building.", "label": "false", "id": "train_4_24"}
+{"sentence": "A head is a friendship in no context.", "label": "true", "id": "train_4_25"}
+{"sentence": "Jewel never stands for a precious or semiprecious stone incorporated into a piece of jewelry.", "label": "false", "id": "train_4_26"}
+{"sentence": "An egg may be oval reproductive body of a fowl (especially a hen) used as food.", "label": "true", "id": "train_4_27"}
+{"sentence": "The most interesting or memorable part is not an appropriate definition of highlight in any context.", "label": "false", "id": "train_4_28"}
+{"sentence": "A shaft is not part of a train in any context.", "label": "true", "id": "train_4_29"}
+{"sentence": "The act of having and controlling property is never an appropriate definition of possession.", "label": "false", "id": "train_4_30"}
+{"sentence": "Claim may not stand for a community of people smaller than a town.", "label": "true", "id": "train_4_31"}
+{"sentence": "A list of words or phrases that explain symbols or abbreviations may be an appropriate definition of boom in certain contexts.", "label": "false", "id": "train_4_32"}
+{"sentence": "In no context an enlarged and muscular saclike organ of the alimentary canal is an appropriate definition of pen.", "label": "true", "id": "train_4_33"}
+{"sentence": "Deep orange edible root of the cultivated carrot plant is never an appropriate definition of entitlement.", "label": "true", "id": "train_4_34"}
+{"sentence": "Allowance does not stand for an amount allowed or granted (as during a given period).", "label": "false", "id": "train_4_35"}
+{"sentence": "The repetition of a sound resulting from reflection of the sound waves may not be an appropriate definition of echo in any context.", "label": "false", "id": "train_4_36"}
+{"sentence": "Contempt commonly refers to lack of respect accompanied by a feeling of intense dislike.", "label": "true", "id": "train_4_37"}
+{"sentence": "Stimulation does never refer to a genre of popular music that originated in New Orleans around 1900 and developed through increasingly complex styles.", "label": "true", "id": "train_4_38"}
+{"sentence": "A visible mark (as a footprint) left by the passage of person or animal or vehicle is never an appropriate definition of trace in any context.", "label": "false", "id": "train_4_39"}

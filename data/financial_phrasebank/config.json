@@ -1,0 +1,9 @@
+{
+    "name": "financial_phrasebank",
+    "task_type": "classification",
+    "options": ["neutral", "positive", "negative"],
+    "instruction": "Classify the sentiment of financial news sentence as neutral, positive, or negative.",
+    "instruction_2": "Assess the sentiment of the financial news sentence and determine if it is positive, negative, or neutral.",
+    "demonstration_prompt": "Sentence: {text}\nSentiment: {label}",
+    "inference_prompt": "Sentence: {text}\nSentiment:"
+}

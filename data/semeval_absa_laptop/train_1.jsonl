@@ -1,0 +1,80 @@
+{"text": "Not easy to <term> carry </term>.", "term": "carry", "label": "negative", "id": "train_1_0"}
+{"text": "If what you need is a machine to do some surfing, email checking, <term> word processing </term>, and watching a movie or two, this is the machine you want.", "term": "word processing", "label": "neutral", "id": "train_1_1"}
+{"text": "When we bought our new HP comouter in Dec. of 2008, we wanted <term> Windows XP </term>, but were told it would cost an extra $159, so we went with Vista.", "term": "Windows XP", "label": "conflict", "id": "train_1_2"}
+{"text": "It is easy to use, good <term> quality </term> and good price.", "term": "quality", "label": "positive", "id": "train_1_3"}
+{"text": "Anyway, in early July of this year, the <term> DVD burner </term> stopped working, and the computer stared having issues with power supply.", "term": "DVD burner", "label": "negative", "id": "train_1_4"}
+{"text": "The macbook rarely requires a <term> hard reboot </term>.", "term": "hard reboot", "label": "conflict", "id": "train_1_5"}
+{"text": "If <term> internet connectivity </term> is important I would recommend going with a dell net book for 50 bucks more, or buy a USB wireless card.", "term": "internet connectivity", "label": "neutral", "id": "train_1_6"}
+{"text": "the <term> features </term> are great, the only thing it needs is better speakers.", "term": "features", "label": "positive", "id": "train_1_7"}
+{"text": "Like the <term> price </term> and operation.", "term": "price", "label": "positive", "id": "train_1_8"}
+{"text": "Well, I started using <term> Google Chrome </term>, which is a little better, but it freezes too sometimes.", "term": "Google Chrome", "label": "conflict", "id": "train_1_9"}
+{"text": "It is known as <term> Safari </term>, and if you are doing any website work, you should know that many hosting companies do not support it.", "term": "Safari", "label": "neutral", "id": "train_1_10"}
+{"text": "For me, <term> keys </term> were starting to get stuck and wouldn't type very well.", "term": "keys", "label": "negative", "id": "train_1_11"}
+{"text": "HP said it was out of <term> warranty </term>.", "term": "warranty", "label": "neutral", "id": "train_1_12"}
+{"text": "<term> Screen </term> is a bit glossy, but that's not too bad.", "term": "Screen", "label": "conflict", "id": "train_1_13"}
+{"text": "After way too many times sending the thing in for repairs (<term> delivery service </term> was slow, and without the laptop I had no access to the internet, and thus no way of tracking it to find out when I might hope to see my computer again), it finally kicked the bucket after just over 2 years.", "term": "delivery service", "label": "negative", "id": "train_1_14"}
+{"text": "I had in the past a Dell laptop and they sent me the items it needed or they sent a <term> repair technician </term> to my house to fix it.", "term": "repair technician", "label": "positive", "id": "train_1_15"}
+{"text": "I use the computer to basically check emails, <term> surf the web </term>, print coupons and for my college papers.", "term": "surf the web", "label": "neutral", "id": "train_1_16"}
+{"text": "So then you may be lucky to get ahold to someone who understands that its no good and they will let you send it back, but of course you are taking a chance of them testing it out to see what has happened, and they tell you that it was not on their side , then you are stuck paying for the repair (the <term> price </term> of a new one).", "term": "price", "label": "negative", "id": "train_1_17"}
+{"text": "It is always reliable, never bugged and <term> responds </term> well.", "term": "responds", "label": "positive", "id": "train_1_18"}
+{"text": "It is a big big, but since it has a <term> 18.4\" screen </term> what would you expect!", "term": "18.4\" screen", "label": "conflict", "id": "train_1_19"}
+{"text": "The <term> keyboard </term> is top notch.", "term": "keyboard", "label": "positive", "id": "train_1_20"}
+{"text": "The Apple will run <term> Internet Explorer </term>, but at an amazingly slow rate.", "term": "Internet Explorer", "label": "conflict", "id": "train_1_21"}
+{"text": "It was slow, locked up, and also had <term> hardware </term> replaced after only 2 months!", "term": "hardware", "label": "negative", "id": "train_1_22"}
+{"text": "They sent out a <term> Sony 'Certified' technician </term>.", "term": "Sony 'Certified' technician", "label": "neutral", "id": "train_1_23"}
+{"text": "Oh and it has <term> word </term> and stuff but its a trial verion so after about a month or so when you go to open it it asks for a product key which didnt come with the computer and even after clicking cancel it wont let you use it at all I use the old word processer which works good.", "term": "word", "label": "conflict", "id": "train_1_24"}
+{"text": "The fact that you can spend over $100 on just a <term> webcam </term> underscores the value of this machine.", "term": "webcam", "label": "neutral", "id": "train_1_25"}
+{"text": "The brand of <term> iTunes </term> has just become ingrained in our lexicon now, but keep in mind that Apple started it all.", "term": "iTunes", "label": "positive", "id": "train_1_26"}
+{"text": "Info: <term> Windows </term> failed to load because the kernal is missing, or corrupt.", "term": "Windows", "label": "negative", "id": "train_1_27"}
+{"text": "I'm really impressed with the <term> quality </term> and performance for the price of the computer.", "term": "quality", "label": "positive", "id": "train_1_28"}
+{"text": "When I am next to my router on my HP I get <term> full service </term>, on my Eee PC I get 3 bars.", "term": "full service", "label": "conflict", "id": "train_1_29"}
+{"text": "in May I started having problems with the <term> USB ports </term> not working.", "term": "USB ports", "label": "negative", "id": "train_1_30"}
+{"text": "I hope to edit this in the next few hours, I am going to try to install my own copy of <term> Windows 7 </term>.", "term": "Windows 7", "label": "neutral", "id": "train_1_31"}
+{"text": "<term> Screen </term> is crystal clear, yes it's small - but it's a netbook!", "term": "Screen", "label": "conflict", "id": "train_1_32"}
+{"text": "The <term> price </term> is another driving influence that made me purchase this laptop.", "term": "price", "label": "positive", "id": "train_1_33"}
+{"text": "<term> Vista </term> is a nightmare.", "term": "Vista", "label": "negative", "id": "train_1_34"}
+{"text": "I also purchased <term> iWork </term> to go with it which has programs for word processing, spreadsheets, and presentations (similar to Microsoft Office).", "term": "iWork", "label": "neutral", "id": "train_1_35"}
+{"text": "The <term> right speaker </term> did not work.", "term": "right speaker", "label": "negative", "id": "train_1_36"}
+{"text": "Purchased for development purposes, but it has turned into my everyday laptop as well for <term> surfing </term>, e-mail, etc.", "term": "surfing", "label": "positive", "id": "train_1_37"}
+{"text": "Everything I have tried has worked and I never have to carry the <term> wall charger </term> cause the battery is so awesome.", "term": "wall charger", "label": "neutral", "id": "train_1_38"}
+{"text": "I bought it from HSN because it was \"bundled\" with extra <term> software </term>, but as it turns out, that software just crashes it more often.....", "term": "software", "label": "conflict", "id": "train_1_39"}
+{"text": "Now the machine won't connect and Toshiba says that they did replace the <term> connection card </term> in May but they only warranty the repair for 30 days and now I'm out of warranty even though this has been a constant 5 month occurance since I bought the netbook.", "term": "connection card", "label": "neutral", "id": "train_1_40"}
+{"text": "\u00a0THE <term> MOTHERBOARD </term> IS DEAD !", "term": "MOTHERBOARD", "label": "negative", "id": "train_1_41"}
+{"text": "The <term> OS </term> takes some getting used to especially after being a Windows user for so long but the learning curve is so worth it!", "term": "OS", "label": "conflict", "id": "train_1_42"}
+{"text": "Love the <term> speed </term>, especially!", "term": "speed", "label": "positive", "id": "train_1_43"}
+{"text": "You have to toss out the wifi card and replace it just to have any sort of <term> network capability </term>.", "term": "network capability", "label": "negative", "id": "train_1_44"}
+{"text": "The 4 <term> USB ports </term> are nice, but the two on the side only work now and then.", "term": "USB ports", "label": "conflict", "id": "train_1_45"}
+{"text": "The acer one computer that I bought is <term> 17 ince screen </term> and its hard to find lap top bags for it, but I like the big screen on it.", "term": "17 ince screen", "label": "neutral", "id": "train_1_46"}
+{"text": "Its fast, has <term> High definition quality </term> in the videos.", "term": "High definition quality", "label": "positive", "id": "train_1_47"}
+{"text": "I had to pay for the <term> shipping </term>!", "term": "shipping", "label": "negative", "id": "train_1_48"}
+{"text": "Overall, this laptop is definitely a keeper with its simple yet stylish <term> design </term> and its array of fantastic colors to choose from.", "term": "design", "label": "positive", "id": "train_1_49"}
+{"text": "I am not sure if it was the <term> drive </term> itself, however;", "term": "drive", "label": "neutral", "id": "train_1_50"}
+{"text": "But see the macbook pro is different because it may have a huge <term> price tag </term> but it comes with the full software that you would actually need and most of it has free future updates.", "term": "price tag", "label": "conflict", "id": "train_1_51"}
+{"text": "And the <term> screen </term> on this thing is absolutely amazing for high quality videos and movies and gaming.", "term": "screen", "label": "positive", "id": "train_1_52"}
+{"text": "The <term> keyboard </term>, which generally felt okay even for someone used to a desktop keyboard, now looks terrible.", "term": "keyboard", "label": "conflict", "id": "train_1_53"}
+{"text": "Also, the <term> space bar </term> makes a noisy click every time you use it.", "term": "space bar", "label": "negative", "id": "train_1_54"}
+{"text": "<term> Supplied software </term>: The software that comes with this machine is greatly welcomed compared to what Windows comes with.", "term": "Supplied software", "label": "neutral", "id": "train_1_55"}
+{"text": "I've been impressed with the <term> battery life </term> and the performance for such a small amount of memory.", "term": "battery life", "label": "positive", "id": "train_1_56"}
+{"text": "I wanted to purchase the <term> extended warranty </term> and they refused, because they knew it was trouble.", "term": "extended warranty", "label": "neutral", "id": "train_1_57"}
+{"text": "The <term> battery life </term> was supposed to be 6 hours, but even if I ran off the battery with the high effeciency setting the battery would only last me on average about 2.5 to 3 hours.", "term": "battery life", "label": "negative", "id": "train_1_58"}
+{"text": "<term> Speakers </term> don't get that loud, but good enough.", "term": "Speakers", "label": "conflict", "id": "train_1_59"}
+{"text": "<term> Skype </term> is just so dang cool with this machine too.", "term": "Skype", "label": "positive", "id": "train_1_60"}
+{"text": "It is speedy when connected wirelessly to any network regardless if the <term> connection </term> is weak or not.", "term": "connection", "label": "neutral", "id": "train_1_61"}
+{"text": "I will stack it up against laptops that <term> cost </term> twice as much any day.", "term": "cost", "label": "conflict", "id": "train_1_62"}
+{"text": "It is not ideal for children because of the <term> temp </term>.", "term": "temp", "label": "negative", "id": "train_1_63"}
+{"text": "Without a doubt, the *<term> design </term>* of this laptop is fantastic.", "term": "design", "label": "positive", "id": "train_1_64"}
+{"text": "It was still working, but there was nothing on the <term> screen </term>.", "term": "screen", "label": "negative", "id": "train_1_65"}
+{"text": "So I called Compaq, and after being on the phone for 3 hours, i finally got a replacement which I shouldn't have had a problem getting since it was under <term> warranty </term>.", "term": "warranty", "label": "neutral", "id": "train_1_66"}
+{"text": "The <term> screen </term> isn't huge, but that doesn't matter when I output media to the 50 inch LCD TV.", "term": "screen", "label": "conflict", "id": "train_1_67"}
+{"text": "Once I removed all the <term> software </term> the laptop loads in 15-20 seconds.", "term": "software", "label": "negative", "id": "train_1_68"}
+{"text": "The only thing I didn't learn in my research was the <term> software </term> I would need like privacy protection and warranty protection, in case it gets broken, or crashes etc.", "term": "software", "label": "neutral", "id": "train_1_69"}
+{"text": "The sheer <term> power </term> and flexibility makes the MacBook Pro a must have for any techie!", "term": "power", "label": "positive", "id": "train_1_70"}
+{"text": "Beta had better <term> quality </term>, but VHS became the industry standard.", "term": "quality", "label": "conflict", "id": "train_1_71"}
+{"text": "<term> Graphics </term> are clean and sharp, internet interfaces are seamless.", "term": "Graphics", "label": "positive", "id": "train_1_72"}
+{"text": "The <term> touchpad </term> is extremely sensitive, which is the only drawback.", "term": "touchpad", "label": "negative", "id": "train_1_73"}
+{"text": "Despite the inconvenient <term> weight </term>, I opted for the 12 cell battery.", "term": "weight", "label": "conflict", "id": "train_1_74"}
+{"text": "-<term> Bluetooth </term> (2.1), Fingerprint Reader, Full 1920x1080 screen -Integrated Mic/Webcam* -Dual touchpad mode is interesting, and easy to use -5 USB ports -Runs about 38-41C on idle, Up to 65 (for me) on load -Very quiet -I could go on and on.", "term": "Bluetooth", "label": "neutral", "id": "train_1_75"}
+{"text": "Even though it is much more expensive than many PC laptops, it is worth the <term> price </term>.", "term": "price", "label": "conflict", "id": "train_1_76"}
+{"text": "I was ready to take it back for a refund, but the <term> Geek Squad </term> camed through and pointed me in the right direction to get it fixed.", "term": "Geek Squad", "label": "positive", "id": "train_1_77"}
+{"text": "I have no idea how to burn cd's or to use the <term> web cam </term>, just for starters.", "term": "web cam", "label": "neutral", "id": "train_1_78"}
+{"text": "this is my second one and the same problem, bad <term> video card </term>  unreliable overall, this will be my second time returning this laptop back to best buy.", "term": "video card", "label": "negative", "id": "train_1_79"}

@@ -1,0 +1,9 @@
+{
+    "name": "rte",
+    "task_type": "classification",
+    "options": ["False", "True"],
+    "instruction": "Based on the passage, determine whether the answer to the question is True or False.",
+    "instruction_2": "Assess the passage to conclude if the answer to the question should be False or True.",
+    "demonstration_prompt": "{premise}\nquestion: {hypothesis} True or False?\nanswer: {label}",
+    "inference_prompt": "{premise}\nquestion: {hypothesis} True or False?\nanswer:"
+}

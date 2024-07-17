@@ -1,0 +1,9 @@
+{
+    "name": "liar",
+    "task_type": "classification",
+    "options": ["false", "half true", "mostly true", "true", "barely true", "pants fire"],
+    "instruction": "Classify the statement as false, half true, mostly true, true, barely true, or pants fire.",
+    "instruction_2": "Determine the truthfulness of the statement by categorizing it into: pants fire, false, half true, true, mostly true, barely true.",
+    "demonstration_prompt": "Statement: {text}\nLabel: {label}",
+    "inference_prompt": "Statement: {text}\nLabel:"
+}

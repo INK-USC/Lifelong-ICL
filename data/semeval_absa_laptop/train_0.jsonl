@@ -1,0 +1,80 @@
+{"text": "Is this partially due to the fact that it is running <term> Windows Vista </term>?", "term": "Windows Vista", "label": "neutral", "id": "train_0_0"}
+{"text": "Love that it doesn't take up <term> space </term> like a regular computer.", "term": "space", "label": "positive", "id": "train_0_1"}
+{"text": "Despite the inconvenient <term> weight </term>, I opted for the 12 cell battery.", "term": "weight", "label": "conflict", "id": "train_0_2"}
+{"text": "I wish the <term> volume </term> could be louder and the mouse didnt break after only a month.", "term": "volume", "label": "negative", "id": "train_0_3"}
+{"text": "Even though it is much more expensive than many PC laptops, it is worth the <term> price </term>.", "term": "price", "label": "conflict", "id": "train_0_4"}
+{"text": "I was looking too closely at the other <term> performance specs </term> and while comparing, I took it for granted that these features were standard.", "term": "performance specs", "label": "neutral", "id": "train_0_5"}
+{"text": "\u00a0 This process continued to repeat itself until the <term> mother board </term> had been replaced 4 times and the hard drive replaced 3 times.", "term": "mother board", "label": "negative", "id": "train_0_6"}
+{"text": "<term> Windows 7 Starter </term> is terrific (no you can't change the background) but I don't need to, I use it just for school work.", "term": "Windows 7 Starter", "label": "positive", "id": "train_0_7"}
+{"text": "The <term> screen </term> is huge and coloful, but no LED backlighting.", "term": "screen", "label": "positive", "id": "train_0_8"}
+{"text": "I don't use my laptop in a way though that needs a long <term> battery life </term> so it's perfect for me.", "term": "battery life", "label": "conflict", "id": "train_0_9"}
+{"text": "I would like at least a 4 hr. <term> battery life </term>.", "term": "battery life", "label": "neutral", "id": "train_0_10"}
+{"text": "\u00a0 Worse, for the <term> price </term> I could get a *netbook* that outperforms this machine.", "term": "price", "label": "negative", "id": "train_0_11"}
+{"text": "It's so much easier to navigate through the <term> operating system </term>, to find files, and it runs a lot faster!", "term": "operating system", "label": "positive", "id": "train_0_12"}
+{"text": "But when I received my replacement, I made BOTH <term> recovery DVDs </term> (4), and a driver/application DVD.", "term": "recovery DVDs", "label": "neutral", "id": "train_0_13"}
+{"text": "The machine is slow to <term> boot up </term> and occasionally crashes completely.", "term": "boot up", "label": "negative", "id": "train_0_14"}
+{"text": "It had a <term> seventeen inch screen </term> which I wanted, but I didn't realize at the time it would be such a monster!", "term": "seventeen inch screen", "label": "conflict", "id": "train_0_15"}
+{"text": "There is a <term> backlit keyboard </term> which is perfect for typing in the dark.", "term": "backlit keyboard", "label": "positive", "id": "train_0_16"}
+{"text": "Finally, I should note that I took the <term> 2GB RAM stick </term> from my old EeePC and installed it before I even powered on for the first time.", "term": "2GB RAM stick", "label": "neutral", "id": "train_0_17"}
+{"text": "While lacking some of the <term> functions </term> of the other versions, this was very acceptable for the uses planned for this computer.", "term": "functions", "label": "conflict", "id": "train_0_18"}
+{"text": "Needs longer lasting <term> battery </term>, More than 1 to 2 Hrs.", "term": "battery", "label": "negative", "id": "train_0_19"}
+{"text": "I am most impressed with the <term> programming </term>, including the iPhoto.", "term": "programming", "label": "positive", "id": "train_0_20"}
+{"text": "A longer <term> battery life </term> would have been great - but it meets it's spec quite easily.", "term": "battery life", "label": "conflict", "id": "train_0_21"}
+{"text": "That <term> system </term> is fixed.", "term": "system", "label": "neutral", "id": "train_0_22"}
+{"text": "It was hard to <term> handle </term> and operate at school.", "term": "handle", "label": "negative", "id": "train_0_23"}
+{"text": "Otherwise, all other <term> features </term> are a 1", "term": "features", "label": "neutral", "id": "train_0_24"}
+{"text": "Registration/1st <term> use </term> is easy.", "term": "use", "label": "positive", "id": "train_0_25"}
+{"text": "Microsoft seems to be unable to keep up with repairs for the multitude of <term> windows </term> problems.", "term": "windows", "label": "negative", "id": "train_0_26"}
+{"text": "It has no <term> camera </term> but, I can always buy and install one easy.", "term": "camera", "label": "conflict", "id": "train_0_27"}
+{"text": "Really like the textured <term> surface </term> which shows no fingerprints.", "term": "surface", "label": "positive", "id": "train_0_28"}
+{"text": "After a couple of years, my <term> battery life </term> began to diminish but was replaced for free due to a company-wide recall of my particular battery.", "term": "battery life", "label": "conflict", "id": "train_0_29"}
+{"text": "The <term> Internet Explorer </term> was very slow from the very beginning.", "term": "Internet Explorer", "label": "negative", "id": "train_0_30"}
+{"text": "After 2 months of complaints, Asus finally sent the right <term> power supply </term> to my techies.", "term": "power supply", "label": "neutral", "id": "train_0_31"}
+{"text": "the <term> mouse </term> is way way way to sensitve.", "term": "mouse", "label": "negative", "id": "train_0_32"}
+{"text": "When I got the computer back and realizwed it still was not correct HP told me it was out of <term> warranty </term> and now it was my problem.", "term": "warranty", "label": "neutral", "id": "train_0_33"}
+{"text": "Great pick for <term> portability </term> and affordability.", "term": "portability", "label": "positive", "id": "train_0_34"}
+{"text": "I know that ASUS is known for making <term> motherboards </term>, but this is the worst computer experience that I have ever had.", "term": "motherboards", "label": "conflict", "id": "train_0_35"}
+{"text": "I would like to use a different <term> operating system </term> altogether.", "term": "operating system", "label": "neutral", "id": "train_0_36"}
+{"text": "I wasn't really as concerned about <term> portability </term> (it's a very large laptop) but it's not hard to move around or take on a trip which was a pleasant surprise.", "term": "portability", "label": "conflict", "id": "train_0_37"}
+{"text": "HP is more interested in selling <term> extended warranties </term> (which cost more than the netbook new) then they are in helping or fixing.", "term": "extended warranties", "label": "negative", "id": "train_0_38"}
+{"text": "while the <term> keyboard </term> itself is alright, the plate around it is cheap plastic and makes a hollow sound when using the mouse command buttons.", "term": "keyboard", "label": "positive", "id": "train_0_39"}
+{"text": "With all the <term> programs </term> that came with it, such as iLife and iWork, I was set from the very beginning.", "term": "programs", "label": "neutral", "id": "train_0_40"}
+{"text": "Small enough to use on a long flight, Light enough to <term> carry </term> through airports and powerful enough to replace my desktop while on long business trips.", "term": "carry", "label": "positive", "id": "train_0_41"}
+{"text": "Sure it has the one touch keys but that was the best <term> feature </term> of the computer.", "term": "feature", "label": "conflict", "id": "train_0_42"}
+{"text": "the manufacturer's <term> warranty </term> only covers replacement/repair of parts.", "term": "warranty", "label": "negative", "id": "train_0_43"}
+{"text": "I will never complain about the <term> price </term> since I believe you get what you pay for and my MacBook Pro was worth every dollar.", "term": "price", "label": "conflict", "id": "train_0_44"}
+{"text": "This is the first time that I tried and owning a netbook although I have used 3 different laptops in the past 10 years, I find not much difference except of course for the <term> screen size </term>.", "term": "screen size", "label": "neutral", "id": "train_0_45"}
+{"text": "I love <term> WIndows 7 </term> which is a vast improvment over Vista.", "term": "WIndows 7", "label": "positive", "id": "train_0_46"}
+{"text": "Maybe this is virus related, maybe not, but the computer has locked up many times, and on two occasions, the <term> screen </term> has simply gone black.", "term": "screen", "label": "negative", "id": "train_0_47"}
+{"text": "Just keep in mind the <term> graphics </term> is not dedicated so loading the movie almost took a minute, but it ran fairly smooth for a non-dedicated graphics card.", "term": "graphics", "label": "conflict", "id": "train_0_48"}
+{"text": "Love the <term> stability </term> of the Mac software and operating system.", "term": "stability", "label": "positive", "id": "train_0_49"}
+{"text": "The tech guy then said the <term> service center </term> does not do 1-to-1 exchange and I have to direct my concern to the \"sales\" team, which is the retail shop which I bought my netbook from.", "term": "service center", "label": "negative", "id": "train_0_50"}
+{"text": "So, after Apple replaced the <term> hard drive </term> I enjoyed another 4 months of my new computer, until it froze this morning--completely.", "term": "hard drive", "label": "neutral", "id": "train_0_51"}
+{"text": "-<term> Touchpad </term> will take a bit of time to get used to.", "term": "Touchpad", "label": "neutral", "id": "train_0_52"}
+{"text": "-No backlit <term> keyboard </term>, but not an issue for me.", "term": "keyboard", "label": "conflict", "id": "train_0_53"}
+{"text": "I bought a <term> cordless mouse </term> for it, but don't always take it out;", "term": "cordless mouse", "label": "positive", "id": "train_0_54"}
+{"text": "One drawback I noticed was <term> sound quality via USB </term>.", "term": "sound quality via USB", "label": "negative", "id": "train_0_55"}
+{"text": "the <term> graphics </term> are awful and the wireless switch it at the top rather than the side which I am used to it being on the side.", "term": "graphics", "label": "negative", "id": "train_0_56"}
+{"text": "I love the <term> size </term>, keyboard, the functions.", "term": "size", "label": "positive", "id": "train_0_57"}
+{"text": "The <term> mouse </term> is a little bit different than what you're used to though- it has one big flat panel and one full bar (instead of two separate ones) to click with- but you get used to it quite quickly.", "term": "mouse", "label": "conflict", "id": "train_0_58"}
+{"text": "Obviously one of the most important <term> features </term> of any computer is the \"human interface.", "term": "features", "label": "neutral", "id": "train_0_59"}
+{"text": "The <term> video card </term> is great for media, and above average for gaming, but not a gamers first choice.", "term": "video card", "label": "conflict", "id": "train_0_60"}
+{"text": "The <term> screen </term> is framed by half- to a full-inch margin that is obviously unnecessary, reduces the screen size and increases the bulk.", "term": "screen", "label": "negative", "id": "train_0_61"}
+{"text": "( The <term> iBook backup </term> also uses a firewire connection).", "term": "iBook backup", "label": "neutral", "id": "train_0_62"}
+{"text": "My main reason to convert was the <term> imovie program </term>.", "term": "imovie program", "label": "positive", "id": "train_0_63"}
+{"text": "The difference is the Toshiba had a lot more <term> memory </term> and hard drive space.", "term": "memory", "label": "positive", "id": "train_0_64"}
+{"text": "I am not going to sit here and complain about it not having a <term> cd drive </term> and what not because it is a netbook, it is made to be compact and if you want all the other stuff get a laptop.", "term": "cd drive", "label": "conflict", "id": "train_0_65"}
+{"text": "It takes me approximately 3 tries to get to each site, then after closing the <term> browser </term> and reopening it it actually works.", "term": "browser", "label": "neutral", "id": "train_0_66"}
+{"text": "Then after 4 or so months the <term> charger </term> stopped working so I was forced to go out and buy new hardware just to keep this computer running.", "term": "charger", "label": "negative", "id": "train_0_67"}
+{"text": "Its ease of <term> use </term> and the top service from Apple- be it their phone assistance or bellying up to the genius bar- cannot be beat.", "term": "use", "label": "positive", "id": "train_0_68"}
+{"text": "I did have to replace the <term> battery </term> once, but that was only a couple months ago and it's been working perfect ever since.", "term": "battery", "label": "conflict", "id": "train_0_69"}
+{"text": "YOU WILL NOT BE ABLE TO TALK TO AN AMERICAN <term> WARRANTY SERVICE </term> IS OUT OF COUNTRY.", "term": "WARRANTY SERVICE", "label": "negative", "id": "train_0_70"}
+{"text": "Now when I order I did not go full scale for the <term> webcam </term> or full keyboard I wanted something for basics of being easy to carry when I use crutchs or wheelchair and with a backpack laptop bag.", "term": "webcam", "label": "neutral", "id": "train_0_71"}
+{"text": "Small <term> screen </term> somewhat limiting but great for travel.", "term": "screen", "label": "conflict", "id": "train_0_72"}
+{"text": "It is much faster than my desktop which is a <term> Core2 Quad </term> running at 2.83 GHz.", "term": "Core2 Quad", "label": "neutral", "id": "train_0_73"}
+{"text": "The <term> keyboard </term> is slick and quiet and not bulky like some other laptops I have had in the past.", "term": "keyboard", "label": "positive", "id": "train_0_74"}
+{"text": "Sure, the initial out of pocket <term> expense </term> is greater, but that should not dissuade anyone from the fact that these machines run like none other on the planet, and when I factor in all the money in that I wasted on Geek Squad and the latest patches to de-corrupt my infested PCs, it probably comes out about even anyhow.", "term": "expense", "label": "negative", "id": "train_0_75"}
+{"text": "I wish <term> iWork </term> or MS Office came with the Mac, but MS Office doesn't even come with most pc laptops.", "term": "iWork", "label": "negative", "id": "train_0_76"}
+{"text": "Crisp <term> screen </term>, great battery life, and plenty of storage.", "term": "screen", "label": "positive", "id": "train_0_77"}
+{"text": "There are several <term> programs </term> for school or office use (Pages, Numbers, Keynote, etc.), music (Garageband), photo management (Photo Booth, iPhoto), video-editing or movie-making (iMovie), etc.", "term": "programs", "label": "neutral", "id": "train_0_78"}
+{"text": "How Toshiba handles the <term> repair </term> seems to vary, some folks  indicate that they were charged for even an intial fix, others had the  repair done 5 times.", "term": "repair", "label": "conflict", "id": "train_0_79"}

@@ -1,0 +1,100 @@
+{"text": "sorry , i am not sure . can i take a message ?", "label": "directive", "id": "test_0"}
+{"text": "yes . i specialized in english secretary studies at college and that's one of the main parts of my present job .", "label": "inform", "id": "test_1"}
+{"text": "it happened at my house .", "label": "inform", "id": "test_2"}
+{"text": "he took the money and tried to get away .", "label": "inform", "id": "test_3"}
+{"text": "we waited until our one-year anniversary to go on our honeymoon to africa .", "label": "inform", "id": "test_4"}
+{"text": "that's why i came to your office today . we think for your model we - 506 $ 590 would be reasonable , because air conditioners of the same kind sold by other companies are usually about 579-649 .", "label": "directive", "id": "test_5"}
+{"text": "i don't want to miss my flight .", "label": "inform", "id": "test_6"}
+{"text": "you can audition music on line , and you can audition it off line after downloading it , so you needn't pay for it .", "label": "inform", "id": "test_7"}
+{"text": "okay . let me think about this .", "label": "inform", "id": "test_8"}
+{"text": "i should not be surprised , many customers have the same opinion . do you have any suggestion in mind ? our salesman told your secretary that the price could be negotiable .", "label": "question", "id": "test_9"}
+{"text": "why did you drag me into this ? i've spent a week salary .", "label": "question", "id": "test_10"}
+{"text": "only one . but i wanted to make sure i'd get it .", "label": "inform", "id": "test_11"}
+{"text": "hold it , mike . you won't accomplish anything by hollering at him , right ? you worked it all up till now . why not wait until you cool down a bit ?", "label": "directive", "id": "test_12"}
+{"text": "what \u2019 s the current interest rate ?", "label": "question", "id": "test_13"}
+{"text": "mmmm ... a photo i . d . i have my new jersey driver \u2019 s license . is that ok ?", "label": "directive", "id": "test_14"}
+{"text": "the first place you should go is the international center .", "label": "directive", "id": "test_15"}
+{"text": "i am calling to ask about the position of an usher .", "label": "directive", "id": "test_16"}
+{"text": "i don \u2019 t want you to be worried , but our son has some bad habits now . he says painful words everyday .", "label": "inform", "id": "test_17"}
+{"text": "i might just ! enjoy your stupid game !", "label": "inform", "id": "test_18"}
+{"text": "well.it doesn't go with your skirt . i think the color itself is fine though .", "label": "inform", "id": "test_19"}
+{"text": "is your wife with you ?", "label": "question", "id": "test_20"}
+{"text": "then you must know shen due and hao hongbo .", "label": "inform", "id": "test_21"}
+{"text": "ok . but just let me pick up a bottle of cooking wine and oil as we go by .", "label": "commissive", "id": "test_22"}
+{"text": "it actually costs less if you have a bus pass .", "label": "inform", "id": "test_23"}
+{"text": "thanks . now can i make the full deposit ?", "label": "directive", "id": "test_24"}
+{"text": "yes , of course . what's your telephone number ?", "label": "question", "id": "test_25"}
+{"text": "not yet , i pick it up tomorrow .", "label": "inform", "id": "test_26"}
+{"text": "i really didn \u2019 t , but i \u2019 m still excited .", "label": "inform", "id": "test_27"}
+{"text": "yes , it is . how many pieces of hand luggage do you have ?", "label": "question", "id": "test_28"}
+{"text": "did you get any honors or awards at your university ?", "label": "question", "id": "test_29"}
+{"text": "it's very nice . there are only four people , and those girls are very kind and friendly .", "label": "inform", "id": "test_30"}
+{"text": "sit down , please . maybe you have read the contract , but i want to give you the details again before you sign the contract . you must have a three-month internship .", "label": "directive", "id": "test_31"}
+{"text": "it is serious .", "label": "inform", "id": "test_32"}
+{"text": "i heard chinese medicine has a better lasting effect in cure .", "label": "inform", "id": "test_33"}
+{"text": "oh , no . none of that .", "label": "inform", "id": "test_34"}
+{"text": "see you around , carl .", "label": "inform", "id": "test_35"}
+{"text": "such a lovely girl . i hope my paul is lucky enough to find a girl like that someday !", "label": "inform", "id": "test_36"}
+{"text": "yeah , everyday . and there \u2019 s only one choice . all the other buses are going the other direction .", "label": "inform", "id": "test_37"}
+{"text": "did you lend him a lot of money ?", "label": "question", "id": "test_38"}
+{"text": "oh ... i'm such a newbie . but at least i'm sure i'll get that tennis racket .", "label": "inform", "id": "test_39"}
+{"text": "either way is good for me .", "label": "inform", "id": "test_40"}
+{"text": "no , we don't .", "label": "inform", "id": "test_41"}
+{"text": "which is more expensive ?", "label": "question", "id": "test_42"}
+{"text": "the baby was 8 pounds 6 ounces .", "label": "inform", "id": "test_43"}
+{"text": "congratulations . what did you do during the interview ?", "label": "question", "id": "test_44"}
+{"text": "i think pond's is the best .", "label": "commissive", "id": "test_45"}
+{"text": "first , put away your toys .", "label": "directive", "id": "test_46"}
+{"text": "listen to the music ? and who will cook dinner , will you ?", "label": "question", "id": "test_47"}
+{"text": "oh , well , would you look at that ! polarizing filters .", "label": "directive", "id": "test_48"}
+{"text": "well . please accept our sincere apologies , i'll be glad to change it for another one if you wish .", "label": "directive", "id": "test_49"}
+{"text": "it's a man-made wonder . i've seen it many times in textbooks and it's part of my dream to visit it .", "label": "inform", "id": "test_50"}
+{"text": "good morning , ruth . did i wake you up ?", "label": "question", "id": "test_51"}
+{"text": "you did a fabulous job with the selection . it's gorgeous .", "label": "inform", "id": "test_52"}
+{"text": "i want to travel .", "label": "inform", "id": "test_53"}
+{"text": "wow , that would be something to look forward to .", "label": "inform", "id": "test_54"}
+{"text": "but you could have saved money .", "label": "inform", "id": "test_55"}
+{"text": "are they from taiwan ?", "label": "question", "id": "test_56"}
+{"text": "just cats , but i don't think i was near any cats in the last couple of weeks .", "label": "inform", "id": "test_57"}
+{"text": "will our company have some recreational activities ?", "label": "question", "id": "test_58"}
+{"text": "i see , well , i think i \u2019 m more interested in a chequing account . i like to have easy access to my money .", "label": "directive", "id": "test_59"}
+{"text": "how much is the ticket ?", "label": "question", "id": "test_60"}
+{"text": "oh , yes . how do you do , miss wang ? sit down , please .", "label": "directive", "id": "test_61"}
+{"text": "wow , i didn \u2019 t know ! it always looks so cool and easy in the movies !", "label": "inform", "id": "test_62"}
+{"text": "excuse me , may i help you ?", "label": "question", "id": "test_63"}
+{"text": "sure thing , follow me . this here is the .", "label": "commissive", "id": "test_64"}
+{"text": "yelling doesn't do any good .", "label": "inform", "id": "test_65"}
+{"text": "do you want the truth ?", "label": "question", "id": "test_66"}
+{"text": "yeah , yeah . anyway ... i'm packed . are you ?", "label": "question", "id": "test_67"}
+{"text": "may i help you ?", "label": "question", "id": "test_68"}
+{"text": "but sunday is the same with saturday . if you don \u2019 t mind , that's ok .", "label": "commissive", "id": "test_69"}
+{"text": "but it will pose a risk to your health .", "label": "inform", "id": "test_70"}
+{"text": "how come it is slow as a snail today ?", "label": "question", "id": "test_71"}
+{"text": "unfortunately , i just can \u2019 t make it this time . i have to go straight home . it \u2019 s my second wedding anniversary , and we \u2019 re supposed to be having a big dinner susan would kill me if i missed it .", "label": "commissive", "id": "test_72"}
+{"text": "how can we develop a new brand image with no direction whatsoever ?", "label": "question", "id": "test_73"}
+{"text": "i think so , since i was in primary school . how long have you been interested in classical music .", "label": "inform", "id": "test_74"}
+{"text": "is there any way to find a roommate to share an apartment with ?", "label": "question", "id": "test_75"}
+{"text": "i knew everything would work out for you !", "label": "inform", "id": "test_76"}
+{"text": "what would you suggest ?", "label": "question", "id": "test_77"}
+{"text": "we'd like a non-smoking table , please .", "label": "directive", "id": "test_78"}
+{"text": "how do you stick to only those foods ?", "label": "question", "id": "test_79"}
+{"text": "so that we can sit down together and listen to some music .", "label": "directive", "id": "test_80"}
+{"text": "oh , it's really nice , but to tell the truth , that's far too expensive .", "label": "inform", "id": "test_81"}
+{"text": "do you see them a lot ?", "label": "question", "id": "test_82"}
+{"text": "please sign the memo on the bottom and keep your money and memo .", "label": "directive", "id": "test_83"}
+{"text": "i love it . it's so festive ! and where did you get that cup ? it's got the same logo .", "label": "question", "id": "test_84"}
+{"text": "i think there \u2019 s a western on .", "label": "inform", "id": "test_85"}
+{"text": "i wonder what he looks like . oh , i can't wait to see him ! his email said he'd be wearing a white hat.oh , there he is .", "label": "inform", "id": "test_86"}
+{"text": "hey , listen . i had every right to stay in the lane i was in.you were supposed to wait until i passed to pull out.and anyhow , you didn't give me any time to change lanes.all of a sudden--bang--there you are right in front of me .", "label": "inform", "id": "test_87"}
+{"text": "it's , area code 413 , 447-9626 .", "label": "inform", "id": "test_88"}
+{"text": "he won the decathlon in the 1976 olympics , right ?", "label": "question", "id": "test_89"}
+{"text": "we will be arriving on tuesday next week and staying for two days .", "label": "commissive", "id": "test_90"}
+{"text": "don \u2019 t be moody ! i hope you \u2019 re not tired , because we \u2019 ve been invited to a party this evening . i know how excited you get about parties .", "label": "inform", "id": "test_91"}
+{"text": "oh , sorry . do you know the number for a car store , then ?", "label": "question", "id": "test_92"}
+{"text": "sometimes , but these days i'm often too busy .", "label": "inform", "id": "test_93"}
+{"text": "they can't spell , they can't add , they can't subtract , they even don't remember any more . that's because they rely on gadgets .", "label": "inform", "id": "test_94"}
+{"text": "sorry , i didn't think it mattered .", "label": "inform", "id": "test_95"}
+{"text": "how much are they ?", "label": "question", "id": "test_96"}
+{"text": "what kind of juice do you prefer , sir ?", "label": "question", "id": "test_97"}
+{"text": "how about a training course ?", "label": "directive", "id": "test_98"}
+{"text": "yes , thank you .", "label": "inform", "id": "test_99"}

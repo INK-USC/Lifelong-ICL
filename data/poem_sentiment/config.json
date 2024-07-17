@@ -1,0 +1,9 @@
+{
+    "name": "poem_sentiment",
+    "task_type": "classification",
+    "options": ["no impact", "positive", "negative"],
+    "instruction": "Classify the sentiment of the given line of poetry as: no impact, positive, negative.",
+    "instruction_2": "Read the line of poetry and determine if the sentiment expressed is negative, positive, or no impact.",
+    "demonstration_prompt": "Poem line: {text}\nSentiment: {label}",
+    "inference_prompt": "Poem line: {text}\nSentiment:"
+}

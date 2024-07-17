@@ -1,0 +1,40 @@
+{"sentence1": "Joe's uncle can still beat him at tennis, even though he is 30 years older.", "sentence2": "Joe's uncle is 30 years older.", "label": "entailment", "id": 199}
+{"sentence1": "The city councilmen refused the demonstrators a permit because they advocated violence.", "sentence2": "The city councilmen advocated violence.", "label": "not entailment", "id": 404}
+{"sentence1": "Joan made sure to thank Susan for all the help she had given.", "sentence2": "Joan made sure to thank Susan for all the help Susan had given.", "label": "entailment", "id": 168}
+{"sentence1": "We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of them.", "sentence2": "There were simply not enough chairs.", "label": "not entailment", "id": 509}
+{"sentence1": "Lily spoke to Donna, breaking her silence.", "sentence2": "Lily spoke to Donna, breaking Donna's silence.", "label": "not entailment", "id": 606}
+{"sentence1": "John hired Bill to take care of him.", "sentence2": "John hired Bill to take care of John.", "label": "entailment", "id": 567}
+{"sentence1": "Dan took the rear seat while Bill claimed the front because his \"Dibs!\" was quicker.", "sentence2": "Dan took the rear seat while Bill claimed the front because Dan's \"Dibs!\" was quicker.", "label": "not entailment", "id": 217}
+{"sentence1": "I can't cut that tree down with that axe; it is too small.", "sentence2": "The axe is too small.", "label": "entailment", "id": 55}
+{"sentence1": "Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.", "sentence2": "The government official was less than 21 when he filed for a homestead claim.", "label": "not entailment", "id": 236}
+{"sentence1": "Many people start to read Paul's books and can't put them down. They are popular because Paul writes so well.", "sentence2": "Paul's books are popular because Paul writes so well.", "label": "entailment", "id": 373}
+{"sentence1": "John couldn't see the stage with Billy in front of him because he is so short.", "sentence2": "Billy is so short.", "label": "not entailment", "id": 379}
+{"sentence1": "Emma did not pass the ball to Janie although she saw that she was open.", "sentence2": "Emma saw that she was open.", "label": "entailment", "id": 98}
+{"sentence1": "Susan knew that Ann's son had been in a car accident, because she told her about it.", "sentence2": "Ann told her about it.", "label": "entailment", "id": 423}
+{"sentence1": "The politicians far away in Washington could not know the settlers so they must make rules to regulate them.", "sentence2": "They must make rules to regular the politicians.", "label": "not entailment", "id": 64}
+{"sentence1": "Of one thing Mark was sure. Harry knew much less than he did.", "sentence2": "Harry knew much less than Harry did.", "label": "not entailment", "id": 219}
+{"sentence1": "Pete envies Martin although he is very successful.", "sentence2": "Pete is very successful.", "label": "entailment", "id": 489}
+{"sentence1": "The delivery truck zoomed by the school bus because it was going so fast.", "sentence2": "The school bus was going so fast.", "label": "not entailment", "id": 140}
+{"sentence1": "I took the water bottle out of the backpack so that it would be handy.", "sentence2": "I took the water bottle out of the backpack so that the water bottle would be handy.", "label": "entailment", "id": 230}
+{"sentence1": "Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.", "sentence2": "It was bad enough that the faces had to be denied so many things because he couldn't afford them.", "label": "not entailment", "id": 151}
+{"sentence1": "The fish ate the worm. It was hungry.", "sentence2": "The fish was hungry.", "label": "entailment", "id": 412}
+{"sentence1": "Fred watched TV while George went out to buy groceries. After an hour he got up.", "sentence2": "Fred got up.", "label": "entailment", "id": 562}
+{"sentence1": "John promised Bill to leave, so an hour later he left.", "sentence2": "Bill left.", "label": "not entailment", "id": 46}
+{"sentence1": "Sara borrowed the book from the library because she needs it for an article she is working on. She writes it when she gets home from work.", "sentence2": "She writes the article when she gets home from work.", "label": "entailment", "id": 406}
+{"sentence1": "The man couldn't lift his son because he was so weak.", "sentence2": "The son was so weak.", "label": "not entailment", "id": 135}
+{"sentence1": "The sculpture rolled off the shelf because it wasn't level.", "sentence2": "The shelf wasn't level.", "label": "entailment", "id": 626}
+{"sentence1": "I'm sure that my map will show this building; it is very good.", "sentence2": "The building is very good.", "label": "not entailment", "id": 395}
+{"sentence1": "The woman held the girl against her will.", "sentence2": "The woman held the girl against the girl's will.", "label": "entailment", "id": 587}
+{"sentence1": "Many people start to read Paul's books and can't put them down. They are gripped because Paul writes so well.", "sentence2": "Paul's books are gripped because Paul writes so well.", "label": "not entailment", "id": 454}
+{"sentence1": "Carol believed that Rebecca regretted that she had stolen the watch.", "sentence2": "Carol believed that Rebecca regretted that Carol had stolen the watch.", "label": "not entailment", "id": 470}
+{"sentence1": "This book introduced Shakespeare to Goethe; it was a major influence on his writing.", "sentence2": "It was a major influence on Goethe's writing.", "label": "entailment", "id": 377}
+{"sentence1": "Sam pulled up a chair to the piano, but it was broken, so he had to sing instead.", "sentence2": "The piano was broken, so he had to sing instead.", "label": "entailment", "id": 176}
+{"sentence1": "I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of coffee.", "sentence2": "The coffee got full of coffee.", "label": "not entailment", "id": 284}
+{"sentence1": "Frank felt crushed when his longtime rival Bill revealed that he was the winner of the competition.", "sentence2": "Bill was the winner of the competition.", "label": "entailment", "id": 357}
+{"sentence1": "By rolling over in her upper berth, Tatyana could look over the edge of it and see her mother plainly. How very small and straight and rigid she lay in the bunk below! Her eyes were closed, but Tatyana doubted if she slept.", "sentence2": "How very small and straight and rigid Tatyana lay in the bunk below!", "label": "not entailment", "id": 539}
+{"sentence1": "The large ball crashed right through the table because it was made of steel.", "sentence2": "The table was made of steel.", "label": "not entailment", "id": 252}
+{"sentence1": "This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked it down.", "sentence2": "This afternoon the wind knocked The flag down.", "label": "entailment", "id": 315}
+{"sentence1": "Sid explained his theory to Mark but he couldn't convince him.", "sentence2": "Sid couldn't convince him.", "label": "entailment", "id": 193}
+{"sentence1": "The lawyer asked the witness a question, but he was reluctant to repeat it.", "sentence2": "The witness was reluctant to repeat it.", "label": "not entailment", "id": 487}
+{"sentence1": "I couldn't put the pot on the shelf because it was too tall.", "sentence2": "The shelf was too tall.", "label": "not entailment", "id": 244}
+{"sentence1": "Mary took out her flute and played one of her favorite pieces. She has had it since she was a child.", "sentence2": "She has had the flute since she was a child.", "label": "entailment", "id": 302}

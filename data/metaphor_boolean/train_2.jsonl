@@ -1,0 +1,40 @@
+{"id": "train_2_0", "text": "He pleaded for her forgiveness but Janet was a statue.", "explanation": " He pleaded for her forgiveness and Janet forgave hi.", "label": "false"}
+{"id": "train_2_1", "text": " I am the good shepherd \u2026 and I lay down my life for the sheep.", "explanation": "I am a nice person and I sacrifice for others.", "label": "true"}
+{"id": "train_2_2", "text": "she cut him down with her words.", "explanation": " she cheered him up with her word.", "label": "false"}
+{"id": "train_2_3", "text": "The work would have been easier if I had an extra pair of hands.", "explanation": "The work would have been easier if I had another worker.", "label": "true"}
+{"id": "train_2_4", "text": "Allister drinks Bordeaux often.", "explanation": "Allister drinks the wine from Bordeaux often.", "label": "true"}
+{"id": "train_2_5", "text": "David\u2019s eyes were like daggers at Paul when Paul invited his new girlfriend to dance.", "explanation": " David\u2019s eyes resembled the shape of daggers when Paul invited his new girlfriend to dance.", "label": "false"}
+{"id": "train_2_6", "text": "Andrew's emails were beating a dead horse.", "explanation": "Andrew's emails had no success.", "label": "true"}
+{"id": "train_2_7", "text": "I was staring straight into the shining sun.", "explanation": " I was trying to stud.", "label": "false"}
+{"id": "train_2_8", "text": "He kept us in the dark about his plans.", "explanation": "He did not disclose his plans to us.", "label": "true"}
+{"id": "train_2_9", "text": "Alex leaked the process.", "explanation": "Alex dripped the process.", "label": "false"}
+{"id": "train_2_10", "text": "How can we build a \u2019Global economy\u2019 if finance is handcuffed?.", "explanation": "How can we build a \u2019Global economy\u2019 if finance is restricted.", "label": "true"}
+{"id": "train_2_11", "text": "The soldiers were devils.", "explanation": " The soldiers were peaceful and reassuring.", "label": "false"}
+{"id": "train_2_12", "text": "There were dark corners in his past things he didn't like to remember.", "explanation": " There were reassuring elements in his past things he didn't like to remember.", "label": "false"}
+{"id": "train_2_13", "text": "The warrior was a lion on the battlefield.", "explanation": "The warrior was brave and strong on the battlefield.", "label": "true"}
+{"id": "train_2_14", "text": "The war devoured so many lives.", "explanation": " So many people were killed in the war.", "label": "true"}
+{"id": "train_2_15", "text": "She was the light of my life.", "explanation": " she made it possible to see the road by nigh.", "label": "false"}
+{"id": "train_2_16", "text": "I never won an argument with him.", "explanation": " I never managed to prevail in an argument with hi.", "label": "true"}
+{"id": "train_2_17", "text": "The show was characterised by dark humor and satire.", "explanation": " The show was characterised by light humor and satir.", "label": "false"}
+{"id": "train_2_18", "text": "The computer in the classroom was a dinosaur.", "explanation": " The computer in the classroom was very ol.", "label": "true"}
+{"id": "train_2_19", "text": "The animal shakes its tail in the air like a whip.", "explanation": " The animal shakes in the air.", "label": "false"}
+{"id": "train_2_20", "text": "Those galaxies were jellyfishes in the abyss of space.", "explanation": " Those galaxies were black in the darkness of space.", "label": "false"}
+{"id": "train_2_21", "text": "The wind howled; the waves dashed their bucklers together - we were in the jaws of death.", "explanation": " The wind roared; the waves collided - we were risking our lives.", "label": "true"}
+{"id": "train_2_22", "text": "The news inflamed your temper.", "explanation": " The news was on fire and in flames.", "label": "false"}
+{"id": "train_2_23", "text": "And now they were leaking all kinds of documents.", "explanation": " And now all kinds of documents were being disclose.", "label": "true"}
+{"id": "train_2_24", "text": "The faculty meeting was a nightmare.", "explanation": "The faculty meeting was calm and relaxing.", "label": "false"}
+{"id": "train_2_25", "text": "I was alone in a sea of unknown faces.", "explanation": " I was alone in a large number of unknown face.", "label": "true"}
+{"id": "train_2_26", "text": "He was living in his dream world  shutting his eyes in front of reality.", "explanation": " He was living on his own and when he slept he used to drea.", "label": "false"}
+{"id": "train_2_27", "text": "He always had an interest for the fruit of knowledge.", "explanation": " He always had an interest for the benefits of knowledg.", "label": "true"}
+{"id": "train_2_28", "text": "life is just a dream in the night.", "explanation": " life is just a delusion  something illusor.", "label": "true"}
+{"id": "train_2_29", "text": "She knew she was burning in shame.", "explanation": "She knew she was feeling calm.", "label": "false"}
+{"id": "train_2_30", "text": "He felt a dark sexual desire.", "explanation": " He had a dark fear of sexual desir.", "label": "false"}
+{"id": "train_2_31", "text": "The house was a tomb.", "explanation": " The house was silent.", "label": "true"}
+{"id": "train_2_32", "text": "Jane knew these dicsussions were the seeds of a potential conflict.", "explanation": "Jane knew these discussions were the end of a potential conflict.", "label": "false"}
+{"id": "train_2_33", "text": "Josh played Bach.", "explanation": "Josh played the composer Bach's music.", "label": "true"}
+{"id": "train_2_34", "text": "You'd better keep away from Bill today because he's in a black mood.", "explanation": " You'd better keep away from Bill today because he's angry and sad.", "label": "true"}
+{"id": "train_2_35", "text": "Ahab was a pyramid but I kept kicking at him.", "explanation": " Ahab was a tomb and I kept hitting him.", "label": "false"}
+{"id": "train_2_36", "text": "She was the light of my life.", "explanation": " She brought depression and dissatisfaction into my life.", "label": "false"}
+{"id": "train_2_37", "text": "Their honey moon was a dream.", "explanation": " They highly enjoyed their honey moo.", "label": "true"}
+{"id": "train_2_38", "text": "The weeks crawled by until we could meet again.", "explanation": "The weeks seemed to pass slowly until we could meet again.", "label": "true"}
+{"id": "train_2_39", "text": "The iron in the tail of the animal was a restless needle.", "explanation": " The iron in the tail of the animal was thick and large.", "label": "false"}

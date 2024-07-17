@@ -1,0 +1,9 @@
+{
+    "name": "rotten_tomatoes",
+    "task_type": "classification",
+    "options": ["positive", "negative"],
+    "instruction": "Classify the sentiment of an English movie review as positive or negative.",
+    "instruction_2": "Determine if an English movie review expresses a negative or positive sentiment.",
+    "demonstration_prompt": "Movie review: {text}\nEmotion: {label}",
+    "inference_prompt": "Movie review: {text}\nEmotion:"
+}

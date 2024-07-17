@@ -1,0 +1,9 @@
+{
+    "name": "amazon_counterfactual_en",
+    "task_type": "classification",
+    "options": ["counterfactual", "not counterfactual"],
+    "instruction": "Counterfactual statements describe events that did not or cannot take place. Classify the statement as counterfactual or not counterfactual.",
+    "instruction_2": "A counterfactual statement represents a hypothetical scenario, which did not or cannot happen. Determine whether the statement is not counterfactual or counterfactual.",
+    "demonstration_prompt": "Statement: {text}\nLabel: {label}",
+    "inference_prompt": "Statement: {text}\nLabel:"
+}

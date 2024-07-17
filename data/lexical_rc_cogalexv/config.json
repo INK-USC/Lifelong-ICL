@@ -1,0 +1,9 @@
+{
+    "name": "lexical_rc_cogalexv",
+    "task_type": "classification",
+    "options": ["unrelated", "hypernym", "antonym", "meronym", "synonym"],
+    "instruction": "Determine whether the relationship between the head term and the tail term is hypernym, antonym, meronym, synonym, or unrelated.",
+    "instruction_2": "Classify the type of relation between the head term and the tail term as: synonym, antonym, hypernym, meronym, or unrelated.",
+    "demonstration_prompt": "head term: {head}\ntail term: {tail}\nrelation: {label}",
+    "inference_prompt": "head term: {head}\ntail term: {tail}\nrelation:"
+}

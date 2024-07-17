@@ -1,0 +1,9 @@
+{
+    "name": "news_data",
+    "task_type": "classification",
+    "options": ["sports", "entertainment", "business", "politics", "tech", "health"],
+    "instruction": "Examine the title and excerpt of the news and classify it into sports, entertainment, business, politics, tech, or health.",
+    "instruction_2": "Analyze the title and excerpt to determine which category best describes the news article: sports, tech, health, business, politics, or entertainment.",
+    "demonstration_prompt": "Title: {title}\nExcerpt: {excerpt}\nLabel: {label}.",
+    "inference_prompt": "Title: {title}\nExcerpt: {excerpt}\nLabel:"
+}

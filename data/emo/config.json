@@ -1,0 +1,9 @@
+{
+    "name": "emo",
+    "task_type": "classification",
+    "options": ["others", "happy", "sad", "angry"],
+    "instruction": "Classify the emotion of an utterance into happy, sad, angry, and others.",
+    "instruction_2": "Identify which of these emotions is expressed in an utterance: sad, happy, angry, and others.",
+    "demonstration_prompt": "Utterance: {text}\nEmotion: {label}",
+    "inference_prompt": "Utterance: {text}\nEmotion:"
+}

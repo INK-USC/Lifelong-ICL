@@ -1,0 +1,60 @@
+{"id": "train_2_0", "text": "Roy Whiting is a killer that has been convicted.", "label": "supported"}
+{"id": "train_2_1", "text": "The 2017 film The Mummy was completely written by both David Koepp and Christopher McQuarrie.", "label": "refuted"}
+{"id": "train_2_2", "text": "David Arquette was in In Case of Emergency which was panned.", "label": "not enough info"}
+{"id": "train_2_3", "text": "Farrah Fawcett acted in The Atheist.", "label": "not enough info"}
+{"id": "train_2_4", "text": "Socrates was a founder of philosophy.", "label": "supported"}
+{"id": "train_2_5", "text": "Eddie Vedder is best known as a member of the Russian left.", "label": "refuted"}
+{"id": "train_2_6", "text": "The Ten Commandments are a set of biblical laws.", "label": "supported"}
+{"id": "train_2_7", "text": "IZombie is owned by The CW since season 2.", "label": "not enough info"}
+{"id": "train_2_8", "text": "Alicia Keys made her film debut in Shrek.", "label": "refuted"}
+{"id": "train_2_9", "text": "Shia LaBeouf was in a cult.", "label": "not enough info"}
+{"id": "train_2_10", "text": "Kevin James was the only person ever to voice act in Hotel Transylvania 2.", "label": "refuted"}
+{"id": "train_2_11", "text": "The 2014 WTA Finals was the doubles tennis competition's 39th edition.", "label": "supported"}
+{"id": "train_2_12", "text": "Tori Kelly was born in 1993.", "label": "refuted"}
+{"id": "train_2_13", "text": "The Murder of Roger Ackroyd is a work of science fiction.", "label": "not enough info"}
+{"id": "train_2_14", "text": "Chet Atkins produced music for Floyd Cramer.", "label": "supported"}
+{"id": "train_2_15", "text": "The Jackson family included American people born in the 1950s and 1960s.", "label": "supported"}
+{"id": "train_2_16", "text": "Beautiful is an Australian film exclusively.", "label": "refuted"}
+{"id": "train_2_17", "text": "Nosedive is a review of Black Mirror.", "label": "not enough info"}
+{"id": "train_2_18", "text": "Rogue is a political cartoon.", "label": "not enough info"}
+{"id": "train_2_19", "text": "Jessica Chastain was not in a science fiction film.", "label": "refuted"}
+{"id": "train_2_20", "text": "Kapil Sharma hosted a television comedy pillow Comedy Nights with Kapil from 2013 to 2016.", "label": "supported"}
+{"id": "train_2_21", "text": "Patrick Bateman has murdered at least three people.", "label": "supported"}
+{"id": "train_2_22", "text": "Prison Break has four seasons between 2005 and 2009 and another in 2017.", "label": "not enough info"}
+{"id": "train_2_23", "text": "Alex Rodriguez's career ended after 17 years.", "label": "refuted"}
+{"id": "train_2_24", "text": "Willie Nelson has an audiobook called Honeysuckle Rose.", "label": "refuted"}
+{"id": "train_2_25", "text": "Seattle became a center for car manufacturing.", "label": "not enough info"}
+{"id": "train_2_26", "text": "In Her Shoes was based on Jennifer Weiner's novel of the same name.", "label": "supported"}
+{"id": "train_2_27", "text": "Maisie Williams was born on Sunday April 15th, 1997.", "label": "supported"}
+{"id": "train_2_28", "text": "Braveheart won an Academy Award for Best Picture in 1985.", "label": "refuted"}
+{"id": "train_2_29", "text": "The President of Iraq is limited to creating law.", "label": "not enough info"}
+{"id": "train_2_30", "text": "Lightning Point was filmed in Japan.", "label": "refuted"}
+{"id": "train_2_31", "text": "Maynard James Keenan formed A Perfect Night.", "label": "not enough info"}
+{"id": "train_2_32", "text": "Alec Sokolow produced a fantasy film.", "label": "supported"}
+{"id": "train_2_33", "text": "Natalie Wood married a Hollywood star.", "label": "not enough info"}
+{"id": "train_2_34", "text": "Minneapolis cannot be found on both banks of the Mississippi River.", "label": "refuted"}
+{"id": "train_2_35", "text": "The New York Giants are a professional sports team.", "label": "supported"}
+{"id": "train_2_36", "text": "The Boot Monument is a certain event memorial.", "label": "supported"}
+{"id": "train_2_37", "text": "Laura Dern acted in the film Pay It Forward.", "label": "not enough info"}
+{"id": "train_2_38", "text": "Black Mirror is not about modern society.", "label": "refuted"}
+{"id": "train_2_39", "text": "The Belko Experiment was released by Orion Pictures in 2016.", "label": "supported"}
+{"id": "train_2_40", "text": "Olivia Munn is a sailor.", "label": "not enough info"}
+{"id": "train_2_41", "text": "Ronda Rousey turned down being in any 2015 American comedy films.", "label": "refuted"}
+{"id": "train_2_42", "text": "Peggy Sue Got Married is a 1986 American film.", "label": "supported"}
+{"id": "train_2_43", "text": "The Prestige was written by someone born in 1941.", "label": "not enough info"}
+{"id": "train_2_44", "text": "Glen Campbell stayed only in the accounting field his whole life.", "label": "refuted"}
+{"id": "train_2_45", "text": "Penny Dreadful does not have the character Count Dracula.", "label": "refuted"}
+{"id": "train_2_46", "text": "Chandni stars an actor born on October 6.", "label": "supported"}
+{"id": "train_2_47", "text": "The Jackson family accused Michael Jackson.", "label": "not enough info"}
+{"id": "train_2_48", "text": "Supernatural (U.S. TV series) became part of Alabama's starting lineup.", "label": "refuted"}
+{"id": "train_2_49", "text": "Lisa Kudrow starred in Breaking Bad.", "label": "not enough info"}
+{"id": "train_2_50", "text": "Mao Zedong was the first Chairman of the Communist Party of China.", "label": "supported"}
+{"id": "train_2_51", "text": "Rodrigo Santoro sang in Brainstorm.", "label": "not enough info"}
+{"id": "train_2_52", "text": "Beyonc\u00e9 became the highest-paid black musician in history in 2011.", "label": "refuted"}
+{"id": "train_2_53", "text": "Alicia Silverstone was in the an American rock band's music video.", "label": "supported"}
+{"id": "train_2_54", "text": "Furia is written by someone who collaborated with Andrei Tarkovsky.", "label": "not enough info"}
+{"id": "train_2_55", "text": "Leighton Meester is 24 years old.", "label": "refuted"}
+{"id": "train_2_56", "text": "Tom Hiddleston made an appearance in Henry V.", "label": "supported"}
+{"id": "train_2_57", "text": "Daz Dillinger is a drummer.", "label": "not enough info"}
+{"id": "train_2_58", "text": "Melanie Griffith appeared in Something Wild (1986).", "label": "supported"}
+{"id": "train_2_59", "text": "Born Naked was created only by a dancer.", "label": "refuted"}

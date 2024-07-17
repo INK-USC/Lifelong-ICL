@@ -1,0 +1,9 @@
+{
+    "name": "medical_question_pairs",
+    "task_type": "classification",
+    "options": ["not similar", "similar"],
+    "instruction": "Classify whether the two questions are similar to each other. Respond with similar or not similar.",
+    "instruction_2": "Are the two questions similar to each other? Answer with not similar or similar.",
+    "demonstration_prompt": "Question 1: {question_1}\nQuestion 2: {question_2}\nLabel: {label}",
+    "inference_prompt": "Question 1: {question_1}\nQuestion 2: {question_2}\nLabel:"
+}

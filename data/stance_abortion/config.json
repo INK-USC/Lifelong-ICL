@@ -1,0 +1,9 @@
+{
+    "name": "stance_abortion",
+    "task_type": "classification",
+    "options": ["favor", "against", "no stance"],
+    "instruction": "Categorize the tweet based on its position on abortion. The label should be favor, against, or no stance.",
+    "instruction_2": "Identify the stance of the tweet regarding abortion as either against, favor, or no stance.",
+    "demonstration_prompt": "Input: {text}\nLabel: {label}",
+    "inference_prompt": "Input: {text}\nLabel:"
+}

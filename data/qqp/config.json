@@ -1,0 +1,9 @@
+{
+    "name": "qqp",
+    "task_type": "classification",
+    "options": ["not duplicate", "duplicate"],
+    "instruction": "Classify whether the two questions are duplicates of each other. Respond with duplicate or not duplicate.",
+    "instruction_2": "Are these two questions essentially the same? Choose either duplicate or not duplicate.",
+    "demonstration_prompt": "Question 1: {question1}\nQuestion 2: {question2}\nLabel: {label}",
+    "inference_prompt": "Question 1: {question1}\nQuestion 2: {question2}\nLabel:"
+}

@@ -1,0 +1,40 @@
+{"id": "train_3_0", "text": "Some pardees are not shraiwels. Some shraiwels are not tupresses. Therefore some tupresses are not pardees.", "label": "invalid"}
+{"id": "train_3_1", "text": "No knives are soldiers. All offices are knives. Therefore no offices are soldiers.", "label": "valid"}
+{"id": "train_3_2", "text": "Some elves are not colts. Some cowgirls are elves. Therefore some cowgirls are not colts.", "label": "invalid"}
+{"id": "train_3_3", "text": "Tom is less witty than Peter. Candice is wittier than Peter. Therefore candice is wittier than Peter.", "label": "valid"}
+{"id": "train_3_4", "text": "Lotteries have been practicised since time immemorial, so they can hardly be immoral.", "label": "invalid"}
+{"id": "train_3_5", "text": "Some winnibler are polinks. All winnibler are shizzoes. Therefore some shizzoes are polinks.", "label": "valid"}
+{"id": "train_3_6", "text": "No spacemen are alligators. All cowgirls are alligators. Therefore no cowgirls are spacemen.", "label": "valid"}
+{"id": "train_3_7", "text": "Some essups are treyples. No spewsies are essups. Therefore some spewsies are not treyples.", "label": "invalid"}
+{"id": "train_3_8", "text": "Some ranotots are not spewsies. All ranotots are proppors. Therefore some proppors are not spewsies.", "label": "valid"}
+{"id": "train_3_9", "text": "Some dewfays are besloors. No dorchies are besloors. Therefore some dorchies are dewfays.", "label": "invalid"}
+{"id": "train_3_10", "text": "All houtals are snabeths. Some houtals are nimepoes. Therefore some nimepoes are snabeths.", "label": "valid"}
+{"id": "train_3_11", "text": "All onamas are effachers. Some spoickles are effachers. Therefore all spoickles are onamas.", "label": "invalid"}
+{"id": "train_3_12", "text": "Some capitols are priests. Some aphids are not priests. Therefore some aphids are not capitols.", "label": "invalid"}
+{"id": "train_3_13", "text": "No zestponts are styphons. Some zestponts are effachers. Therefore some effachers are not styphons.", "label": "valid"}
+{"id": "train_3_14", "text": "All programmers are rooks. All amphibians are programmers. Therefore all amphibians are rooks.", "label": "valid"}
+{"id": "train_3_15", "text": "Some cubs are not bats. All sisters are bats. Therefore some sisters are not cubs.", "label": "invalid"}
+{"id": "train_3_16", "text": "Laura is less frank than Carol. Laura is less frank than Kim. Mario is less frank than Laura. Anne is less frank than Laura. Therefore laura is more frank than Carol.", "label": "invalid"}
+{"id": "train_3_17", "text": "Amy is older than Candice. Sam is older than Carol. Amy is older than Carol. Sam is older than Amy. Therefore candice is younger than Amy.", "label": "valid"}
+{"id": "train_3_18", "text": "Some computers are not elms. Some computers are spooks. Therefore no spooks are elms.", "label": "invalid"}
+{"id": "train_3_19", "text": "All fluffsters are dorchies. No caimats are dorchies. Therefore no caimats are fluffsters.", "label": "valid"}
+{"id": "train_3_20", "text": "If I stay up late tonight, I'll probably end up staying up later tomorrow, and even later the day after.", "label": "invalid"}
+{"id": "train_3_21", "text": "Some chimpanzees are sheep dogs. All chimpanzees are dolphins. Therefore some dolphins are sheep dogs.", "label": "valid"}
+{"id": "train_3_22", "text": "Carol is younger than David. David is younger than Laura. Carol is younger than Ernest. Laura is younger than Michael. Therefore carol is younger than Michael.", "label": "valid"}
+{"id": "train_3_23", "text": "Lara is less frank than Jill. Lara is less frank than Dylan. Jill is more frank than Dylan. Therefore lara is more frank than Dylan.", "label": "invalid"}
+{"id": "train_3_24", "text": "No spewsies are tograshs. All kirarics are spewsies. Therefore no kirarics are tograshs.", "label": "valid"}
+{"id": "train_3_25", "text": "Tom is less frank than Charlotte. Charlotte is less frank than Rossi. Therefore rossi is less frank than Charlotte.", "label": "invalid"}
+{"id": "train_3_26", "text": "That restaurant is very popular. We should book our wedding banquet well in advance.", "label": "valid"}
+{"id": "train_3_27", "text": "You should trust our President's views about healthcare; he was a famous moviestar.", "label": "invalid"}
+{"id": "train_3_28", "text": "Marcus is older than Amy. Marcus is older than Michael. William is older than Debbie. Amy is older than William. Therefore michael is older than Marcus.", "label": "invalid"}
+{"id": "train_3_29", "text": "Philipp is more ambitious than Bob. Bob is more ambitious than Henry. Therefore bob is less ambitious than Philipp.", "label": "valid"}
+{"id": "train_3_30", "text": "Tom is younger than William. Susan is younger than Tom. Therefore tom is older than William.", "label": "invalid"}
+{"id": "train_3_31", "text": "No vehicles are nightmares. Some vehicles are pets. Therefore some pets are not nightmares.", "label": "valid"}
+{"id": "train_3_32", "text": "Jill is more ambitious than Jake. Jake is less ambitious than Cecilia. Jill is more ambitious than Cecilia. Therefore jill is more ambitious than Jake.", "label": "valid"}
+{"id": "train_3_33", "text": "Humans evolved in savannah environments, so those are clearly the best place for us.,", "label": "invalid"}
+{"id": "train_3_34", "text": "You said human rights are important, so clearly you don't care about animals.", "label": "invalid"}
+{"id": "train_3_35", "text": "Peter is older than Kim. Rossi is older than Aiden. Peter is older than Rossi. Therefore rossi is younger than Peter.", "label": "valid"}
+{"id": "train_3_36", "text": "All dewfays are polinks. All thrastles are dewfays. Therefore all thrastles are polinks.", "label": "valid"}
+{"id": "train_3_37", "text": "No skizzles are novalies. No skizzles are smurtans. Therefore some smurtans are not novalies.", "label": "invalid"}
+{"id": "train_3_38", "text": "Henry is shorter than Michael. Bill is shorter than Henry. Carol is shorter than Bill. Bill is taller than Bella. Therefore michael is taller than Bella.", "label": "valid"}
+{"id": "train_3_39", "text": "Mary is kinder than Edward. Jack is kinder than Mary. Therefore jack is less kind than Mary.", "label": "invalid"}

@@ -1,0 +1,9 @@
+{
+    "name": "prosocial_dialog",
+    "task_type": "classification",
+    "options": ["caution needed", "casual", "intervention needed", "probably caution needed", "possibly caution needed"],
+    "instruction": "Classify the dialogue based on the level of safety intervention required: caution needed, casual, intervention needed, probably caution needed, or possibly caution needed.",
+    "instruction_2": "Assess the dialogue to identify the required level of safety intervention, selecting from intervention needed, possibly caution needed, casual, probably caution needed, or caution needed.",
+    "demonstration_prompt": "Text: {text}\nLabel: {label}",
+    "inference_prompt": "Text: {text}\nLabel:"
+}

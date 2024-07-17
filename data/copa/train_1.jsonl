@@ -1,0 +1,40 @@
+{"id": "train_1_0", "answer": "He asked a stranger for the time.", "premise": "The man's watch was broken.", "label": "effect"}
+{"id": "train_1_1", "answer": "I burnt my dinner.", "premise": "The smoke alarm went off.", "label": "cause"}
+{"id": "train_1_2", "answer": "The weeds came out of the soil.", "premise": "The gardener pulled the weeds.", "label": "effect"}
+{"id": "train_1_3", "answer": "He went underwater.", "premise": "The man held his breath.", "label": "cause"}
+{"id": "train_1_4", "answer": "They wanted to catch up with each other.", "premise": "The women met for coffee.", "label": "cause"}
+{"id": "train_1_5", "answer": "The dough flattened.", "premise": "The chef pressed down on the dough.", "label": "effect"}
+{"id": "train_1_6", "answer": "The sun was rising.", "premise": "My body cast a shadow over the grass.", "label": "cause"}
+{"id": "train_1_7", "answer": "She identified the students that were absent.", "premise": "The teacher took roll.", "label": "effect"}
+{"id": "train_1_8", "answer": "I sensed someone approaching me from behind.", "premise": "I jumped instinctively in fright.", "label": "cause"}
+{"id": "train_1_9", "answer": "The wood became smooth.", "premise": "I rubbed sandpaper on the wood.", "label": "effect"}
+{"id": "train_1_10", "answer": "The car turned.", "premise": "The driver rotated the steering wheel.", "label": "effect"}
+{"id": "train_1_11", "answer": "I spilled juice on the floor.", "premise": "I dabbed the floor with a paper towel.", "label": "cause"}
+{"id": "train_1_12", "answer": "She obeyed her parent's rules.", "premise": "The girl desired her parent's approval.", "label": "effect"}
+{"id": "train_1_13", "answer": "It was wrinkled.", "premise": "I ironed my shirt.", "label": "cause"}
+{"id": "train_1_14", "answer": "She was framed.", "premise": "The woman was wrongly convicted for the crime.", "label": "cause"}
+{"id": "train_1_15", "answer": "They built a fence around their property.", "premise": "The homeowners disliked their nosy neighbors.", "label": "effect"}
+{"id": "train_1_16", "answer": "His dog ran over to eat the food.", "premise": "The man dropped food on the floor.", "label": "effect"}
+{"id": "train_1_17", "answer": "The dog injured his paw.", "premise": "The family took their dog to the veterinarian.", "label": "cause"}
+{"id": "train_1_18", "answer": "I took her to the emergency room.", "premise": "My daughter suffered an allergy attack.", "label": "effect"}
+{"id": "train_1_19", "answer": "I dropped it.", "premise": "The egg splattered.", "label": "cause"}
+{"id": "train_1_20", "answer": "She hit a patch of ice.", "premise": "The skier slipped on the slope.", "label": "cause"}
+{"id": "train_1_21", "answer": "The paperclip stuck to the magnet.", "premise": "The magnet attracted the paperclip.", "label": "effect"}
+{"id": "train_1_22", "answer": "I threw away unnecessary contents.", "premise": "The bureau drawers were cluttered.", "label": "effect"}
+{"id": "train_1_23", "answer": "She discovered a new species.", "premise": "The scientist gained recognition.", "label": "cause"}
+{"id": "train_1_24", "answer": "The forecast called for storms.", "premise": "The family postponed the barbeque.", "label": "cause"}
+{"id": "train_1_25", "answer": "A sound played.", "premise": "The woman pressed down on the piano key.", "label": "effect"}
+{"id": "train_1_26", "answer": "I ate birthday cake.", "premise": "My stomach hurt.", "label": "cause"}
+{"id": "train_1_27", "answer": "The mother grimaced.", "premise": "The baby pulled the mother's hair.", "label": "effect"}
+{"id": "train_1_28", "answer": "He was cured of cancer.", "premise": "The man felt thankful to be alive.", "label": "cause"}
+{"id": "train_1_29", "answer": "The gun went off.", "premise": "The police officer dropped the gun.", "label": "effect"}
+{"id": "train_1_30", "answer": "The liquid in the bottle poured out.", "premise": "I tipped the bottle.", "label": "effect"}
+{"id": "train_1_31", "answer": "It was foggy.", "premise": "The vehicles travelled slowly.", "label": "cause"}
+{"id": "train_1_32", "answer": "They were hot.", "premise": "The children ran through the sprinkler.", "label": "cause"}
+{"id": "train_1_33", "answer": "I turned to the next page.", "premise": "I finished a page of the book.", "label": "effect"}
+{"id": "train_1_34", "answer": "The patient filed a malpractice lawsuit against the physician.", "premise": "The physician misdiagnosed the patient.", "label": "effect"}
+{"id": "train_1_35", "answer": "The man scooted the chair closer to his desk.", "premise": "The chair squeaked.", "label": "cause"}
+{"id": "train_1_36", "answer": "She sent me a gift.", "premise": "I wrote a thank-you note to my grandmother.", "label": "cause"}
+{"id": "train_1_37", "answer": "They encouraged her to become an artist.", "premise": "The parents recognized their daughter's creativity.", "label": "effect"}
+{"id": "train_1_38", "answer": "She wrapped herself in a towel.", "premise": "The woman shivered as she got out the pool.", "label": "effect"}
+{"id": "train_1_39", "answer": "The contestant rang the buzzer.", "premise": "The host of the trivia show called on the contestant for an answer.", "label": "cause"}

@@ -1,0 +1,100 @@
+{"sentence": "Practice may stand for a citizen who has a legal right to vote.", "label": "false", "id": "test_0"}
+{"sentence": "A cycle may be a repetition in no context.", "label": "false", "id": "test_1"}
+{"sentence": "Sister stands for the status of belonging to a particular nation by birth or naturalization.", "label": "false", "id": "test_2"}
+{"sentence": "Category does not stand for what something is used for.", "label": "true", "id": "test_3"}
+{"sentence": "A shoulder may be part of a road in certain contexts.", "label": "true", "id": "test_4"}
+{"sentence": "A deficit is classified as a deficiency in no context.", "label": "false", "id": "test_5"}
+{"sentence": "The (usually elliptical) path described by one celestial body in its revolution about another may be an appropriate definition of orbit.", "label": "true", "id": "test_6"}
+{"sentence": "In no context hallway may be the synonym of cheek.", "label": "true", "id": "test_7"}
+{"sentence": "In certain contexts trousers that end at or above the knee may be an appropriate definition of victory.", "label": "false", "id": "test_8"}
+{"sentence": "Site may be an appropriate hypernym of excavation.", "label": "true", "id": "test_9"}
+{"sentence": "A friendly nation may be an appropriate definition of solo in certain contexts.", "label": "false", "id": "test_10"}
+{"sentence": "In certain contexts citizen is the synonym of foreigner.", "label": "false", "id": "test_11"}
+{"sentence": "An inspector may be classified as an investigator in certain contexts.", "label": "true", "id": "test_12"}
+{"sentence": "Judgment stands for the cognitive process of reaching a decision or drawing conclusions.", "label": "true", "id": "test_13"}
+{"sentence": "The status of belonging to a particular nation by birth or naturalization is never an appropriate definition of sister in any context.", "label": "true", "id": "test_14"}
+{"sentence": "In certain contexts a text may be part of a fee.", "label": "false", "id": "test_15"}
+{"sentence": "A reality may be a meeting devoted to a particular activity.", "label": "false", "id": "test_16"}
+{"sentence": "Prey is an appropriate hyponym of admission in no context.", "label": "true", "id": "test_17"}
+{"sentence": "Not a single governor may be the head of a state government.", "label": "false", "id": "test_18"}
+{"sentence": "Welfare does not refer to a contented state of being happy and healthy and prosperous.", "label": "false", "id": "test_19"}
+{"sentence": "In certain contexts a glimpse may be a view.", "label": "true", "id": "test_20"}
+{"sentence": "In certain contexts a cup may be classified as a dream.", "label": "false", "id": "test_21"}
+{"sentence": "A dealer is classified as a repetition.", "label": "false", "id": "test_22"}
+{"sentence": "In certain contexts a wind is made of air.", "label": "true", "id": "test_23"}
+{"sentence": "Bite may commonly refer to a painful wound caused by the thrust of an insect's stinger into skin.", "label": "true", "id": "test_24"}
+{"sentence": "Insurance does not stand for the mistake of misrepresenting the facts.", "label": "true", "id": "test_25"}
+{"sentence": "Figure is an appropriate hypernym of motif.", "label": "true", "id": "test_26"}
+{"sentence": "In no context a library is a type of place.", "label": "true", "id": "test_27"}
+{"sentence": "An aunt may commonly be a story about mythical or supernatural beings or events.", "label": "false", "id": "test_28"}
+{"sentence": "Greeting is an appropriate hypernym of dome in certain contexts.", "label": "false", "id": "test_29"}
+{"sentence": "In certain contexts the state of being unemployed or not having a job may be an appropriate definition of employment.", "label": "false", "id": "test_30"}
+{"sentence": "A banana is not a law in any context.", "label": "true", "id": "test_31"}
+{"sentence": "A passage or expression that is quoted or cited is not an appropriate definition of quotation in any context.", "label": "false", "id": "test_32"}
+{"sentence": "Catch may commonly stand for a drawback or difficulty that is not readily evident.", "label": "true", "id": "test_33"}
+{"sentence": "Depression is an appropriate hyponym of crisis in certain contexts.", "label": "true", "id": "test_34"}
+{"sentence": "No train is commonly evidence of identity.", "label": "true", "id": "test_35"}
+{"sentence": "In no context a queen is a meal.", "label": "true", "id": "test_36"}
+{"sentence": "Either side of the face below the eyes may be an appropriate definition of cheek in certain contexts.", "label": "true", "id": "test_37"}
+{"sentence": "Presentation is never an appropriate synonym of plaintiff.", "label": "true", "id": "test_38"}
+{"sentence": "Arrangement commonly refers to the spatial property of the way in which something is placed.", "label": "true", "id": "test_39"}
+{"sentence": "In certain contexts barks are part of branches.", "label": "true", "id": "test_40"}
+{"sentence": "Document is not an appropriate hypernym of certificate in any context.", "label": "false", "id": "test_41"}
+{"sentence": "A bank is never classified as a limb.", "label": "true", "id": "test_42"}
+{"sentence": "Specimen may be an appropriate hyponym of legislature in no context.", "label": "true", "id": "test_43"}
+{"sentence": "Passage is not an appropriate hypernym of reputation in any context.", "label": "true", "id": "test_44"}
+{"sentence": "Citizen and foreigner are synonyms.", "label": "false", "id": "test_45"}
+{"sentence": "No insurance may commonly be protection against future loss.", "label": "false", "id": "test_46"}
+{"sentence": "In no context the spatial property of the way in which something is placed may be an appropriate definition of arrangement.", "label": "false", "id": "test_47"}
+{"sentence": "Not a single clay may be an expanse of scenery that can be seen in a single view.", "label": "true", "id": "test_48"}
+{"sentence": "A right may commonly be a holder or proprietor of land.", "label": "false", "id": "test_49"}
+{"sentence": "A cousin may be classified as a relation.", "label": "true", "id": "test_50"}
+{"sentence": "Treatment may be an appropriate hyponym of management in certain contexts.", "label": "true", "id": "test_51"}
+{"sentence": "A hunting is commonly financial aid provided to a student on the basis of academic merit.", "label": "false", "id": "test_52"}
+{"sentence": "A pardon is never a warrant.", "label": "false", "id": "test_53"}
+{"sentence": "Parliament is not an appropriate hyponym of legislature in any context.", "label": "false", "id": "test_54"}
+{"sentence": "A male with the same parents as someone else may be an appropriate definition of sister in no context.", "label": "true", "id": "test_55"}
+{"sentence": "Care is not an appropriate hypernym of president in any context.", "label": "true", "id": "test_56"}
+{"sentence": "An insistence may not be classified as a finger in any context.", "label": "true", "id": "test_57"}
+{"sentence": "In certain contexts a publication is commonly the result of publishing.", "label": "true", "id": "test_58"}
+{"sentence": "A president may be a care in no context.", "label": "true", "id": "test_59"}
+{"sentence": "A certificate is not classified as a document in any context.", "label": "false", "id": "test_60"}
+{"sentence": "In no context a group of organisms within a species that differ in trivial ways from similar groups is an appropriate definition of form.", "label": "false", "id": "test_61"}
+{"sentence": "A water is commonly skillful performance or ability without difficulty.", "label": "false", "id": "test_62"}
+{"sentence": "In certain contexts citizen and foreigner may be synonyms.", "label": "false", "id": "test_63"}
+{"sentence": "Those who support political or social or economic conservatism is never an appropriate definition of news.", "label": "true", "id": "test_64"}
+{"sentence": "Captain never stands for the naval officer in command of a military ship.", "label": "false", "id": "test_65"}
+{"sentence": "A session may not be classified as a meeting in any context.", "label": "false", "id": "test_66"}
+{"sentence": "Use may commonly refer to the utilization of economic goods to satisfy needs or in manufacturing.", "label": "true", "id": "test_67"}
+{"sentence": "In no context the subjective sensation of hearing something may be an appropriate definition of sound.", "label": "false", "id": "test_68"}
+{"sentence": "A youthful male person is not an appropriate definition of calendar.", "label": "true", "id": "test_69"}
+{"sentence": "Land may stand for a person who comes from a foreign country.", "label": "false", "id": "test_70"}
+{"sentence": "Not a single form may commonly be a record or narrative description of past events.", "label": "true", "id": "test_71"}
+{"sentence": "A change downward is an appropriate definition of arrangement.", "label": "false", "id": "test_72"}
+{"sentence": "Not a single shower is a state of separation between persons or groups.", "label": "true", "id": "test_73"}
+{"sentence": "A category is never what something is used for.", "label": "true", "id": "test_74"}
+{"sentence": "In no context a reaction may be classified as a site.", "label": "true", "id": "test_75"}
+{"sentence": "A quick look may not be an appropriate definition of application in any context.", "label": "true", "id": "test_76"}
+{"sentence": "A judgment is not the result of lingering in any context.", "label": "true", "id": "test_77"}
+{"sentence": "Switch may not refer to someone who manufactures something.", "label": "true", "id": "test_78"}
+{"sentence": "No citizen may be a person who comes from a foreign country.", "label": "true", "id": "test_79"}
+{"sentence": "Sound does never stand for the subjective sensation of hearing something.", "label": "false", "id": "test_80"}
+{"sentence": "A spirit is classified as a meaning in no context.", "label": "false", "id": "test_81"}
+{"sentence": "A youthful male person is an appropriate definition of girl.", "label": "false", "id": "test_82"}
+{"sentence": "Consciousness is an appropriate hypernym of refusal in no context.", "label": "true", "id": "test_83"}
+{"sentence": "Therapist may be an appropriate hyponym of expert.", "label": "true", "id": "test_84"}
+{"sentence": "In certain contexts a dome may be classified as a greeting.", "label": "false", "id": "test_85"}
+{"sentence": "Button is an appropriate hyponym of interaction in no context.", "label": "true", "id": "test_86"}
+{"sentence": "Nature commonly refers to the natural physical world including plants and animals and landscapes etc..", "label": "true", "id": "test_87"}
+{"sentence": "Not a single shower may commonly be a state of separation between persons or groups.", "label": "true", "id": "test_88"}
+{"sentence": "Governor does never stand for two-winged insects characterized by active flight.", "label": "true", "id": "test_89"}
+{"sentence": "Not a single ability is commonly the quality of being able to perform.", "label": "false", "id": "test_90"}
+{"sentence": "Studies are never part of houses.", "label": "false", "id": "test_91"}
+{"sentence": "Cheek may commonly stand for the attribute of being superfluous and unneeded.", "label": "false", "id": "test_92"}
+{"sentence": "Value and employee are not always different.", "label": "false", "id": "test_93"}
+{"sentence": "In no context a dairy may be classified as a farm.", "label": "false", "id": "test_94"}
+{"sentence": "A copyright may be a document in no context.", "label": "false", "id": "test_95"}
+{"sentence": "In certain contexts a center may be a meeting.", "label": "false", "id": "test_96"}
+{"sentence": "A sphere is classified as a relation in no context.", "label": "true", "id": "test_97"}
+{"sentence": "A friendly nation is not an appropriate definition of solo.", "label": "true", "id": "test_98"}
+{"sentence": "A counter is a ritual in certain contexts.", "label": "false", "id": "test_99"}

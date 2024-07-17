@@ -1,0 +1,100 @@
+{"text": "Says New START, passed while Clinton was secretary of state, is a treaty cutting Russias nuclear arms.", "label": "half true", "id": "test_0"}
+{"text": "Says Ohio Rep. Marcy Kaptur actually lives in a fancy condo in the Washington, D.C. suburbs.", "label": "false", "id": "test_1"}
+{"text": "\"John McCain decided to stand with George Bush 95 percent of the time (last year).\"", "label": "true", "id": "test_2"}
+{"text": "Its been since 1888 that a Senate of a different party than the president in the White House confirmed a Supreme Court nominee.", "label": "false", "id": "test_3"}
+{"text": "When I withdrew in June of 2008, polls were showing that at least 40 percent of my supporters said, oh, they werent going to support Sen. Obama.", "label": "mostly true", "id": "test_4"}
+{"text": "Ronald Reagan raised the national debt 18 times.", "label": "true", "id": "test_5"}
+{"text": "\"For every dollar (in the stimulus package) that is spent to help small businesses, $4 is being spent to help upkeep the grass on the lawns of Washington.\"", "label": "false", "id": "test_6"}
+{"text": "Says as a result of the national health care reform, the Congressional Budget Office says we save $250 million over the first 10 years. Over the next 10 years, we save $1.2 trillion in savings in terms of health care.", "label": "barely true", "id": "test_7"}
+{"text": "Says state Senate candidate Monk Elmer voted to exceed the (school district property tax) spending caps.", "label": "pants fire", "id": "test_8"}
+{"text": "I said no to these big bank bailouts.", "label": "true", "id": "test_9"}
+{"text": "Everywhere that we have more citizens carrying guns, crime is less. Theres a study showing that where states have open carry or concealed carry, but particularly open carry, the crime is down 25 percent.", "label": "barely true", "id": "test_10"}
+{"text": "Among Hispanics, support for immigration reform is close to universal.", "label": "mostly true", "id": "test_11"}
+{"text": "There is a precedent for not nominating someone to the U.S. Supreme Court in the middle of a presidential election.", "label": "false", "id": "test_12"}
+{"text": "Takes credit for substantially reducing the size of the state workforce.", "label": "mostly true", "id": "test_13"}
+{"text": "If we ban the practice of earmarks, we could save the American taxpayer anywhere between $15 (billion) to $20 billion dollars a year in pork-barrel spending.", "label": "mostly true", "id": "test_14"}
+{"text": "A proposed regional transportation tax will last a minimum of 10 years, and has been approved to last longer.", "label": "false", "id": "test_15"}
+{"text": "The Stupak Amendment doesnt just say you cant use your federal insurance subsidy to pay for an abortion, it says, if youre getting a federal subsidy of any kind, youre not allowed to buy an insurance plan that covers abortion even with your own money.", "label": "barely true", "id": "test_16"}
+{"text": "Says Joe Heck voted 10 times to defund Planned Parenthood ... and Heck opposes a womans right to choose, even when her health is at risk.", "label": "mostly true", "id": "test_17"}
+{"text": "\"The Democrats in the Senate and some members of Congress defended what Fannie and Freddie were doing. They resisted any change.\"", "label": "half true", "id": "test_18"}
+{"text": "The federal minimum wage is worth about 20 percent less than it was when Ronald Reagan gave his first address to a joint session of Congress.", "label": "mostly true", "id": "test_19"}
+{"text": "Hackers broke into Virginias prescription-drug database (and) ... obtained more than 8.2 million patient records and a total of nearly 36 million prescriptions.", "label": "mostly true", "id": "test_20"}
+{"text": "\"The 1990s were a time of prosperity. We created more than 22-million new jobs, moved 8-million people out of poverty, and turned our economy around.\"", "label": "true", "id": "test_21"}
+{"text": "I think its seven or eight of the California system of universities dont even teach an American history course. Its not even available to be taught.", "label": "false", "id": "test_22"}
+{"text": "Polls show that Americans overwhelmingly support expanding background checks.", "label": "true", "id": "test_23"}
+{"text": "Some of the wealthiest Americans are African-American now.", "label": "false", "id": "test_24"}
+{"text": "Says in 2003 Texas cut $10 billion out of the entire budget, yet we put $1.8 billion more into public education. We put $800 million more into health and human services.", "label": "barely true", "id": "test_25"}
+{"text": "White men account for 69 percent of those arrested for violent crimes.", "label": "false", "id": "test_26"}
+{"text": "Six thousand people have sought addiction treatment through expanded Medicaid.", "label": "false", "id": "test_27"}
+{"text": "Says he hasnt changed his view on abortion restrictions.", "label": "barely true", "id": "test_28"}
+{"text": "Rebuilding three high schools will benefit 40 percent of Portland Public School students.", "label": "pants fire", "id": "test_29"}
+{"text": "Gene Green is the NRAs favorite Democrat in Congress. ... Its no wonder the congressman has a lifetime A rating from the NRA.", "label": "barely true", "id": "test_30"}
+{"text": "Barack Obama has doubled our national debt. Doubled it. Its going to be close to $20 trillion when he leaves.", "label": "half true", "id": "test_31"}
+{"text": "One of every two Wisconsin residents are on some kind of government handout.", "label": "false", "id": "test_32"}
+{"text": "The budget submitted by Obama will add more to the debt than the outstanding debt of the previous 43 presidents combined.", "label": "true", "id": "test_33"}
+{"text": "\"98 percent of small businesses make less than $250,000\" and would not see a tax increase under Barack Obama's plan.", "label": "true", "id": "test_34"}
+{"text": "In rural Virginia, Sen. Warner ran 8-10 points ahead of a traditional Democrat -- ahead of Senator Kaine, ahead of Governor McAuliffe.", "label": "false", "id": "test_35"}
+{"text": "Virginia has made no progress on jobs since Bob McDonnell took office.", "label": "false", "id": "test_36"}
+{"text": "Under Common Core standards, it takes more than a minute to teach a student how to add nine plus six.", "label": "half true", "id": "test_37"}
+{"text": "Dollar General added 2,500 stores and 20,000 jobs during his four-year tenure as CEO.", "label": "mostly true", "id": "test_38"}
+{"text": "Bill Nelson leased land that he owned for six cows, taking advantage of an agricultural tax loophole to dodge $43,000 in taxes just last year.", "label": "half true", "id": "test_39"}
+{"text": "Abortions account for 94 percent of the services provided for pregnant women by Planned Parenthood.", "label": "false", "id": "test_40"}
+{"text": "Republicans dont think its a good idea to make the child care tax credit stronger.", "label": "barely true", "id": "test_41"}
+{"text": "If the sequester hits, federal prosecutors will have to let criminals go.", "label": "barely true", "id": "test_42"}
+{"text": "\"New Mexico was 46th in teacher pay (when he was elected), now we're 29th.\"", "label": "mostly true", "id": "test_43"}
+{"text": "Toomey and Trump will ban abortion and punish women who have them.", "label": "false", "id": "test_44"}
+{"text": "Says President Barack Obama has taken 92 days of vacation since he was sworn in, compared to 367 for President George W. Bush at the same point in his presidency.", "label": "mostly true", "id": "test_45"}
+{"text": "Says a Barack Obama black imposter joke got a standing ovation at San Angelo rodeo.", "label": "barely true", "id": "test_46"}
+{"text": "The Trans-Pacific Partnership was designed for China to come in, as they always do, through the back door and totally take advantage of everyone.", "label": "pants fire", "id": "test_47"}
+{"text": "Most Americans support the legalization of marijuana.", "label": "true", "id": "test_48"}
+{"text": "Says as a share of the US economy, the governments support for research and development (RD) has fallen by nearly two-thirds since the 1960s.", "label": "true", "id": "test_49"}
+{"text": "Because of voter fraud, Republican candidates need to do a point or two better to win statewide elections in Wisconsin.", "label": "false", "id": "test_50"}
+{"text": "George Allen voted for budgets that increased the national debt by $16,400 for every second he served in the U.S. Senate.", "label": "true", "id": "test_51"}
+{"text": "In Hillary Clintons tax returns, you saw a lot of income coming from donors to the Clinton Foundation and people who benefitted from her State Department term as well.", "label": "half true", "id": "test_52"}
+{"text": "Today many Florida teachers are at risk of having their pay impacted by the performance of children who are not even in their classrooms or subject areas.", "label": "mostly true", "id": "test_53"}
+{"text": "The majority of people travelling to these destination resorts are not going for the primary purpose of gambling.", "label": "barely true", "id": "test_54"}
+{"text": "Believe it or not, consumer spending is up over the last eight months.", "label": "true", "id": "test_55"}
+{"text": "Mitt Romney said it was tragic to end the war in Iraq.", "label": "half true", "id": "test_56"}
+{"text": "Providence has the lowest crime rate in three decades.", "label": "true", "id": "test_57"}
+{"text": "Onion Creeks highest flow rate on a recent night of flooding was 120,000 cubic feet per second, which is nearly double the average flow rate of Niagara Falls.", "label": "barely true", "id": "test_58"}
+{"text": "Says U.S. Rep. Ron Kinds stimulus cost taxpayers $278,000 per job.", "label": "false", "id": "test_59"}
+{"text": "The reason we even have colleges is that at some point there were politicians who said, You know what? We should start colleges.", "label": "barely true", "id": "test_60"}
+{"text": "President Barack Obamas veto of the Keystone XL pipeline killed 42,000 jobs.", "label": "half true", "id": "test_61"}
+{"text": "Milwaukee lost the headquarters for MillerCoors because the area lacks good transit.", "label": "false", "id": "test_62"}
+{"text": "The Canadians they (dropped) their tax rates to 15 percent. The average tax rate on businesses in the industrialized world is 25 percent.", "label": "mostly true", "id": "test_63"}
+{"text": "$65 billion would be added to the deficit if we keep the cuts for people on the highest incomes.", "label": "mostly true", "id": "test_64"}
+{"text": "Says his budget provides the highest state funding level in history for education.", "label": "half true", "id": "test_65"}
+{"text": "On a cap-and-trade plan.", "label": "false", "id": "test_66"}
+{"text": "The Department of Homeland Security is the only federal department not funded for this entire fiscal year by Congress.", "label": "true", "id": "test_67"}
+{"text": "Says hes arrested more criminals, including thousands of child predators and sex offenders, than any previous Texas attorney general.", "label": "mostly true", "id": "test_68"}
+{"text": "Says Bill Nelson voted 98 percent of the time with Barack Obama.", "label": "mostly true", "id": "test_69"}
+{"text": "Already in Wisconsin we have seen fewer people pursuing education as a career due to the Act 10 collective bargaining law.", "label": "barely true", "id": "test_70"}
+{"text": "Social Security has nothing to do with the federal deficit.", "label": "barely true", "id": "test_71"}
+{"text": "More than 10 years of free trade has brought a $2 billion per day trade deficit.", "label": "mostly true", "id": "test_72"}
+{"text": "On banning earmarks.", "label": "false", "id": "test_73"}
+{"text": "Birth control pioneer Margaret Sanger wasan active participant in the Ku Klux Klan.", "label": "false", "id": "test_74"}
+{"text": "There has never been a panther attack in the history of Florida.", "label": "mostly true", "id": "test_75"}
+{"text": "There have not been any public safety issues in cities that allow transgender people to use the bathroom of the gender they identify as.", "label": "mostly true", "id": "test_76"}
+{"text": "Measures taken by my administration have saved taxpayers $1 billion.", "label": "mostly true", "id": "test_77"}
+{"text": "Providence has more of its pension fund invested in hedge funds and is less transparent about it than the state.", "label": "mostly true", "id": "test_78"}
+{"text": "Says President John F. Kennedy released a star Green Bay Packer from military reserve duty so that he could play in the 1961 NFL Championship Game.", "label": "true", "id": "test_79"}
+{"text": "Tom Suozzi raised taxes by hundreds of millions of dollars as Nassau County executive.", "label": "true", "id": "test_80"}
+{"text": "McCain \"still thinks it's okay when women don't earn equal pay for equal work.\"", "label": "false", "id": "test_81"}
+{"text": "\"Here in Florida, Ive slashed government by 10 percent. That's $7 billion.\"", "label": "barely true", "id": "test_82"}
+{"text": "Says his free public university tuition program is paid for by a tax on Wall Streets speculation.", "label": "barely true", "id": "test_83"}
+{"text": "Says U.S. Senate rival Tommy Thompson is a big corporate lobbyist and has been lobbying during the middle of the campaign.", "label": "half true", "id": "test_84"}
+{"text": "Says the success of his economic agenda is supported by the fact we went from unemployment at 9.2 percent when I decided to run for governor four years ago to two points lower.", "label": "barely true", "id": "test_85"}
+{"text": "The Milwaukee business community did not speak about the facts -- and in support of train manufacturer Talgo -- as the Milwaukee-Madison rail link was being killed.", "label": "true", "id": "test_86"}
+{"text": "Says that on average, Democratic congressional districts received 81 percent more stimulus funds than Republican districts.", "label": "half true", "id": "test_87"}
+{"text": "\"You had supported John McCain's military strategies pretty adamantly until this race.\"", "label": "barely true", "id": "test_88"}
+{"text": "Whether the Amendment passes or not, the medical use of marijuana is a federal criminal offense.", "label": "true", "id": "test_89"}
+{"text": "President Barack Obamas health care reform slashed $500 billion from Medicare.", "label": "barely true", "id": "test_90"}
+{"text": "170,000 of the jobs created in Texas under Gov. Rick Perry were government jobs.", "label": "half true", "id": "test_91"}
+{"text": "Says a company that got tax breaks from the state later laid off 100 Ohioans, even as its CEO cut a half-million-dollar check to Kasichs super PAC.", "label": "mostly true", "id": "test_92"}
+{"text": "Says Mark Neumann = Nancy Pelosi", "label": "false", "id": "test_93"}
+{"text": "Obama Declares November National Muslim Appreciation Month.", "label": "pants fire", "id": "test_94"}
+{"text": "Today, if you were raised poor, youre just as likely to stay poor as you were 50 years ago.", "label": "true", "id": "test_95"}
+{"text": "Says Donald Trump has changed his mind on abortion.", "label": "true", "id": "test_96"}
+{"text": "Germany is crime-riddled right now because of migration to Europe.", "label": "barely true", "id": "test_97"}
+{"text": "The unemployment rate is declining faster in Tampa than almost anywhere else.", "label": "mostly true", "id": "test_98"}
+{"text": "Rhode Islands unemployment insurance system is the most expensive such system in the country.", "label": "false", "id": "test_99"}

@@ -1,0 +1,40 @@
+{"id": "train_1_0", "text": "Duryodhan's life had a superb cast, but he couldn't figure out the plot.", "explanation": "Duryodhan was confused all his life.", "label": "true"}
+{"id": "train_1_1", "text": "She said that she could smell infidelity from a mile.", "explanation": " She said that everything was fine.", "label": "false"}
+{"id": "train_1_2", "text": "When I met the boss he seemed bitter about the whole story.", "explanation": "When I met the boss he seemed sad about the whole story.", "label": "true"}
+{"id": "train_1_3", "text": "Success is a bastard as it has many fathers; failure is an orphan with no takers.", "explanation": " Success is a person born of parents not married to each other; failure does not have parents.", "label": "false"}
+{"id": "train_1_4", "text": "He felt a sudden red pain through his leg.", "explanation": " He felt a sudden intense pleasure through his le.", "label": "false"}
+{"id": "train_1_5", "text": "If you are drowning in a sea of minor problems you cannot focus on what matters.", "explanation": " If you have a high number of minor problems you cannot focus on what matter.", "label": "true"}
+{"id": "train_1_6", "text": "David is a worm for what he did to Shelia.", "explanation": " David lives underground for what he did to Sheli.", "label": "false"}
+{"id": "train_1_7", "text": "The faculty meeting was a war.", "explanation": " The faculty meeting was highly aggressiv.", "label": "true"}
+{"id": "train_1_8", "text": "He is grinning like an ape.", "explanation": " He is smiling in a charming way.", "label": "false"}
+{"id": "train_1_9", "text": "After working two years for the company she was burned out.", "explanation": " After working two years for the company she was exhausted  stressed and deplete.", "label": "true"}
+{"id": "train_1_10", "text": "Words are weapons.", "explanation": "Words are powerful and can have significant impact.", "label": "true"}
+{"id": "train_1_11", "text": "the crowd was a roaring river.", "explanation": " the crowd was small and silen.", "label": "false"}
+{"id": "train_1_12", "text": "They were stirring excitement.", "explanation": " They were provoking excitemen.", "label": "true"}
+{"id": "train_1_13", "text": "The old tenant gave a bittersweet speech.", "explanation": " The old tenant gave a sad speec.", "label": "false"}
+{"id": "train_1_14", "text": "The President brushed aside the accusations.", "explanation": " The president brushed his hair and talked about the accusation.", "label": "false"}
+{"id": "train_1_15", "text": "He lived in a state of deep terror.", "explanation": " He lived experiencing intense feelings of fear and drea.", "label": "true"}
+{"id": "train_1_16", "text": "A golden sun shines high in the sky.", "explanation": " a very bright sun shines high in the sk.", "label": "true"}
+{"id": "train_1_17", "text": "For the end of the year  I was burned and broken.", "explanation": " For the end of the year  I was happy and wealth.", "label": "false"}
+{"id": "train_1_18", "text": "Teddy was like a bulldog \u2014 he would get what he wanted.", "explanation": "Teddy will work in a determined and aggressive manner to get what he wants.", "label": "true"}
+{"id": "train_1_19", "text": "I embarked on life thirty years ago.", "explanation": " I embarked on a ship thirty years ag.", "label": "false"}
+{"id": "train_1_20", "text": "The faculty meeting was a breeze.", "explanation": "At the faculty meeting we talked about the breeze.", "label": "false"}
+{"id": "train_1_21", "text": "We dug up some interesting facts.", "explanation": " We retrieved some interesting fact.", "label": "true"}
+{"id": "train_1_22", "text": "Life is a foreign language: all men mispronounce it.\u201d.", "explanation": "Life is not easily understood.", "label": "true"}
+{"id": "train_1_23", "text": "Duryodhan was the black sheep of the Kuru dynasty.", "explanation": "Duryodhan was a black colored sheep of the Kuru dynasty.", "label": "false"}
+{"id": "train_1_24", "text": "I was staring straight into the shining sun.", "explanation": " I was considering my future caree.", "label": "false"}
+{"id": "train_1_25", "text": "The chicken pasta is waiting for his check.", "explanation": "The customer who ate the chicken pasta is waiting for his check.", "label": "true"}
+{"id": "train_1_26", "text": "She was just a trophy to Ricardo.", "explanation": " Ricardo loved her trul.", "label": "false"}
+{"id": "train_1_27", "text": "Our whole life we swim against the waves towards the green light of happiness.", "explanation": " Our whole life we try to reach happiness even if it is difficult.", "label": "true"}
+{"id": "train_1_28", "text": "The rich man had a cold heart.", "explanation": " The rich man was impulsive and ma.", "label": "false"}
+{"id": "train_1_29", "text": "His condescending attitude made my blood boil.", "explanation": " His condescending attitude made me really angry.", "label": "true"}
+{"id": "train_1_30", "text": "The old woman had an open heart.", "explanation": " The old woman was nice and generou.", "label": "true"}
+{"id": "train_1_31", "text": "The Leviathan in the ocean is a moving country.", "explanation": " The Leviathan in the ocean is small.", "label": "false"}
+{"id": "train_1_32", "text": "You have to head straight into your fears to win them.", "explanation": "you have to head straight into your window to win the first price.", "label": "false"}
+{"id": "train_1_33", "text": "They were burning with desire.", "explanation": " They felt an intense desir.", "label": "true"}
+{"id": "train_1_34", "text": "She said he was very sweet and he smiled.", "explanation": " She said he was very nice and he smile.", "label": "true"}
+{"id": "train_1_35", "text": "Life is a foreign language: all men mispronounce it.\u201d.", "explanation": "Life is French or some other language.", "label": "false"}
+{"id": "train_1_36", "text": "By that time my friend was broken so he had to sell his house.", "explanation": " By that time my friend was wealthy and he had to sell his hous.", "label": "false"}
+{"id": "train_1_37", "text": "Mark \u2019s comments are an acid bath for my nerves.", "explanation": " Mark \u2019s comments are irritating.", "label": "true"}
+{"id": "train_1_38", "text": "Jonathan drowned in a sea of grief.", "explanation": " Jonathan was extremely sad.", "label": "true"}
+{"id": "train_1_39", "text": "The great gold apples of light hang from the street\u2019s long bough dripping their light on the faces that drift below.", "explanation": " beyond the river that drifts and blows you will find the great gold apples of ligh.", "label": "false"}

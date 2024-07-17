@@ -1,0 +1,100 @@
+{"id": "test_0", "text": "the panther's the coat is dark black.", "label": "unacceptable"}
+{"id": "test_1", "text": "It would be unwise for there to be no fire exit.", "label": "acceptable"}
+{"id": "test_2", "text": "John left us orders to follow Pete.", "label": "acceptable"}
+{"id": "test_3", "text": "The mechanical doll wriggled itself loose.", "label": "acceptable"}
+{"id": "test_4", "text": "Frances hid the presents in the drawer.", "label": "acceptable"}
+{"id": "test_5", "text": "That dogs bark annoys people.", "label": "acceptable"}
+{"id": "test_6", "text": "Carla shoveled the walk.", "label": "acceptable"}
+{"id": "test_7", "text": "The birds give the worm a tug.", "label": "acceptable"}
+{"id": "test_8", "text": "Michelle kept the desk with the papers.", "label": "unacceptable"}
+{"id": "test_9", "text": "Sandy is wondering whether there will be students who have to drop the class for a certain reason, but she won't reveal what.", "label": "acceptable"}
+{"id": "test_10", "text": "I hit that you knew the answer.", "label": "unacceptable"}
+{"id": "test_11", "text": "I dislike the company in which we placed our trust.", "label": "acceptable"}
+{"id": "test_12", "text": "The patient was died.", "label": "unacceptable"}
+{"id": "test_13", "text": "I dislike the people in who we placed our trust.", "label": "unacceptable"}
+{"id": "test_14", "text": "You should sit before there.", "label": "unacceptable"}
+{"id": "test_15", "text": "I would prefer for John to leave.", "label": "acceptable"}
+{"id": "test_16", "text": "Heidi thinks that Andy should eat salmon flavored candy bars.", "label": "acceptable"}
+{"id": "test_17", "text": "Bill's wine from France and Ted's from California cannot be compared.", "label": "acceptable"}
+{"id": "test_18", "text": "Us love they.", "label": "unacceptable"}
+{"id": "test_19", "text": "The bed was slept in.", "label": "acceptable"}
+{"id": "test_20", "text": "Only Churchill remembered Churchill giving the Blood, Sweat and Tears speech.", "label": "unacceptable"}
+{"id": "test_21", "text": "The cat was bitten the mouse by the dog.", "label": "unacceptable"}
+{"id": "test_22", "text": "John tried to be a good boy.", "label": "acceptable"}
+{"id": "test_23", "text": "We wanted to invite someone, but we couldn't decide who to.", "label": "unacceptable"}
+{"id": "test_24", "text": "John finished the cake and drank the lemonade.", "label": "acceptable"}
+{"id": "test_25", "text": "Some people consider noisy dogs in my neighborhood dangerous.", "label": "acceptable"}
+{"id": "test_26", "text": "Everyone relies on someone. It's unclear who.", "label": "acceptable"}
+{"id": "test_27", "text": "Captain Wentworth wrote a letter to Anne Elliott.", "label": "acceptable"}
+{"id": "test_28", "text": "Whenever Russia has made a major political blunder, the U.S. has too.", "label": "acceptable"}
+{"id": "test_29", "text": "Some people consider the dogs dangerous.", "label": "acceptable"}
+{"id": "test_30", "text": "The defendant denied the accusation.", "label": "acceptable"}
+{"id": "test_31", "text": "We created a monster.", "label": "acceptable"}
+{"id": "test_32", "text": "John said Joan saw someone from her graduating class.", "label": "acceptable"}
+{"id": "test_33", "text": "John is tall on several occasions.", "label": "unacceptable"}
+{"id": "test_34", "text": "I dislike the people in whose house we stayed.", "label": "acceptable"}
+{"id": "test_35", "text": "That Fido barks annoys me.", "label": "acceptable"}
+{"id": "test_36", "text": "Bill ate more peaches than Harry did grapes.", "label": "acceptable"}
+{"id": "test_37", "text": "Nobody told Susan.", "label": "acceptable"}
+{"id": "test_38", "text": "His or her least known work.", "label": "acceptable"}
+{"id": "test_39", "text": "We believed John to be a fountain in the park.", "label": "unacceptable"}
+{"id": "test_40", "text": "Will he can do it?", "label": "acceptable"}
+{"id": "test_41", "text": "Kim and Terry is happy.", "label": "unacceptable"}
+{"id": "test_42", "text": "Fanny regretted having to talk to Aunt Norris.", "label": "acceptable"}
+{"id": "test_43", "text": "Clinton is anxious to find out which budget dilemmas Panetta would be willing to tackle in a certain way, but he won't say in which.", "label": "acceptable"}
+{"id": "test_44", "text": "That the cops spoke to the janitor about it yesterday is terrible, that robbery.", "label": "unacceptable"}
+{"id": "test_45", "text": "Fiona might be here by 5 o'clock.", "label": "acceptable"}
+{"id": "test_46", "text": "Vote for you!", "label": "unacceptable"}
+{"id": "test_47", "text": "John is sick.", "label": "acceptable"}
+{"id": "test_48", "text": "They knew that pictures of each other would be on sale.", "label": "acceptable"}
+{"id": "test_49", "text": "I mixed the sugar into the butter.", "label": "acceptable"}
+{"id": "test_50", "text": "Anson believed himself to be handsome.", "label": "acceptable"}
+{"id": "test_51", "text": "The boat seen down the river sank.", "label": "acceptable"}
+{"id": "test_52", "text": "John bought a dog for himself to play with.", "label": "unacceptable"}
+{"id": "test_53", "text": "That Sam sometimes didn't sleep must have pleased somebody.", "label": "acceptable"}
+{"id": "test_54", "text": "I'm sure we even got these tickets!", "label": "acceptable"}
+{"id": "test_55", "text": "I lent the book partway to Tony.", "label": "unacceptable"}
+{"id": "test_56", "text": "You kicked yourselves", "label": "acceptable"}
+{"id": "test_57", "text": "She can run an accelerator.", "label": "acceptable"}
+{"id": "test_58", "text": "The cat slept soundly and furry.", "label": "unacceptable"}
+{"id": "test_59", "text": "Do you believe the claim that somebody was looking for something?", "label": "acceptable"}
+{"id": "test_60", "text": "Most people probably consider, even though the courts didn't actually find, Klaus guilty of murder.", "label": "acceptable"}
+{"id": "test_61", "text": "Mary asked me if, in St. Louis, John could rent a house cheap.", "label": "acceptable"}
+{"id": "test_62", "text": "Kim put in the box.", "label": "unacceptable"}
+{"id": "test_63", "text": "John was believed by Mary to be telling the truth.", "label": "acceptable"}
+{"id": "test_64", "text": "Some people consider the dogs in my neighborhood dangerous.", "label": "acceptable"}
+{"id": "test_65", "text": "John tried to leave.", "label": "acceptable"}
+{"id": "test_66", "text": "He washed her.", "label": "acceptable"}
+{"id": "test_67", "text": "I borrowed Fred's diagram of a snake's eye because Steve's had been stolen.", "label": "acceptable"}
+{"id": "test_68", "text": "I bought three quarts of wine and two of Clorox.", "label": "acceptable"}
+{"id": "test_69", "text": "Dave, Dan, Erin, Jaime, and Alina left.", "label": "acceptable"}
+{"id": "test_70", "text": "Brian threw the fence with the stick.", "label": "unacceptable"}
+{"id": "test_71", "text": "Each student wrote a paper on a Mayan language, but I don't remember which one.", "label": "acceptable"}
+{"id": "test_72", "text": "Which book did each author recommend?", "label": "acceptable"}
+{"id": "test_73", "text": "The soup cooks, thickens.", "label": "acceptable"}
+{"id": "test_74", "text": "They may grow as high as bamboo.", "label": "acceptable"}
+{"id": "test_75", "text": "Mary listens to the Grateful Dead, she gets depressed.", "label": "acceptable"}
+{"id": "test_76", "text": "You may pick every flower, but leave a few for Mary.", "label": "unacceptable"}
+{"id": "test_77", "text": "The bucket was kicked by Pat.", "label": "acceptable"}
+{"id": "test_78", "text": "The children are happy of ice cream.", "label": "unacceptable"}
+{"id": "test_79", "text": "This proved a decisive factor.", "label": "acceptable"}
+{"id": "test_80", "text": "It was a brand new car that he bought.", "label": "acceptable"}
+{"id": "test_81", "text": "Lou hoped the umbrella in the closet.", "label": "unacceptable"}
+{"id": "test_82", "text": "The children admire their mother.", "label": "acceptable"}
+{"id": "test_83", "text": "The madrigals which Henry plays the lute and sings sound lousy.", "label": "unacceptable"}
+{"id": "test_84", "text": "If I can, I will work on it.", "label": "acceptable"}
+{"id": "test_85", "text": "They noticed the painting, but I don't know for how long.", "label": "unacceptable"}
+{"id": "test_86", "text": "I'm sure I would like him to eat fruit more than I would cookies.", "label": "acceptable"}
+{"id": "test_87", "text": "A smith hammered the metal.", "label": "acceptable"}
+{"id": "test_88", "text": "We expect there to will rain.", "label": "unacceptable"}
+{"id": "test_89", "text": "Which topic did you choose without getting his approval?", "label": "acceptable"}
+{"id": "test_90", "text": "If he were a rich man, he'd buy a diamond ring.", "label": "acceptable"}
+{"id": "test_91", "text": "John's mother likes himself.", "label": "unacceptable"}
+{"id": "test_92", "text": "That banana is eating the monkey.", "label": "acceptable"}
+{"id": "test_93", "text": "The children amused.", "label": "unacceptable"}
+{"id": "test_94", "text": "Any man didn't eat dinner.", "label": "unacceptable"}
+{"id": "test_95", "text": "John wants to leave.", "label": "acceptable"}
+{"id": "test_96", "text": "The TA's have been arguing about whether some student or other should pass, but I can't now remember which one.", "label": "unacceptable"}
+{"id": "test_97", "text": "I won't have some money.", "label": "unacceptable"}
+{"id": "test_98", "text": "How did you guess that he fixed the computer?", "label": "acceptable"}
+{"id": "test_99", "text": "Lou put the umbrella was broken.", "label": "unacceptable"}

@@ -1,0 +1,9 @@
+{
+    "name": "ag_news",
+    "task_type": "classification",
+    "options": ["World", "Sports", "Business", "Technology"],
+    "instruction": "Classify the news article into World, Sports, Business or Technology.",
+    "instruction_2": "Determine which category best fits the news article: Sports, Technology, Business, or World.",
+    "demonstration_prompt": "Article: {text}\nAnswer: {label}",
+    "inference_prompt": "Article: {text}\nAnswer:"
+}

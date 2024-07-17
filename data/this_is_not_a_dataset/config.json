@@ -1,0 +1,9 @@
+{
+    "name": "this_is_not_a_dataset",
+    "task_type": "classification",
+    "options": ["true", "false"],
+    "instruction": "Decide whether a statement of commonsense facts is true or false. Be mindful of any negations within the statement.",
+    "instruction_2": "Evaluate the statement to determine if it is of true or false commonsense facts, paying attention to any negations.",
+    "demonstration_prompt": "Statement: {sentence}\nLabel: {label}",
+    "inference_prompt": "Statement: {sentence}\nLabel:"
+}

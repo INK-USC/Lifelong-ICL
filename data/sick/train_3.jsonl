@@ -1,0 +1,60 @@
+{"sentence_A": "One little boy with brown hair is jumping off of the brown chair onto the floor", "sentence_B": "A young boy is jumping off a chair", "label": "entailment"}
+{"sentence_A": "A girl is playing the guitar", "sentence_B": "One man is intensely playing a guitar", "label": "neutral"}
+{"sentence_A": "The man is not putting chicken into the container", "sentence_B": "The man is putting chicken into the container", "label": "contradiction"}
+{"sentence_A": "The kids are chasing each other in the sand", "sentence_B": "A little boy is running on the ground and playing with a little girl", "label": "neutral"}
+{"sentence_A": "The man is doing a handstand on the wet shore at the edge of the water at the beach", "sentence_B": "A man is performing a handstand on the beach", "label": "entailment"}
+{"sentence_A": "There is no woman cooking a breaded pork chop", "sentence_B": "A woman is cooking a breaded pork chop", "label": "contradiction"}
+{"sentence_A": "A young boy is quickly jumping off a chair", "sentence_B": "A young boy is jumping off a chair", "label": "entailment"}
+{"sentence_A": "No dog is in the sand that is blowing in the wind", "sentence_B": "A dog is in the sand that is blowing in the wind", "label": "contradiction"}
+{"sentence_A": "A man is working on the laptop", "sentence_B": "The man is not feeding the snake with a mouse", "label": "neutral"}
+{"sentence_A": "The woman is sitting near a flower bed and is overlooking a tunnel", "sentence_B": "A woman is sitting near a flower bed and is overlooking a tunnel", "label": "entailment"}
+{"sentence_A": "A woman is playing the keyboard and a man is dancing", "sentence_B": "A woman is dancing and a man is playing the keyboard", "label": "neutral"}
+{"sentence_A": "A woman is frying fish", "sentence_B": "A woman is not frying fish", "label": "contradiction"}
+{"sentence_A": "A black dog is running in the snow", "sentence_B": "A dog is running through the snow", "label": "entailment"}
+{"sentence_A": "The man is not seasoning the sausages", "sentence_B": "The man is adding seasoning to the water in a bowl", "label": "neutral"}
+{"sentence_A": "A person with a red hooded jacket and a black backpack is walking near a rocky wall", "sentence_B": "A person with a red hooded jacket and a black backpack is not walking near a rocky wall", "label": "contradiction"}
+{"sentence_A": "There is no one sitting in lawn chairs and reading books", "sentence_B": "Two people in two chairs are reading", "label": "neutral"}
+{"sentence_A": "Three children are running down a hillside covered by grass", "sentence_B": "Three children are running down hill", "label": "entailment"}
+{"sentence_A": "The lady is slicing up the meat", "sentence_B": "The lady isn't slicing up the meat", "label": "contradiction"}
+{"sentence_A": "A man is putting away a guitar", "sentence_B": "A person is singing and playing the guitar", "label": "neutral"}
+{"sentence_A": "Two men are battling", "sentence_B": "Two men are fighting", "label": "entailment"}
+{"sentence_A": "The man in a cowboy hat is walking through a market and is putting a hand in his pocket", "sentence_B": "The man in a cowboy hat is not walking through a market and is not putting a hand in his pocket", "label": "contradiction"}
+{"sentence_A": "A young girl is jumping rope on a sidewalk near a parking garage", "sentence_B": "A girl is skipping rope on a sidewalk", "label": "entailment"}
+{"sentence_A": "Some cheerleaders are taking a break", "sentence_B": "Some cheerleaders are dancing", "label": "neutral"}
+{"sentence_A": "Four dogs are playing in a grassy area", "sentence_B": "Four dogs are not playing in a grassy area", "label": "contradiction"}
+{"sentence_A": "A woman is peeling a potato", "sentence_B": "The potato is being peeled by the lady", "label": "entailment"}
+{"sentence_A": "A woman is boiling shrimps", "sentence_B": "There is no woman combing her hair", "label": "neutral"}
+{"sentence_A": "There is no woman tapping her fingers", "sentence_B": "A woman is tapping her fingers on a table", "label": "contradiction"}
+{"sentence_A": "Nobody is playing with a toad", "sentence_B": "Someone is playing with a toad", "label": "contradiction"}
+{"sentence_A": "Nobody is riding the bicycle on one wheel", "sentence_B": "A person in a black jacket is doing tricks on a motorbike", "label": "neutral"}
+{"sentence_A": "The snowboarder is leaping over white snow", "sentence_B": "A person who is practicing snowboarding jumps into the air", "label": "entailment"}
+{"sentence_A": "The lady is peeling the potato", "sentence_B": "A woman is not peeling a potato", "label": "contradiction"}
+{"sentence_A": "The cat is playing keyboards", "sentence_B": "A cat is playing keyboards", "label": "entailment"}
+{"sentence_A": "The player is dunking the basketball into the net and a crowd is in background", "sentence_B": "A man with a jersey is dunking the ball at a basketball game", "label": "neutral"}
+{"sentence_A": "The dark skinned male is standing on one hand in front of a yellow building", "sentence_B": "The dark skinned male is not standing on one hand in front of a yellow building", "label": "contradiction"}
+{"sentence_A": "A happy family is posing by the fireplace", "sentence_B": "A family, which looks happy, is posing by the fireplace", "label": "entailment"}
+{"sentence_A": "A man in a purple colored suit is standing by a purple case and is playing a guitar", "sentence_B": "The man is playing the guitar and has the guitar case open for donations", "label": "neutral"}
+{"sentence_A": "A woman is cutting a tomato", "sentence_B": "A woman is slicing a tomato", "label": "entailment"}
+{"sentence_A": "Two men are walking through the water", "sentence_B": "Two men are standing in the ocean", "label": "neutral"}
+{"sentence_A": "The man and woman are not walking", "sentence_B": "The man and woman are walking", "label": "contradiction"}
+{"sentence_A": "A person who is practicing snowboarding falls from the air", "sentence_B": "A person who is practicing snowboarding jumps into the air", "label": "neutral"}
+{"sentence_A": "A woman is gracefully dancing on a stage", "sentence_B": "A woman is dancing on a stage", "label": "entailment"}
+{"sentence_A": "There is no man playing a harp", "sentence_B": "A man is playing a harp", "label": "contradiction"}
+{"sentence_A": "There is no person playing a piano", "sentence_B": "A person is slicing a potato", "label": "neutral"}
+{"sentence_A": "The man is going into the lake", "sentence_B": "The person is going into the water", "label": "entailment"}
+{"sentence_A": "A woman is pouring eggs into a frying pan", "sentence_B": "A woman is removing eggs from a frying pan", "label": "contradiction"}
+{"sentence_A": "A person is cutting mushrooms with a knife", "sentence_B": "A person is cutting some mushrooms", "label": "entailment"}
+{"sentence_A": "An officer is talking to the recruits", "sentence_B": "An officer is listening to the recruits", "label": "neutral"}
+{"sentence_A": "The black dog is running through the grass", "sentence_B": "The black dog is not running through the grass", "label": "contradiction"}
+{"sentence_A": "The man is doing a wheelie with a motorcycle on ground which is mostly barren", "sentence_B": "There is no child holding a squirt gun", "label": "neutral"}
+{"sentence_A": "A shirtless man is escorting a horse that is pulling a carriage along a paved road", "sentence_B": "A shirtless man is leading a horse that is pulling a carriage", "label": "entailment"}
+{"sentence_A": "A dog is jumping at a shiny blue soccer ball in a field of dry leaves", "sentence_B": "There is no dog jumping at a shiny blue soccer ball in a field of dry leaves", "label": "contradiction"}
+{"sentence_A": "There is no woman squeezing juice out of a lemon", "sentence_B": "A woman is squeezing a lemon", "label": "contradiction"}
+{"sentence_A": "The girl in the blue and white uniform is cheering", "sentence_B": "A girl in a uniform, which is blue, is lowering her arm", "label": "neutral"}
+{"sentence_A": "A person on a yellow bike is airborne", "sentence_B": "A person on a yellow dirt bike is taking a jump", "label": "entailment"}
+{"sentence_A": "A white horse is standing", "sentence_B": "A woman is cutting an onion", "label": "neutral"}
+{"sentence_A": "A small girl is riding in a toy car", "sentence_B": "A small girl is getting out of a toy car", "label": "contradiction"}
+{"sentence_A": "The small bee is landing on a bunch of yellow flowers", "sentence_B": "A small bee is landing on a bunch of yellow flowers", "label": "entailment"}
+{"sentence_A": "Two men are doing a funny skit with a boxer in front of a crowd of people", "sentence_B": "Two men are doing a skit, which is very funny, with a boxer in front of a crowd of people", "label": "entailment"}
+{"sentence_A": "A man in blue has a yellow ball in the mitt", "sentence_B": "A man is jumping rope outside", "label": "neutral"}
+{"sentence_A": "The man in the purple hat isn't operating a camera that makes videos", "sentence_B": "The man in the purple hat is operating a camera that makes videos", "label": "contradiction"}

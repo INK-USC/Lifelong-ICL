@@ -1,0 +1,9 @@
+{
+    "name": "environmental_claims",
+    "task_type": "classification",
+    "options": ["yes", "no"],
+    "instruction": "This is a binary classification task of whether a given sentence is an environmental claim (yes) or not (no).",
+    "instruction_2": "Is the given sentence an environmental claim? Answer with yes or no.",
+    "demonstration_prompt": "Sentence: {text}\nLabel: {label}",
+    "inference_prompt": "Sentence: {text}\nLabel:"
+}

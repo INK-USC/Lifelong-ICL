@@ -1,0 +1,9 @@
+{
+    "name": "hate_speech18",
+    "task_type": "classification",
+    "options": ["hate", "no hate"],
+    "instruction": "Classify if the text contains hate speech. Answer with hate or no hate.",
+    "instruction_2": "Determine whether the content qualifies as no hate or hate speech.",
+    "demonstration_prompt": "Text: {text}\nLabel: {label}",
+    "inference_prompt": "Text: {text}\nLabel:"
+}

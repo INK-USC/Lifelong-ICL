@@ -1,0 +1,100 @@
+{"id": "test_0", "text": "Nobody cares about the roots of modern civilization.", "explanation": " Nobody cares about the origins of modern civilization.", "label": "true"}
+{"id": "test_1", "text": "Don't mention Tom 's promotion to Mike as it would be a red flag to a bull.", "explanation": " Don't mention Tom 's promotion to Mike as it is sure to make him angry.", "label": "true"}
+{"id": "test_2", "text": "then a colorful joy exploded in her chest.", "explanation": " then she felt an intense jo.", "label": "true"}
+{"id": "test_3", "text": "He was worried they might spill everything about him.", "explanation": " He was worried they might tell everything about hi.", "label": "true"}
+{"id": "test_4", "text": "You will love the new train  it is a heavenly ride.", "explanation": " You will love the new train  it is a great ride that it offer.", "label": "true"}
+{"id": "test_5", "text": "Success is a bastard as it has many fathers; failure is an orphan with no takers.", "explanation": " Everyone wants to take credit for success and no one wants to take responsibility for failure.", "label": "true"}
+{"id": "test_6", "text": "The faculty meeting was an easy breeze.", "explanation": "The faculty meeting was ridiculous.", "label": "false"}
+{"id": "test_7", "text": "When I looked at my friend after the storm he was a ghost.", "explanation": " When I looked at my friend after the storm he was full of enthusiasm.", "label": "false"}
+{"id": "test_8", "text": "Her joy was blinding.", "explanation": " Her joy was overwhelmin.", "label": "true"}
+{"id": "test_9", "text": "Ask table 12 whether he wants to swap.", "explanation": "Ask the furniture of table 12 whether it wants to swap.", "label": "false"}
+{"id": "test_10", "text": "The children were roses beautiful and forlorn.", "explanation": " The children were lively and lou.", "label": "false"}
+{"id": "test_11", "text": "Time flies.", "explanation": " time is slo.", "label": "false"}
+{"id": "test_12", "text": "Then they cried a sea of tears.", "explanation": " they were very sad and cried a lo.", "label": "true"}
+{"id": "test_13", "text": "Jonathan drowned in a sea of grief.", "explanation": " Jonathan was drowning in the sea.", "label": "false"}
+{"id": "test_14", "text": "The roots of progress are in technological development.", "explanation": " The causes of progress are in technological development.", "label": "true"}
+{"id": "test_15", "text": "He kept us in the dark about his plans.", "explanation": "He did not tell us anything about his plans.", "label": "true"}
+{"id": "test_16", "text": "Here comes the fool with his foggy brain.", "explanation": " Here comes the fool with his brilliant min.", "label": "false"}
+{"id": "test_17", "text": "The woman had a blue feeling.", "explanation": " The woman had a sad feelin.", "label": "true"}
+{"id": "test_18", "text": "That boosted Raavan's spirits.", "explanation": "Raavan became sad.", "label": "false"}
+{"id": "test_19", "text": "The animal in the middle of the sea was a mountain.", "explanation": " The animal was huge in the middle of the sea.", "label": "true"}
+{"id": "test_20", "text": "he was feeling down hurt and sad.", "explanation": " he had a spicy hear.", "label": "false"}
+{"id": "test_21", "text": "Authority is a chair, it needs legs to stand.", "explanation": "Authority needs a legged-chair to stand.", "label": "false"}
+{"id": "test_22", "text": "Am I talking to a brick wall?.", "explanation": "Are you not listening to me.", "label": "true"}
+{"id": "test_23", "text": "This is a trap sentence.", "explanation": " You should not give this sentence a fou.", "label": "false"}
+{"id": "test_24", "text": "The work would have been easier if I had an extra pair of hands.", "explanation": "The work would have been easier if I had a total of four hands.", "label": "false"}
+{"id": "test_25", "text": "Draupadi's eyes were diamonds.", "explanation": "Draupadi's eyes were made of diamond.", "label": "false"}
+{"id": "test_26", "text": "Ramesh's parents felt that he was a bright boy.", "explanation": "Ramesh's parents felt that he was an intelligent boy.", "label": "true"}
+{"id": "test_27", "text": "Arjun was in love.", "explanation": "Arjun was inside love.", "label": "false"}
+{"id": "test_28", "text": "Her pen was a knife.", "explanation": "She wrote powerful and painful words.", "label": "true"}
+{"id": "test_29", "text": "For the end of the year  I was burned and broken.", "explanation": " For the end of the year  I burned my car and broke ou.", "label": "false"}
+{"id": "test_30", "text": "The weeks crawled by until we could meet again.", "explanation": "the weeks went as usual until we could meet again.", "label": "false"}
+{"id": "test_31", "text": "We dug up some interesting facts.", "explanation": " We have invented some interesting fact.", "label": "false"}
+{"id": "test_32", "text": "her smile was a blinding sun.", "explanation": " her smile was in the sky during the da.", "label": "false"}
+{"id": "test_33", "text": "You were dying to believe in what you heard.", "explanation": " You liked what you heard so much  you just wanted to believe i.", "label": "true"}
+{"id": "test_34", "text": "It is sad to observe the fruits of ignorance.", "explanation": " If is sad to observe the consequences of ignorance.", "label": "true"}
+{"id": "test_35", "text": "When I looked at my friend after the storm he was a ghost.", "explanation": " When I looked at my friend after the storm he was pale and silent.", "label": "true"}
+{"id": "test_36", "text": "Her eyes were fireflies.", "explanation": "Her eyes were small and bright.", "label": "true"}
+{"id": "test_37", "text": "The boss will eat me alive if the report arrives late.", "explanation": " The boss will criticise me severely if the report arrives late.", "label": "true"}
+{"id": "test_38", "text": "He said the leaders will have to deal with an ocean of resentment.", "explanation": " He said the leaders will have to deal with some little displeasur.", "label": "false"}
+{"id": "test_39", "text": "Marcus enjoyed the book.", "explanation": "Marcus enjoyed reading the book.", "label": "true"}
+{"id": "test_40", "text": "His friend was very tall and he looked like a chess piece beside him.", "explanation": " His friend was very tall and he looked white beside him.", "label": "false"}
+{"id": "test_41", "text": "When it rains in Tokyo the city becomes a sea of umbrellas.", "explanation": " When it rains in Tokyo the city becomes full of umbrellas.", "label": "true"}
+{"id": "test_42", "text": "By that time my friend was broken so he had to sell his house.", "explanation": " By that time my friend had a broken bone and he had to sell his hous.", "label": "false"}
+{"id": "test_43", "text": "He was living in his dream world  shutting his eyes in front of reality.", "explanation": " He was a very realistic and practical perso.", "label": "false"}
+{"id": "test_44", "text": "her smile was a blinding sun.", "explanation": " her smile was incredibly ugl.", "label": "false"}
+{"id": "test_45", "text": "Monty swam in a sea of diamonds.", "explanation": "Monty was a rich person.", "label": "true"}
+{"id": "test_46", "text": "Their honey moon was a dream.", "explanation": " Their honey moon was a nightmar.", "label": "false"}
+{"id": "test_47", "text": "The old tenant gave a bittersweet speech.", "explanation": " The old tenant gave a ironic speec.", "label": "false"}
+{"id": "test_48", "text": "They were burning with desire.", "explanation": " They were burning a hous.", "label": "false"}
+{"id": "test_49", "text": "He always had an interest for the fruit of knowledge.", "explanation": " He always had an interest for the origins of knowledg.", "label": "false"}
+{"id": "test_50", "text": "The faculty meeting was a nightmare.", "explanation": "the faculty meeting was very bad.", "label": "true"}
+{"id": "test_51", "text": "Ask table 12 whether he wants water.", "explanation": "Ask the person on table 12 whether he wants water.", "label": "true"}
+{"id": "test_52", "text": "The President brushed aside the accusations.", "explanation": " The president was taken aback by the accusation.", "label": "false"}
+{"id": "test_53", "text": "In the war on terror, American presidents must monitor not only the main terrorist organizations but their offshoots around the world as well.", "explanation": "In the war on terror, American presidents must monitor not only the main terrorist organizations but their civil counterparts around the world as well.", "label": "false"}
+{"id": "test_54", "text": "the wheels of justice turn slowly.", "explanation": " it can take a long time to see justice prevail on injustic.", "label": "true"}
+{"id": "test_55", "text": "He knew how to write sweet words.", "explanation": " He knew how to write menacing word.", "label": "false"}
+{"id": "test_56", "text": "When it rains in Tokyo the city becomes a sea of umbrellas.", "explanation": " When it rains in Tokyo you won't find umbrellas in it.", "label": "false"}
+{"id": "test_57", "text": "The chicken pasta is waiting for his check.", "explanation": "The dish of chicken pasta is waiting for it's check.", "label": "false"}
+{"id": "test_58", "text": "Silence was crushing . I knew the moment had arrived.", "explanation": "Silence was total  . I knew the moment had arrived.", "label": "true"}
+{"id": "test_59", "text": "The faculty meeting was an easy breeze.", "explanation": "At the faculty meeting we talked about the breeze.", "label": "false"}
+{"id": "test_60", "text": "Bill attacked every weak point in Rob's argument.", "explanation": "Bill criticised every weak point in Rob's argument.", "label": "true"}
+{"id": "test_61", "text": "William loved cigarettes.", "explanation": "William loved smoking cigarettes.", "label": "true"}
+{"id": "test_62", "text": "The girl broke into the conversation.", "explanation": " The girl said something interrupting the conversatio.", "label": "true"}
+{"id": "test_63", "text": "The house was a tomb.", "explanation": " The house was bright.", "label": "false"}
+{"id": "test_64", "text": "an ancient anger exploded in his heart.", "explanation": " an anger from ancient times created an explosion in his hear.", "label": "false"}
+{"id": "test_65", "text": "Jane knew these dicsussions were the seeds of a potential conflict.", "explanation": "Jane knew these discusssions were the beginning of a potential conflict.", "label": "true"}
+{"id": "test_66", "text": "I had already planted the idea in her mind.", "explanation": " I had already insinuated the idea to her.", "label": "true"}
+{"id": "test_67", "text": "The faculty meeting was a nightmare.", "explanation": "The faculty meeting was amusing.", "label": "false"}
+{"id": "test_68", "text": "The new band was absolutely on fire.", "explanation": " the new band was escaping a fir.", "label": "false"}
+{"id": "test_69", "text": "Silence was crushing . I knew the moment had arrived.", "explanation": "Silence was relaxing . I knew the moment had arrived.", "label": "false"}
+{"id": "test_70", "text": "The new city was a maze for him.", "explanation": " The new city was disorienting and confusing for him.", "label": "true"}
+{"id": "test_71", "text": "In the war on terror, American presidents must monitor not only the main terrorist organizations but their offshoots around the world as well.", "explanation": "In the war on terror, American presidents must monitor not only the main terrorist organizations but any group developing from them as well.", "label": "true"}
+{"id": "test_72", "text": "The captain was a tall and noble statue.", "explanation": " The captain was short noble and silent.", "label": "false"}
+{"id": "test_73", "text": "The man still had heavy feelings about the situation.", "explanation": " The man still had good feelings about the situatio.", "label": "false"}
+{"id": "test_74", "text": "His condescending attitude made my blood boil.", "explanation": " His condescending attitude made me enthusiastic.", "label": "false"}
+{"id": "test_75", "text": "He felt a wave of excitement.", "explanation": " He felt an intense excitemen.", "label": "true"}
+{"id": "test_76", "text": "The weeks crawled by until we could meet again.", "explanation": "during the week , people crawled by until we could meet again.", "label": "false"}
+{"id": "test_77", "text": "After letting off his rage he sat down like a lamb.", "explanation": " After letting off his rage he sat down very mildly.", "label": "true"}
+{"id": "test_78", "text": "He is the apple of my eye.", "explanation": " I hold him dear.", "label": "true"}
+{"id": "test_79", "text": "His condescending attitude made my blood boil.", "explanation": " I got really angry at his condescending attitude.", "label": "true"}
+{"id": "test_80", "text": "The boss will eat me alive if the report arrives late.", "explanation": " The boss will eat a man if the report arrives late.", "label": "false"}
+{"id": "test_81", "text": "I demolished his argument.", "explanation": " I demonstrated that all his arguments were inconsisten.", "label": "true"}
+{"id": "test_82", "text": "You were the golden boy back then.", "explanation": " you were the loved one everyone's favorite back the.", "label": "true"}
+{"id": "test_83", "text": "The girl could still remember that sweet song.", "explanation": " the girl could still remember that nice son.", "label": "true"}
+{"id": "test_84", "text": "The moment had arrived for killing the past and coming back to life.", "explanation": " the moment had arrived to talk about the past and forget about lif.", "label": "false"}
+{"id": "test_85", "text": "He is in such a hurry he does not run  he flies.", "explanation": " He is in such a hurry that he runs extremely fas.", "label": "true"}
+{"id": "test_86", "text": "He kept us in the dark about his plans.", "explanation": "He kept us in a dark room.", "label": "false"}
+{"id": "test_87", "text": "If wits were pins, Andrew and Bill would be veritable hedgehogs.", "explanation": "Andrew and Bill were very witty.", "label": "true"}
+{"id": "test_88", "text": "Katie\u2019s plan to get into college was a house of cards on a crooked table.", "explanation": " Katie\u2019s plan to get into college was realistic and had good chance.", "label": "false"}
+{"id": "test_89", "text": "She was sure she was living this fantasy romance and kept deluding herself.", "explanation": " she was sure she was living an romantic adventure and kept deluding hersel.", "label": "true"}
+{"id": "test_90", "text": "A break up can leave you with a broken heart.", "explanation": " A break up can leave you with cardiac problems.", "label": "false"}
+{"id": "test_91", "text": "He looked neither one way nor the other way but sat like a carved image.", "explanation": " He looked neither one way nor the other way but sat nervously twitching and agitated.", "label": "false"}
+{"id": "test_92", "text": "With the crisis the bubble exploded.", "explanation": " The situation changed dramatically with the crisis.", "label": "true"}
+{"id": "test_93", "text": "my soul was a lampless sea and she was the tempest.", "explanation": " my mood was great and i was in love with he.", "label": "false"}
+{"id": "test_94", "text": "My friend said the project was a nightmare.", "explanation": " the project was as easy as a breeze  according to my frien.", "label": "false"}
+{"id": "test_95", "text": "In Bombay, people change dance partners frequently, but not the dance.", "explanation": "In Bombay, people dance very fast.", "label": "false"}
+{"id": "test_96", "text": "life is just a dream in the night.", "explanation": " life is a serious matte.", "label": "false"}
+{"id": "test_97", "text": "He was worried they might spill everything about him.", "explanation": " One thing that worried him was that they might tell everything about hi.", "label": "true"}
+{"id": "test_98", "text": "If you are drowning in a sea of minor problems you cannot focus on what matters.", "explanation": " If you let a large number of minor problems overwhelm you you cannot focus on what matter.", "label": "true"}
+{"id": "test_99", "text": "She was lost in her thoughts and memories.", "explanation": " She was distracted by her thoughts and memorie.", "label": "true"}

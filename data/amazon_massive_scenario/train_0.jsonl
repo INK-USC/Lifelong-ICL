@@ -1,0 +1,360 @@
+{"text": "please send a tweet to food lion about not having a clean restroom", "label": "social", "id": "train_0_0"}
+{"text": "turn down the lights in the living room", "label": "iot", "id": "train_0_1"}
+{"text": "what time is it right now", "label": "datetime", "id": "train_0_2"}
+{"text": "what is i. b. m.'s stock worth", "label": "qa", "id": "train_0_3"}
+{"text": "order me a cheese burger from tommy's burgers", "label": "takeaway", "id": "train_0_4"}
+{"text": "play kari jobe for me", "label": "play", "id": "train_0_5"}
+{"text": "what do you think i look like", "label": "general", "id": "train_0_6"}
+{"text": "is there going to be any snow on tuesday", "label": "weather", "id": "train_0_7"}
+{"text": "please remove the alarm which i set for today morning", "label": "alarm", "id": "train_0_8"}
+{"text": "message my mother in law to book the reservations before friday or they will expire", "label": "email", "id": "train_0_9"}
+{"text": "louder please", "label": "audio", "id": "train_0_10"}
+{"text": "clear event", "label": "calendar", "id": "train_0_11"}
+{"text": "what's the latest on trump's travel ban", "label": "news", "id": "train_0_12"}
+{"text": "what is a good rap album that came out this year", "label": "music", "id": "train_0_13"}
+{"text": "show traffic", "label": "transport", "id": "train_0_14"}
+{"text": "are there any shopping centers nearby", "label": "recommendation", "id": "train_0_15"}
+{"text": "how do you cook steak", "label": "cooking", "id": "train_0_16"}
+{"text": "what is my list", "label": "lists", "id": "train_0_17"}
+{"text": "remind me an hour before my next work meeting", "label": "calendar", "id": "train_0_18"}
+{"text": "tell me the artist of this song", "label": "music", "id": "train_0_19"}
+{"text": "postpone my alarm by fifteen minutes", "label": "alarm", "id": "train_0_20"}
+{"text": "training day", "label": "recommendation", "id": "train_0_21"}
+{"text": "i emailed conrad a week ago please remind me what i wrote", "label": "email", "id": "train_0_22"}
+{"text": "could you speak a little more softly", "label": "audio", "id": "train_0_23"}
+{"text": "i want to sleep", "label": "iot", "id": "train_0_24"}
+{"text": "does restaurant has home delivery", "label": "takeaway", "id": "train_0_25"}
+{"text": "i don't want to take any more calls after five p. m.", "label": "general", "id": "train_0_26"}
+{"text": "olly any fresh news on brad pitt", "label": "news", "id": "train_0_27"}
+{"text": "olly show the method to prepare ice cream", "label": "cooking", "id": "train_0_28"}
+{"text": "set the time zone to g. m. t.", "label": "datetime", "id": "train_0_29"}
+{"text": "will it be good to buy nike stock today", "label": "qa", "id": "train_0_30"}
+{"text": "play a podcast about latest yoga videos", "label": "play", "id": "train_0_31"}
+{"text": "what list do i have", "label": "lists", "id": "train_0_32"}
+{"text": "tweet apple that the iphone doesn't work", "label": "social", "id": "train_0_33"}
+{"text": "is it going to be cloudy in london during the weekend", "label": "weather", "id": "train_0_34"}
+{"text": "siri find train tickets to nc", "label": "transport", "id": "train_0_35"}
+{"text": "what is the name of the artist that created this song", "label": "music", "id": "train_0_36"}
+{"text": "book a cab in the evening for me", "label": "transport", "id": "train_0_37"}
+{"text": "is it raining right now", "label": "weather", "id": "train_0_38"}
+{"text": "tell me when there is new news about donald trump", "label": "news", "id": "train_0_39"}
+{"text": "send email to daughter", "label": "email", "id": "train_0_40"}
+{"text": "set a timer at five am seven days a week", "label": "alarm", "id": "train_0_41"}
+{"text": "warm wishes to mac for new job", "label": "general", "id": "train_0_42"}
+{"text": "up", "label": "audio", "id": "train_0_43"}
+{"text": "when is the next blues concert in liverpool", "label": "recommendation", "id": "train_0_44"}
+{"text": "i want to hear music by a band from my playlist", "label": "play", "id": "train_0_45"}
+{"text": "search for your favorite meal", "label": "cooking", "id": "train_0_46"}
+{"text": "clock time", "label": "datetime", "id": "train_0_47"}
+{"text": "what does joke mean", "label": "qa", "id": "train_0_48"}
+{"text": "does the restaurant have delivery", "label": "takeaway", "id": "train_0_49"}
+{"text": "log a complaint to l. g. a. c. to customer service", "label": "social", "id": "train_0_50"}
+{"text": "what time is my dentist appointment on monday", "label": "calendar", "id": "train_0_51"}
+{"text": "what lists do i have", "label": "lists", "id": "train_0_52"}
+{"text": "alexa turn off the lamp in the living room", "label": "iot", "id": "train_0_53"}
+{"text": "at what temperature should i bake cookies", "label": "cooking", "id": "train_0_54"}
+{"text": "set an office meeting reminder for the next three days", "label": "calendar", "id": "train_0_55"}
+{"text": "order a pizza for me", "label": "takeaway", "id": "train_0_56"}
+{"text": "provide me with the list of great restaurants in a", "label": "recommendation", "id": "train_0_57"}
+{"text": "turn radio to ninety eight point seven", "label": "play", "id": "train_0_58"}
+{"text": "what is population per mile in asia", "label": "qa", "id": "train_0_59"}
+{"text": "do you think today will be nice out", "label": "general", "id": "train_0_60"}
+{"text": "show me the train schedules between madrid and barcelona for tomorrow", "label": "transport", "id": "train_0_61"}
+{"text": "tell me who wrote this song", "label": "music", "id": "train_0_62"}
+{"text": "it would be nice if you post status for me", "label": "social", "id": "train_0_63"}
+{"text": "has the university of greenwich emailed me", "label": "email", "id": "train_0_64"}
+{"text": "the date today please", "label": "datetime", "id": "train_0_65"}
+{"text": "increase light intensity", "label": "iot", "id": "train_0_66"}
+{"text": "remove the list of person starting from letter medium in my contact list", "label": "lists", "id": "train_0_67"}
+{"text": "can you tell me what alarms i have set", "label": "alarm", "id": "train_0_68"}
+{"text": "please reduce the sound", "label": "audio", "id": "train_0_69"}
+{"text": "i want topics on celebrity gossip", "label": "news", "id": "train_0_70"}
+{"text": "what is the weather going to be like this week", "label": "weather", "id": "train_0_71"}
+{"text": "what temperature do you cook pork on", "label": "cooking", "id": "train_0_72"}
+{"text": "please alexa tell me the latest video going viral on twitter for topic narendra modi", "label": "social", "id": "train_0_73"}
+{"text": "can to please clear my calendar of all events", "label": "calendar", "id": "train_0_74"}
+{"text": "it is too loud decrease the volume", "label": "audio", "id": "train_0_75"}
+{"text": "what is the date next saturday", "label": "datetime", "id": "train_0_76"}
+{"text": "places to order takeaway food", "label": "takeaway", "id": "train_0_77"}
+{"text": "the song playing now is released by which artist", "label": "music", "id": "train_0_78"}
+{"text": "is it bumper to bumper", "label": "transport", "id": "train_0_79"}
+{"text": "do a tournament with me in candy crush", "label": "play", "id": "train_0_80"}
+{"text": "how do you activate the robot vacuum cleaner", "label": "iot", "id": "train_0_81"}
+{"text": "add to my groceries", "label": "lists", "id": "train_0_82"}
+{"text": "tell me a random trivia", "label": "general", "id": "train_0_83"}
+{"text": "i want to and my email address", "label": "email", "id": "train_0_84"}
+{"text": "how many alarms are currently set", "label": "alarm", "id": "train_0_85"}
+{"text": "depending on the role you are going for this will affect your answer", "label": "qa", "id": "train_0_86"}
+{"text": "is there any new environmental news", "label": "news", "id": "train_0_87"}
+{"text": "where is the best place to buy party supplies in town", "label": "recommendation", "id": "train_0_88"}
+{"text": "is it still going to be rainy and cold on wednesday", "label": "weather", "id": "train_0_89"}
+{"text": "what has trump done now", "label": "news", "id": "train_0_90"}
+{"text": "wake me up every weekday at seven am", "label": "alarm", "id": "train_0_91"}
+{"text": "search for the best spagetti recipe", "label": "cooking", "id": "train_0_92"}
+{"text": "find dinner with mom on my calendar and delete it", "label": "calendar", "id": "train_0_93"}
+{"text": "tell me the name of that song", "label": "music", "id": "train_0_94"}
+{"text": "his new award", "label": "general", "id": "train_0_95"}
+{"text": "olly recommend an event happening in my area", "label": "recommendation", "id": "train_0_96"}
+{"text": "what is the exchange rate of u. s. d. to cdn", "label": "qa", "id": "train_0_97"}
+{"text": "tweet consumer service that the quantity is wrong", "label": "social", "id": "train_0_98"}
+{"text": "check out my to do list", "label": "lists", "id": "train_0_99"}
+{"text": "forward shown content to blahblah at blah dot com with email", "label": "email", "id": "train_0_100"}
+{"text": "what is paris time", "label": "datetime", "id": "train_0_101"}
+{"text": "how cold will it be next tuesday", "label": "weather", "id": "train_0_102"}
+{"text": "do the restaurant deliver", "label": "takeaway", "id": "train_0_103"}
+{"text": "change your colors to something different", "label": "iot", "id": "train_0_104"}
+{"text": "is traffic to work clear", "label": "transport", "id": "train_0_105"}
+{"text": "play my shazaam playlist on the spotify app", "label": "play", "id": "train_0_106"}
+{"text": "quiet", "label": "audio", "id": "train_0_107"}
+{"text": "be mute", "label": "audio", "id": "train_0_108"}
+{"text": "mileage of b. m. w. cars", "label": "general", "id": "train_0_109"}
+{"text": "draw petabits", "label": "music", "id": "train_0_110"}
+{"text": "i need to get going at eight am tomorrow set up an alarm thirty minutes before that", "label": "alarm", "id": "train_0_111"}
+{"text": "i need a recipe for chicken thighs for my pressure cooker", "label": "cooking", "id": "train_0_112"}
+{"text": "any new mail from jack", "label": "email", "id": "train_0_113"}
+{"text": "taxi now", "label": "transport", "id": "train_0_114"}
+{"text": "what are the latest updates with regard to trump's ties to russia", "label": "news", "id": "train_0_115"}
+{"text": "delete the list brads appointments", "label": "lists", "id": "train_0_116"}
+{"text": "who delivers near here", "label": "takeaway", "id": "train_0_117"}
+{"text": "start the vacuum at nine am", "label": "iot", "id": "train_0_118"}
+{"text": "tweet to amazon about late delivery of my t. v.", "label": "social", "id": "train_0_119"}
+{"text": "has the weather changed for wednesday at all", "label": "weather", "id": "train_0_120"}
+{"text": "what is a calone worth compared to a u. s. dollar", "label": "qa", "id": "train_0_121"}
+{"text": "i need to calendar a meeting with allison on monday at ten am", "label": "calendar", "id": "train_0_122"}
+{"text": "what shops are around me", "label": "recommendation", "id": "train_0_123"}
+{"text": "can you put on the next i heart music radio show", "label": "play", "id": "train_0_124"}
+{"text": "what is the time in clock", "label": "datetime", "id": "train_0_125"}
+{"text": "turn on plug", "label": "iot", "id": "train_0_126"}
+{"text": "show volume settings", "label": "audio", "id": "train_0_127"}
+{"text": "please delete this list", "label": "lists", "id": "train_0_128"}
+{"text": "was there any email regarding the wrong booking in sia", "label": "email", "id": "train_0_129"}
+{"text": "what events are happening between two four p. m. today", "label": "calendar", "id": "train_0_130"}
+{"text": "today i got rewards", "label": "general", "id": "train_0_131"}
+{"text": "book a train ticket with a berth seat to lucknow for next week", "label": "transport", "id": "train_0_132"}
+{"text": "how do i cook meatballs", "label": "cooking", "id": "train_0_133"}
+{"text": "set alarm for nine am", "label": "alarm", "id": "train_0_134"}
+{"text": "current time in ny", "label": "datetime", "id": "train_0_135"}
+{"text": "is there some play can i go tonight in the city", "label": "recommendation", "id": "train_0_136"}
+{"text": "please resume current song of masti", "label": "play", "id": "train_0_137"}
+{"text": "stock rate of facebook", "label": "qa", "id": "train_0_138"}
+{"text": "save chhana mereya song in my playlist", "label": "music", "id": "train_0_139"}
+{"text": "what is the current weather in new york city", "label": "weather", "id": "train_0_140"}
+{"text": "current world news", "label": "news", "id": "train_0_141"}
+{"text": "tweet my complaint and mention this costumer service", "label": "social", "id": "train_0_142"}
+{"text": "checkout top restaurant near me and order shahi panner", "label": "takeaway", "id": "train_0_143"}
+{"text": "set an alarm for the dance classes two hours before the classes start", "label": "alarm", "id": "train_0_144"}
+{"text": "find me a train ticket for the next trip to washington d. c.", "label": "transport", "id": "train_0_145"}
+{"text": "your scenarios on your p. c. and transfer them back to the via the hot", "label": "iot", "id": "train_0_146"}
+{"text": "let me see my most recent emails", "label": "email", "id": "train_0_147"}
+{"text": "plan me a holiday trip", "label": "general", "id": "train_0_148"}
+{"text": "olly list most rated delivery options for chinese food", "label": "takeaway", "id": "train_0_149"}
+{"text": "what's the weather in minneapoliscity", "label": "weather", "id": "train_0_150"}
+{"text": "make this a bit louder", "label": "audio", "id": "train_0_151"}
+{"text": "what song is that", "label": "music", "id": "train_0_152"}
+{"text": "find local shops", "label": "recommendation", "id": "train_0_153"}
+{"text": "what is the time in australia right now", "label": "datetime", "id": "train_0_154"}
+{"text": "remove twenty fourth march meeting from schedule", "label": "calendar", "id": "train_0_155"}
+{"text": "what's the easiest and quickest way to cook a turkey", "label": "cooking", "id": "train_0_156"}
+{"text": "begin radio play", "label": "play", "id": "train_0_157"}
+{"text": "show me recent news on particular subject", "label": "news", "id": "train_0_158"}
+{"text": "tweet with consumer service about problem i am facing with the product", "label": "social", "id": "train_0_159"}
+{"text": "what color is a basketball", "label": "qa", "id": "train_0_160"}
+{"text": "clear this list", "label": "lists", "id": "train_0_161"}
+{"text": "notify me when there's news on the dakota pipeline", "label": "news", "id": "train_0_162"}
+{"text": "what is my most played song", "label": "music", "id": "train_0_163"}
+{"text": "start vacuuming now please", "label": "iot", "id": "train_0_164"}
+{"text": "how is the climate today", "label": "weather", "id": "train_0_165"}
+{"text": "where is the nearest smoke shop", "label": "recommendation", "id": "train_0_166"}
+{"text": "set the alarm to seven am for work", "label": "alarm", "id": "train_0_167"}
+{"text": "remind me to meet sarah at safeway in mckinleyville california at noon", "label": "calendar", "id": "train_0_168"}
+{"text": "please remove the grocery list from my set of lists", "label": "lists", "id": "train_0_169"}
+{"text": "tell me the time in boston", "label": "datetime", "id": "train_0_170"}
+{"text": "i heard ale just got married can you please sshow me the wedding pictures on their instagram", "label": "social", "id": "train_0_171"}
+{"text": "change volume settings in the negative", "label": "audio", "id": "train_0_172"}
+{"text": "did i receive emails from this person", "label": "email", "id": "train_0_173"}
+{"text": "red f. m. chit chat auto tune", "label": "play", "id": "train_0_174"}
+{"text": "open lyft", "label": "transport", "id": "train_0_175"}
+{"text": "what is the current exchange rate between the dollar and the euro", "label": "qa", "id": "train_0_176"}
+{"text": "tell me how to cook steak", "label": "cooking", "id": "train_0_177"}
+{"text": "order me something online", "label": "general", "id": "train_0_178"}
+{"text": "open grubhub", "label": "takeaway", "id": "train_0_179"}
+{"text": "i need help with cooking baked chicken", "label": "cooking", "id": "train_0_180"}
+{"text": "post this picture on twitter", "label": "social", "id": "train_0_181"}
+{"text": "use this word in a sentence", "label": "qa", "id": "train_0_182"}
+{"text": "schedule meeting on tuesday", "label": "calendar", "id": "train_0_183"}
+{"text": "need to see volume settings", "label": "audio", "id": "train_0_184"}
+{"text": "olly find out if kfc delivers please", "label": "takeaway", "id": "train_0_185"}
+{"text": "send this song to my favorites", "label": "music", "id": "train_0_186"}
+{"text": "begin new list of lottery numbers", "label": "lists", "id": "train_0_187"}
+{"text": "what is the high for today", "label": "weather", "id": "train_0_188"}
+{"text": "it is dark", "label": "iot", "id": "train_0_189"}
+{"text": "read the email sent by this contact", "label": "email", "id": "train_0_190"}
+{"text": "please call a taxi to arrive at four hundred and take me to the manor theater", "label": "transport", "id": "train_0_191"}
+{"text": "which shops can i find in milan", "label": "recommendation", "id": "train_0_192"}
+{"text": "play latest songs for me from the net", "label": "play", "id": "train_0_193"}
+{"text": "let me know about the alarms you set", "label": "alarm", "id": "train_0_194"}
+{"text": "i just want to know some information about you", "label": "general", "id": "train_0_195"}
+{"text": "what is the time in paris", "label": "datetime", "id": "train_0_196"}
+{"text": "what are the news update on b. b. c.", "label": "news", "id": "train_0_197"}
+{"text": "did i set my house alarm", "label": "alarm", "id": "train_0_198"}
+{"text": "i want to hear that song", "label": "play", "id": "train_0_199"}
+{"text": "who is currently leading in the parliamentary election", "label": "news", "id": "train_0_200"}
+{"text": "weather san antonio texas", "label": "weather", "id": "train_0_201"}
+{"text": "find details about president barrack obama", "label": "qa", "id": "train_0_202"}
+{"text": "do i have any available time for a doctor's appointment on tuesday morning", "label": "calendar", "id": "train_0_203"}
+{"text": "what's the current time in new york", "label": "datetime", "id": "train_0_204"}
+{"text": "robot vacuum cleaner on", "label": "iot", "id": "train_0_205"}
+{"text": "olly name stores within ten mile radius with music", "label": "recommendation", "id": "train_0_206"}
+{"text": "tell me how to make tacos", "label": "cooking", "id": "train_0_207"}
+{"text": "i want some curry to go any recommendations", "label": "takeaway", "id": "train_0_208"}
+{"text": "what is joe joe's home address", "label": "email", "id": "train_0_209"}
+{"text": "i heard ale just got married can you please show me the wedding pictures on their instagram", "label": "social", "id": "train_0_210"}
+{"text": "what lists do i have saved", "label": "lists", "id": "train_0_211"}
+{"text": "i want to slow down my speaker", "label": "audio", "id": "train_0_212"}
+{"text": "please book a train ticket for me", "label": "transport", "id": "train_0_213"}
+{"text": "i need to have better focus olly i couldn't concentrate on a single task", "label": "general", "id": "train_0_214"}
+{"text": "i like this song that is playing", "label": "music", "id": "train_0_215"}
+{"text": "what can you do", "label": "general", "id": "train_0_216"}
+{"text": "save this song", "label": "music", "id": "train_0_217"}
+{"text": "find chicken tikka recipe", "label": "cooking", "id": "train_0_218"}
+{"text": "free up my schedule for the next week", "label": "calendar", "id": "train_0_219"}
+{"text": "what's the average temperature in mangalore for this week", "label": "weather", "id": "train_0_220"}
+{"text": "i want blue lighting", "label": "iot", "id": "train_0_221"}
+{"text": "how much is one dollar in euros", "label": "qa", "id": "train_0_222"}
+{"text": "check if any alarm is there after five am", "label": "alarm", "id": "train_0_223"}
+{"text": "when does the next train leave for atlanta", "label": "transport", "id": "train_0_224"}
+{"text": "how many days is it until may twenty fifth", "label": "datetime", "id": "train_0_225"}
+{"text": "delete everything on the menu", "label": "lists", "id": "train_0_226"}
+{"text": "what are all the event in area", "label": "recommendation", "id": "train_0_227"}
+{"text": "reply to john stating that i will attend the party", "label": "email", "id": "train_0_228"}
+{"text": "how much longer until my pizza will be here", "label": "takeaway", "id": "train_0_229"}
+{"text": "is everyone on my facebook list watching the game", "label": "social", "id": "train_0_230"}
+{"text": "mute", "label": "audio", "id": "train_0_231"}
+{"text": "give me the news on my provider", "label": "news", "id": "train_0_232"}
+{"text": "play music relating to the music i listened to this morning", "label": "play", "id": "train_0_233"}
+{"text": "would you go check my emails for me", "label": "email", "id": "train_0_234"}
+{"text": "personal digital assistant", "label": "news", "id": "train_0_235"}
+{"text": "save this song in my favorites", "label": "music", "id": "train_0_236"}
+{"text": "what is the day today", "label": "datetime", "id": "train_0_237"}
+{"text": "where should i go for dinner in san francisco tonight", "label": "recommendation", "id": "train_0_238"}
+{"text": "who is barack obama", "label": "qa", "id": "train_0_239"}
+{"text": "give me the list of all events coming up in the next month and set notifications for all of them", "label": "calendar", "id": "train_0_240"}
+{"text": "i want to know the procedure of making thanksgiving turkey in five sentences", "label": "cooking", "id": "train_0_241"}
+{"text": "please play me a song from my favorite list", "label": "play", "id": "train_0_242"}
+{"text": "i need a train ticket to rome book ticket", "label": "transport", "id": "train_0_243"}
+{"text": "make the lights a different color", "label": "iot", "id": "train_0_244"}
+{"text": "does pf changs do take-out", "label": "takeaway", "id": "train_0_245"}
+{"text": "ask me easy questions about a subject i know and tell me when i'm wrong", "label": "general", "id": "train_0_246"}
+{"text": "what's my next alarm", "label": "alarm", "id": "train_0_247"}
+{"text": "by hide", "label": "audio", "id": "train_0_248"}
+{"text": "tell me my list", "label": "lists", "id": "train_0_249"}
+{"text": "what is the weather in paris", "label": "weather", "id": "train_0_250"}
+{"text": "call the customer cell through email", "label": "social", "id": "train_0_251"}
+{"text": "alarm me at eight am", "label": "alarm", "id": "train_0_252"}
+{"text": "what was martin luther kings birthday", "label": "qa", "id": "train_0_253"}
+{"text": "hi what kind of pictures you uploaded in pinterest", "label": "social", "id": "train_0_254"}
+{"text": "is there a take-out menu at the restaurant", "label": "takeaway", "id": "train_0_255"}
+{"text": "who is the singer of this song right now", "label": "music", "id": "train_0_256"}
+{"text": "start the gas stove adjust the flame to cooking the dish and put all cooking ingredient to pressure cooker to cook the ingredients keep it on the stove wait for the ingredients to be cooked", "label": "cooking", "id": "train_0_257"}
+{"text": "you're too loud", "label": "audio", "id": "train_0_258"}
+{"text": "i would like orange lights now", "label": "iot", "id": "train_0_259"}
+{"text": "what's the time in dubai", "label": "datetime", "id": "train_0_260"}
+{"text": "remind me when i reach", "label": "calendar", "id": "train_0_261"}
+{"text": "what's the email address of silvia", "label": "email", "id": "train_0_262"}
+{"text": "terrorist activities", "label": "news", "id": "train_0_263"}
+{"text": "what causes if i had junk food and alcohols", "label": "general", "id": "train_0_264"}
+{"text": "please tell me the closest convenience store to my house", "label": "recommendation", "id": "train_0_265"}
+{"text": "when does the last train from work leave", "label": "transport", "id": "train_0_266"}
+{"text": "what is the weather forecast for chicago", "label": "weather", "id": "train_0_267"}
+{"text": "program y. at radio b. b. c.", "label": "play", "id": "train_0_268"}
+{"text": "a new list to be created by tomorrow", "label": "lists", "id": "train_0_269"}
+{"text": "turn the lights blue", "label": "iot", "id": "train_0_270"}
+{"text": "what day does easter fall on this year", "label": "datetime", "id": "train_0_271"}
+{"text": "please increase volume in music player", "label": "audio", "id": "train_0_272"}
+{"text": "did you receive this person email", "label": "email", "id": "train_0_273"}
+{"text": "list local ongoing exhibitions", "label": "recommendation", "id": "train_0_274"}
+{"text": "add new year's eve to calendar", "label": "calendar", "id": "train_0_275"}
+{"text": "how is the stock for compaq doing", "label": "qa", "id": "train_0_276"}
+{"text": "set alarm for eight am tomorrow", "label": "alarm", "id": "train_0_277"}
+{"text": "please give me directions to a park near me", "label": "transport", "id": "train_0_278"}
+{"text": "how to cook a pizza", "label": "cooking", "id": "train_0_279"}
+{"text": "song identifier", "label": "music", "id": "train_0_280"}
+{"text": "groceries list", "label": "lists", "id": "train_0_281"}
+{"text": "i want to tweet a complaint to target", "label": "social", "id": "train_0_282"}
+{"text": "hey siri have you heard any funny jokes lately", "label": "general", "id": "train_0_283"}
+{"text": "do i need to wear boots", "label": "weather", "id": "train_0_284"}
+{"text": "order two hamburgers for me", "label": "takeaway", "id": "train_0_285"}
+{"text": "play that podcast please", "label": "play", "id": "train_0_286"}
+{"text": "latest news from jersey", "label": "news", "id": "train_0_287"}
+{"text": "give me the volume settings", "label": "audio", "id": "train_0_288"}
+{"text": "please play the song games by disturbed", "label": "play", "id": "train_0_289"}
+{"text": "what's going on in japan", "label": "news", "id": "train_0_290"}
+{"text": "turn off the living room lights", "label": "iot", "id": "train_0_291"}
+{"text": "post my business on all my social media sites", "label": "social", "id": "train_0_292"}
+{"text": "what is the weather like in iowa", "label": "weather", "id": "train_0_293"}
+{"text": "what time is my alarm set for tomorrow morning", "label": "alarm", "id": "train_0_294"}
+{"text": "food order from grubhub", "label": "takeaway", "id": "train_0_295"}
+{"text": "what is the meeting schedule", "label": "calendar", "id": "train_0_296"}
+{"text": "what events are ongoing today in biloxi", "label": "recommendation", "id": "train_0_297"}
+{"text": "how many records did prince make", "label": "qa", "id": "train_0_298"}
+{"text": "i have some salmon how do i prepare this", "label": "cooking", "id": "train_0_299"}
+{"text": "i don't like this song", "label": "music", "id": "train_0_300"}
+{"text": "cheering me up", "label": "general", "id": "train_0_301"}
+{"text": "what are listed", "label": "lists", "id": "train_0_302"}
+{"text": "i need to know what time it is right now in new york city", "label": "datetime", "id": "train_0_303"}
+{"text": "alex has told me that he will send an email regarding the price of the machine please check if that has come", "label": "email", "id": "train_0_304"}
+{"text": "can i get the directions to the nearest bar", "label": "transport", "id": "train_0_305"}
+{"text": "where can i order take-out", "label": "takeaway", "id": "train_0_306"}
+{"text": "remember that i need to turn in my math assignment tonight by eleven", "label": "calendar", "id": "train_0_307"}
+{"text": "what year was this song recorded", "label": "music", "id": "train_0_308"}
+{"text": "select recipe", "label": "cooking", "id": "train_0_309"}
+{"text": "any specific event in washington", "label": "recommendation", "id": "train_0_310"}
+{"text": "can you please put on music", "label": "play", "id": "train_0_311"}
+{"text": "what day is easter", "label": "datetime", "id": "train_0_312"}
+{"text": "set alarm for noon tomorrow", "label": "alarm", "id": "train_0_313"}
+{"text": "should i carry an umbrella with me today", "label": "weather", "id": "train_0_314"}
+{"text": "please remove this list", "label": "lists", "id": "train_0_315"}
+{"text": "turn off the bedroom lamp", "label": "iot", "id": "train_0_316"}
+{"text": "who was john dillinger", "label": "qa", "id": "train_0_317"}
+{"text": "when is the next train arriving to union station from grand central station", "label": "transport", "id": "train_0_318"}
+{"text": "add john at gmail dot com to contacts", "label": "email", "id": "train_0_319"}
+{"text": "tweet a complaint to apple that their battery life is terrible", "label": "social", "id": "train_0_320"}
+{"text": "give me the news on n. b. c. alexa", "label": "news", "id": "train_0_321"}
+{"text": "do you store personal information about me", "label": "general", "id": "train_0_322"}
+{"text": "unmute my sound", "label": "audio", "id": "train_0_323"}
+{"text": "find places to eat near my home", "label": "recommendation", "id": "train_0_324"}
+{"text": "get me a recipe", "label": "cooking", "id": "train_0_325"}
+{"text": "please play nightmare by avenged sevenfold", "label": "play", "id": "train_0_326"}
+{"text": "how many keys are on a piano", "label": "qa", "id": "train_0_327"}
+{"text": "what's the headlines from bob's news", "label": "news", "id": "train_0_328"}
+{"text": "make sure to call the babysitter for date night on friday", "label": "calendar", "id": "train_0_329"}
+{"text": "mute the sound", "label": "audio", "id": "train_0_330"}
+{"text": "do i need to wear a coat", "label": "weather", "id": "train_0_331"}
+{"text": "how long does it take the train to get from here and the met", "label": "transport", "id": "train_0_332"}
+{"text": "please turn off the lamp", "label": "iot", "id": "train_0_333"}
+{"text": "schedule pizza take-out for seven p. m.", "label": "takeaway", "id": "train_0_334"}
+{"text": "show me the latest email of jack", "label": "email", "id": "train_0_335"}
+{"text": "remove chores from my to do list", "label": "lists", "id": "train_0_336"}
+{"text": "what time is it relative to new york", "label": "datetime", "id": "train_0_337"}
+{"text": "i don't want to hear any more songs of that type", "label": "music", "id": "train_0_338"}
+{"text": "set an alarm for four in the afternoon", "label": "alarm", "id": "train_0_339"}
+{"text": "what's the best value marathon to enter in the next six months", "label": "general", "id": "train_0_340"}
+{"text": "has derek logged into facebook today", "label": "social", "id": "train_0_341"}
+{"text": "give me the update on traffic at new york", "label": "transport", "id": "train_0_342"}
+{"text": "please turn off the alarm", "label": "alarm", "id": "train_0_343"}
+{"text": "activate the vacuum", "label": "iot", "id": "train_0_344"}
+{"text": "how is the weather in utah right now", "label": "weather", "id": "train_0_345"}
+{"text": "show reminders", "label": "calendar", "id": "train_0_346"}
+{"text": "how big is the stashable cinch bag and what does it look like", "label": "qa", "id": "train_0_347"}
+{"text": "play me harry potter from the place i last stopped listening on olly", "label": "play", "id": "train_0_348"}
+{"text": "i would like my robot to take my dog outside to go the bathroom", "label": "general", "id": "train_0_349"}
+{"text": "call the nearest pizza place that offers buffalo pizza", "label": "takeaway", "id": "train_0_350"}
+{"text": "open the site bbcnews dot com", "label": "news", "id": "train_0_351"}
+{"text": "hey what time is it in orlando florida", "label": "datetime", "id": "train_0_352"}
+{"text": "show me the customer service number for mcdonalds", "label": "social", "id": "train_0_353"}
+{"text": "will you please put something something at gmail dot com in my contacts", "label": "email", "id": "train_0_354"}
+{"text": "what is happening in milwaukee today", "label": "recommendation", "id": "train_0_355"}
+{"text": "make the volume lower", "label": "audio", "id": "train_0_356"}
+{"text": "erase that item from my list", "label": "lists", "id": "train_0_357"}
+{"text": "what's playing", "label": "music", "id": "train_0_358"}
+{"text": "what is a good taco recipe", "label": "cooking", "id": "train_0_359"}

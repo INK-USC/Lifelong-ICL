@@ -1,0 +1,9 @@
+{
+    "name": "qnli",
+    "task_type": "classification",
+    "options": ["entailment", "not entailment"],
+    "instruction": "Determine whether the context sentence contains the answer to the question. Respond with entailment or not entailment.",
+    "instruction_2": "Does the provided sentence contain the answer to the question? Answer with entailment or not entailment.",
+    "demonstration_prompt": "sentence: {sentence}\nquestion: {question}\nlabel: {label}",
+    "inference_prompt": "sentence: {sentence}\nquestion: {question}\nlabel:"
+}

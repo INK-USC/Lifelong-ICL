@@ -1,0 +1,9 @@
+{
+    "name": "rct20k",
+    "task_type": "classification",
+    "options": ["background", "objective", "method", "result", "conclusion"],
+    "instruction": "Classify the sentence into background, objective, method, result, or conclusion.",
+    "instruction_2": "Determine which category best describes the sentence: conclusion, method, result, objective, or background.",
+    "demonstration_prompt": "Input: {text}\nLabel: {label}",
+    "inference_prompt": "Input: {text}\nLabel:"
+}

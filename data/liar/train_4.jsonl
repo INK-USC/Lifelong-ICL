@@ -1,0 +1,120 @@
+{"text": "When Congressman Langevin took office, gas was around $1.70 per gallon, and now it is near $4 per gallon.", "label": "barely true", "id": "train_4_0"}
+{"text": "The president by executive order could grant voting rights to illegal immigrants who are newly legalized under pending legislation.", "label": "pants fire", "id": "train_4_1"}
+{"text": "There are only about 10 people in the United States Senate who have any real business experience.", "label": "mostly true", "id": "train_4_2"}
+{"text": "Since I took office in January 2011, we have created 11,100 Rhode Island-based jobs.", "label": "half true", "id": "train_4_3"}
+{"text": "We have more people working in the state of New Jersey today than weve ever had in our history.", "label": "false", "id": "train_4_4"}
+{"text": "Says Donald Trump supported impeachment of President (George W.) Bush.", "label": "true", "id": "train_4_5"}
+{"text": "The head of the FBI has told Congress they cannot vet those (Syrian) refugees.", "label": "barely true", "id": "train_4_6"}
+{"text": "Says that Starbucks took Christmas off of their brand new cups.", "label": "pants fire", "id": "train_4_7"}
+{"text": "Says Ron Johnson voted five times for tax breaks that help companies ship Wisconsin jobs overseas.", "label": "false", "id": "train_4_8"}
+{"text": "\"Close to half of the folks in this country illegally entered legally (but) overstayed (their ) visas.\"", "label": "mostly true", "id": "train_4_9"}
+{"text": "Air travelers cant get on a plane in the United States without someone doing a background check on them.", "label": "half true", "id": "train_4_10"}
+{"text": "Says one in four women and one in seven men have been victims of domestic violence in their lifetime.", "label": "true", "id": "train_4_11"}
+{"text": "A large number of the uninsured earn $75,000 or more a year.", "label": "half true", "id": "train_4_12"}
+{"text": "The Castro regime violated international norms by secretly shipping weapons to North Korea in violation of a U.N. embargo.", "label": "mostly true", "id": "train_4_13"}
+{"text": "Says John Boehner changed his position on extending Bush tax cuts.", "label": "barely true", "id": "train_4_14"}
+{"text": "With a bill bringing $100 million in property tax relief, the typical Wisconsin homeowner will save approximately $680 over four years.", "label": "pants fire", "id": "train_4_15"}
+{"text": "Herman Cain is a pro-choice candidate.", "label": "false", "id": "train_4_16"}
+{"text": "There have been literally hundreds of new tax preferences and loopholes added to the code since 1986, last time we did this.", "label": "true", "id": "train_4_17"}
+{"text": "If the United States moves ahead by itself (on cap-and-trade)... after 30 or 40 years, were going to reduce CO2 by less than 1 percent.", "label": "half true", "id": "train_4_18"}
+{"text": "The White House had a live video feed of the Benghazi attacks as they occurred.", "label": "pants fire", "id": "train_4_19"}
+{"text": "Says U.S. House candidate Carlos Curbelo supported raising flood insurance rates.", "label": "false", "id": "train_4_20"}
+{"text": "In fighting collective bargaining changes, Democrats are trying to protect a system that pays unionized government workers 42 percent more than non-union workers.", "label": "barely true", "id": "train_4_21"}
+{"text": "We have been in Afghanistan longer now than we have been in any foreign land conducting a war in our nations history.", "label": "mostly true", "id": "train_4_22"}
+{"text": "Says he was known as Veto Corleone for cutting spending as Florida governor.", "label": "true", "id": "train_4_23"}
+{"text": "The first round of stimulus ... it created zero jobs.", "label": "pants fire", "id": "train_4_24"}
+{"text": "For every dollar we invest in Head Start, we get $5 to $7 back into our economy.", "label": "mostly true", "id": "train_4_25"}
+{"text": "The United States Senate Democrats and Republicans (voted) to keep our government open.", "label": "barely true", "id": "train_4_26"}
+{"text": "\"McCain opposed a requirement that the government buy American-made motorcycles. And he said all buy-American provisions were quote 'disgraceful.' \"", "label": "true", "id": "train_4_27"}
+{"text": "The health care law was a 2,733-page bill! . . . No amendments!", "label": "half true", "id": "train_4_28"}
+{"text": "We dont have a (military) reserve force if something happens.", "label": "false", "id": "train_4_29"}
+{"text": "Says Marcy Kaptur has attacked his military service and training in the Air Force, showing disrespect for veterans.", "label": "pants fire", "id": "train_4_30"}
+{"text": "In Cover Florida \"thousands already enrolled and climbing.\"", "label": "half true", "id": "train_4_31"}
+{"text": "Its taken more time to complete the Towpath Trail than it did to build the (Ohio Erie) Canal.", "label": "true", "id": "train_4_32"}
+{"text": "I fought hard for that (state Senate) seat. I only lost by four points. I raised over $700,000.", "label": "barely true", "id": "train_4_33"}
+{"text": "Says President Obama has never made a statement ... that he wanted a residual force left (in Iraq).", "label": "mostly true", "id": "train_4_34"}
+{"text": "Household income in America has gone down for families an average of $4,000 in the last four years while it went up $5,000 under Mitt Romney when he was governor of Massachusetts", "label": "false", "id": "train_4_35"}
+{"text": "Oregons per capita income is 9 percent below the national average and getting worse. This is a state thats actually getting poorer.", "label": "half true", "id": "train_4_36"}
+{"text": "\"Grateful insurance company executives and their lobbyists\" from Bermuda gave McCain $50,000.", "label": "true", "id": "train_4_37"}
+{"text": "Says he didnt have an involvement withnutritional supplement company Mannatech.", "label": "false", "id": "train_4_38"}
+{"text": "The IRS has been specifically forbidden ... from ever actually pursuing either civil or criminal remedies for people who dont purchase health insurance.", "label": "mostly true", "id": "train_4_39"}
+{"text": "Farming is one of the fastest growing areas of our economy.", "label": "barely true", "id": "train_4_40"}
+{"text": "By the word religion in the First Amendment, the founders meant Christianity.", "label": "pants fire", "id": "train_4_41"}
+{"text": "Michelle Nunn spent most of her childhood in Perry, Ga.", "label": "barely true", "id": "train_4_42"}
+{"text": "[The state ethics commission] took absolutely the same percent of cuts as most other state agencies. They were somewhere in the 7 percent range same as the governors office.", "label": "true", "id": "train_4_43"}
+{"text": "The Ukraine Orange Revolution in 2004 was the first color revolution.", "label": "false", "id": "train_4_44"}
+{"text": "Im beating (Kelly Ayotte) in the polls by a lot.", "label": "pants fire", "id": "train_4_45"}
+{"text": "Domestic violence is seen as a pre-existing health condition and women had to pay 50 percent more for health care because of gender ratings, but under Obamacare, all of that is over.", "label": "half true", "id": "train_4_46"}
+{"text": "Says former Sen. George Allen voted four times to raise his own pay.", "label": "mostly true", "id": "train_4_47"}
+{"text": "Says Patrick Murphy wrongly conveyed Rubios stance on abortion for women infected by Zika.", "label": "false", "id": "train_4_48"}
+{"text": "Charlie Crist has six different positions on ObamaCare.", "label": "half true", "id": "train_4_49"}
+{"text": "Ed Perlmutter voted for Viagra for rapists paid for with tax dollars.", "label": "pants fire", "id": "train_4_50"}
+{"text": "New York is the safest big city in the nation, and our crime reductions have been steeper than any other big citys.", "label": "mostly true", "id": "train_4_51"}
+{"text": "Says President Franklin Delano Roosevelt felt there wasnt a need in the public sector to have collective bargaining because the government is the people.", "label": "true", "id": "train_4_52"}
+{"text": "\"Already we've identified $2 trillion in deficit reductions over the next decade.\"", "label": "barely true", "id": "train_4_53"}
+{"text": "Says Texas has 11 different felonies you can commit with an oyster.", "label": "mostly true", "id": "train_4_54"}
+{"text": "Say Texas U.S. Reps. Eddie Bernice Johnson and Sheila Jackson Lee are among open Socialists in Congress.", "label": "pants fire", "id": "train_4_55"}
+{"text": "Dallas African-American and Hispanic students pass AP exams at a higher rate than any other place in America.", "label": "half true", "id": "train_4_56"}
+{"text": "Says that you cant destroy the guns purchased in a (gun) buyback program as the city (of Memphis) wants to do.", "label": "false", "id": "train_4_57"}
+{"text": "Massachusetts is reporting a trend far below the national trend in the escalation of health-care costs in this year.", "label": "barely true", "id": "train_4_58"}
+{"text": "On the mosque near ground zero.", "label": "true", "id": "train_4_59"}
+{"text": "Latin Americas economy is almost as big as the economy of China.", "label": "half true", "id": "train_4_60"}
+{"text": "Nancy Pelosi wants a Windfall Tax on Retirement Income.", "label": "pants fire", "id": "train_4_61"}
+{"text": "Says Julie Parrish voted to divert $160 million from public schools to private for-profit schools.", "label": "barely true", "id": "train_4_62"}
+{"text": "Supreme Court 15 times over the last 120 years has said marriage is a fundamental right and never said it had to be between a man and a woman.", "label": "true", "id": "train_4_63"}
+{"text": "We have 93 million people out of work. They look for jobs, they give up, and all of a sudden, statistically, theyre considered employed.", "label": "false", "id": "train_4_64"}
+{"text": "Says New Jersey Devils managing partner Jeff Vanderbeek froze all those monies during the toughest years in 08-09 and refused to give the charitable dollars that he was required to give by the contract.", "label": "mostly true", "id": "train_4_65"}
+{"text": "Says Glenn Nye voted in lock step with Nancy Pelosi 83 percentof the time.", "label": "barely true", "id": "train_4_66"}
+{"text": "Government subsidies for renewable energies such as wind and solar are 100 times greater than those given to gas and coal, and 50 times greater than what the nuclear industry enjoys.", "label": "half true", "id": "train_4_67"}
+{"text": "A new college tuition reciprocity agreement with Minnesota makes college education more affordable for Wisconsin residents.", "label": "pants fire", "id": "train_4_68"}
+{"text": "I co-sponsored the Rebuild America Jobs Act for transportation and infrastructure.", "label": "false", "id": "train_4_69"}
+{"text": "Once our Blueprint for Prosperity is signed into law, we will have delivered $2 billion in tax relief.", "label": "true", "id": "train_4_70"}
+{"text": "Medicare Part D was far more expensive than the Affordable Care Act and unlike the act, was never budgeted.", "label": "mostly true", "id": "train_4_71"}
+{"text": "John McCain \"said publicly that Hillary Clinton would make a good president.\"", "label": "true", "id": "train_4_72"}
+{"text": "Since 2013 alone, the Obama administration has allowed 300,000 criminal aliens to return back into United States communities. These are individuals encountered or identified by (Immigration and Customs Enforcement), but who were not detained or processed for deportation because it wouldnt have been politically correct.", "label": "half true", "id": "train_4_73"}
+{"text": "25% of human trafficking victims are located in Texas.", "label": "pants fire", "id": "train_4_74"}
+{"text": "Says 11 soccer players on the U.S. Mens National Team are immigrants.", "label": "false", "id": "train_4_75"}
+{"text": "We got a million jobs.", "label": "mostly true", "id": "train_4_76"}
+{"text": "Blames Mike McIntyre and Nancy Pelosi for the second straight year of no cost-of-living increases for Social Security beneficiaries.", "label": "barely true", "id": "train_4_77"}
+{"text": "Says Mitt Romney would deny gay people the right to adopt children.", "label": "false", "id": "train_4_78"}
+{"text": "Gov. Scott Walker hired convicted Assembly Speaker Scott Jensen to oversee a raid on the state employee retirement system to help balance the state budget.", "label": "pants fire", "id": "train_4_79"}
+{"text": "Florida election officials requests to some residents to submit proof of citizenship is a backdoor poll tax.", "label": "half true", "id": "train_4_80"}
+{"text": "Wayne Powell has a stated position of having no objection to taking `In God We Trust off of U.S. currency.", "label": "true", "id": "train_4_81"}
+{"text": "Charlie Crist raised taxes in 2009 and wont rule out raising taxes again.", "label": "mostly true", "id": "train_4_82"}
+{"text": "Whats clear is (Romney) likes firing people.", "label": "barely true", "id": "train_4_83"}
+{"text": "Unions did not create the eight-hour work day and the 40-hour work week. Henry Ford did.", "label": "barely true", "id": "train_4_84"}
+{"text": "The major immigration issue was about Poles, and Bulgarians, and Romanians, and that they werent contributing economically. The unemployment rate among Poles in Britain is lower than the unemployment rate among Brits.", "label": "true", "id": "train_4_85"}
+{"text": "Holding up a BlackBerry, McCain campaign adviser says, \"youre looking at the miracle John McCain helped create.\"", "label": "false", "id": "train_4_86"}
+{"text": "We went from a $5.6 trillion surplus that George Bush inherited to over ... $11-plus trillion debt when George Bush left office.", "label": "half true", "id": "train_4_87"}
+{"text": "Says Ive authored the first bipartisan tax reform bill in a quarter-century.", "label": "mostly true", "id": "train_4_88"}
+{"text": "\"All non-US citizens, illegal or not, will be provided with free health care services.\"", "label": "pants fire", "id": "train_4_89"}
+{"text": "When Standard Poors dropped our credit rating, what they said is, we dont have an ability to repay our debt. ... I was proved right in my position that the debt ceiling should not have been raised.", "label": "false", "id": "train_4_90"}
+{"text": "Says under the Affordable Care Act, New Jerseys new (Medicaid) enrollees wont qualify for the matching federal funds simply because we added them onto the rolls before 2014.", "label": "barely true", "id": "train_4_91"}
+{"text": "Says unions call Obamacare bad for workers.", "label": "mostly true", "id": "train_4_92"}
+{"text": "Chris Koster opposed protecting the women of Missouri because he was one of only four senators to vote against a bill ending the practice of making rape victims pay for their own rape kits.", "label": "half true", "id": "train_4_93"}
+{"text": "Says our deficits are falling at the fastest rate in 60 years.", "label": "true", "id": "train_4_94"}
+{"text": "President Barack Obama met with Iranian president Hassan Rouhani.", "label": "pants fire", "id": "train_4_95"}
+{"text": "Today President Obama said there will NOT be a National Day of Prayer in May.", "label": "pants fire", "id": "train_4_96"}
+{"text": "In general, it appears Wisconsins right to work bill would likely apply to the Green Bay Packers players and their union.", "label": "mostly true", "id": "train_4_97"}
+{"text": "Says that since he took office, there have been no large-scale attacks on the United States.", "label": "half true", "id": "train_4_98"}
+{"text": "The Miami Dolphins are the only NFL team in the entire nation that pays property taxes.", "label": "false", "id": "train_4_99"}
+{"text": "Says Maggie Hassan pays zero property taxes on her $500,000 home.", "label": "barely true", "id": "train_4_100"}
+{"text": "\"(My dad) used to campaign against the gas-guzzling dinosaurs.\"", "label": "true", "id": "train_4_101"}
+{"text": "Wisconsins Supreme Court justices are deciding fewer opinions in civil and criminal cases than they used to.", "label": "false", "id": "train_4_102"}
+{"text": "Says 15,000 IRS employees have to be added to administer ObamaCare and look at the tax implications.", "label": "barely true", "id": "train_4_103"}
+{"text": "Tens of thousands of fraudulent Clinton votes found in Ohio warehouse.", "label": "pants fire", "id": "train_4_104"}
+{"text": "On taxes, President Barack Obama wants to raise the top rate to 44.8 percent.", "label": "mostly true", "id": "train_4_105"}
+{"text": "The NRA used to support expanded background checks.", "label": "true", "id": "train_4_106"}
+{"text": "If the sequester hits, hundreds of thousands of Americans will lose access to primary care and preventive care like flu vaccinations and cancer screenings.", "label": "half true", "id": "train_4_107"}
+{"text": "By using a little-known loophole ... Obama minions are allowing Nestle Company to export precious fresh water out of Lake Michigan.", "label": "barely true", "id": "train_4_108"}
+{"text": "The average age of first marijuana use is 12.", "label": "false", "id": "train_4_109"}
+{"text": "Just a little over 60 percent of your electric bill, my electric bill, 60 percent of that is pass-throughs, whether they be for building of nuclear plants or whatever they may be. A planned nuclear plant repair will only increase that percentage.", "label": "mostly true", "id": "train_4_110"}
+{"text": "Under the new health care law, the elderly will be denied care when they have \"passed the age limit for treatment.\"", "label": "pants fire", "id": "train_4_111"}
+{"text": "Says Mark Warner has supported Harry Reid down the line.", "label": "half true", "id": "train_4_112"}
+{"text": "Hillsboroughs Public Transportation Commission has a rule that says cabbies have to wear socks. I mean, please. Come on.", "label": "true", "id": "train_4_113"}
+{"text": "Rick Scott got a majority of the Hispanic vote in Florida.", "label": "barely true", "id": "train_4_114"}
+{"text": "Last year, handguns killed 48 people in Japan, 8 in Great Britain, 34 in Switzerland, 52 in Canada, 58 in Israel, 21 in Sweden, 42 in West Germany and 10,728 in the United States.", "label": "half true", "id": "train_4_115"}
+{"text": "Electric utility FirstEnergys annual revenues are greater than the GDP of Haiti, Kyrgyzstan, Iceland, or 15 African nations.", "label": "true", "id": "train_4_116"}
+{"text": "Marijuana today is genetically modified, with THC levels that far surpass the marijuana of the 1970s.", "label": "mostly true", "id": "train_4_117"}
+{"text": "Under energy efficiency legislation sponsored by U.S. Sen. Jeanne Shaheen, federal bureaucrats could take over the local building code enforcement in your city if so-called green mandates are not complied with quickly enough.", "label": "false", "id": "train_4_118"}
+{"text": "When President AbrahamLincoln signed his Emancipation Proclamation, there were over 300,000 slaveholders who were fighting in the Union army.", "label": "pants fire", "id": "train_4_119"}

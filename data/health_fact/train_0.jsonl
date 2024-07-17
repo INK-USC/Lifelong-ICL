@@ -1,0 +1,80 @@
+{"text": "Kansas lawmakers to fight over taxes, abortion and maybe pot.", "label": "true", "id": "train_0_0"}
+{"text": "Spiriva as good as Serevent in asthma study", "label": "mixture", "id": "train_0_1"}
+{"text": "Condom manufacturer Durex created a coronavirus advertisement comparing face masks to condoms.", "label": "unproven", "id": "train_0_2"}
+{"text": "Elderly fare well in open-heart surgery, study finds", "label": "false", "id": "train_0_3"}
+{"text": "Justice Anthony Kennedy suddenly resigned from the Supreme Court as part of a deal to shield his son from ongoing Russian investigations.", "label": "unproven", "id": "train_0_4"}
+{"text": "Plan to import cheaper Canadian drugs advances under Trump.", "label": "true", "id": "train_0_5"}
+{"text": "Coffee buzz protects brain from Alzheimer\u2019s", "label": "false", "id": "train_0_6"}
+{"text": "\"Cuba has \"\"a lower child mortality rate than ours. Their life expectancy is now greater than ours.\"", "label": "mixture", "id": "train_0_7"}
+{"text": "Beginning in 2020, Boston University will begin awarding posthumous degrees to students who die before completing their studies.", "label": "mixture", "id": "train_0_8"}
+{"text": "Said that living near wind turbines is noisy, enough to make someone \u201cgo crazy after a couple of years.\u201d", "label": "unproven", "id": "train_0_9"}
+{"text": "Getinge to ramp up ventilator production capacity by 160% due to coronavirus.", "label": "true", "id": "train_0_10"}
+{"text": "\"Karen Handel \"\"would have felt like it was OK to go in and abort\"\" Sarah Palin's son Trig, who has Down syndrome.\"", "label": "false", "id": "train_0_11"}
+{"text": "FDA approves Trulance for Chronic Idiopathic Constipation", "label": "mixture", "id": "train_0_12"}
+{"text": "Study finds air pollution reaches placenta during pregnancy.", "label": "true", "id": "train_0_13"}
+{"text": "If I have affordable coverage in my workplace, I'm not eligible to go into the marketplace. ... It\u2019s illegal.", "label": "false", "id": "train_0_14"}
+{"text": "Bravecto brand Flea and tick remedy is dangerous to dogs.", "label": "unproven", "id": "train_0_15"}
+{"text": "In 2013, US children got 46 vaccines and the autism rate was 1 in 88.", "label": "mixture", "id": "train_0_16"}
+{"text": "212 at Nebraska meat plant test positive for COVID-19.", "label": "true", "id": "train_0_17"}
+{"text": "Organ donations occur while the donor is still alive, paralyzed by intravenous medication but not anesthetized.", "label": "unproven", "id": "train_0_18"}
+{"text": "A worker at a British dairy that produces Anchor Butter contaminated the company's products with HIV-infected blood.", "label": "false", "id": "train_0_19"}
+{"text": "Hormone therapy may damage hearing", "label": "mixture", "id": "train_0_20"}
+{"text": "A proposed bill in Ohio would ban birth control pills and IUDs if it passes.", "label": "unproven", "id": "train_0_21"}
+{"text": "Ireland unveils minimum alcohol price plan to reduce drinking.", "label": "true", "id": "train_0_22"}
+{"text": "\"Dick Cheney Says Saddam Hussein \"\"had a 10-year relationship with al-Qaida.\"", "label": "false", "id": "train_0_23"}
+{"text": "Go look on the West Point website and you\u2019ll see those specific words, \u2018full scholarship to West Point.\u2019 So even though it is, you know, given as a grant for anybody who gets in, those words are used.", "label": "true", "id": "train_0_24"}
+{"text": "Michigan has passed a law exempting emergency medical personnel from treating gay people.", "label": "mixture", "id": "train_0_25"}
+{"text": "NIAID Director Dr. Anthony Fauci criticized the Trump administration's decision to impose travel restrictions on China to stem the spread of COVID-19. ", "label": "false", "id": "train_0_26"}
+{"text": " eRumor stating that Joe Biden will make an   announcement that owing to health problems that he will step down as the   Vice Presidential candidate and name Hillary Clinton as his replacement.   ", "label": "unproven", "id": "train_0_27"}
+{"text": "Louisiana will evict elderly people from nursing homes because Medicaid funds ran out.", "label": "mixture", "id": "train_0_28"}
+{"text": "In August 2018, President Donald Trump colored a stripe blue on a U.S. flag template.", "label": "unproven", "id": "train_0_29"}
+{"text": "The Obama administration left behind no playbook for dealing with pandemics for the next administration.", "label": "false", "id": "train_0_30"}
+{"text": "Vietnam military to test bird flu vaccine on humans.", "label": "true", "id": "train_0_31"}
+{"text": "\"There are a \"\"multitude\"\" of vaccines that do not prevent deadly and crippling diseases.\"", "label": "false", "id": "train_0_32"}
+{"text": "Blood test by Britain's Angle detects ovarian cancer in study.", "label": "true", "id": "train_0_33"}
+{"text": "Family relatives of former U.S. Attorney General Eric Holder own property used as an abortion clinic. ", "label": "mixture", "id": "train_0_34"}
+{"text": "Panhandling is a lucrative business, averaging an hourly rate of $50.", "label": "unproven", "id": "train_0_35"}
+{"text": "Mississippi governor signs \u2018heartbeat\u2019 abortion law.", "label": "true", "id": "train_0_36"}
+{"text": "Videos show people collapsing on the street due to coronavirus. ", "label": "unproven", "id": "train_0_37"}
+{"text": "\"Sen. John McCain was referred to as \"\"Songbird John\"\" following his imprisonment during the Vietnam War.\"", "label": "false", "id": "train_0_38"}
+{"text": "\"A Facebook post shows an explicitly anti-abortion sculpture called \"\"the neverborn child.\"", "label": "mixture", "id": "train_0_39"}
+{"text": "NY Assembly OKs universal health care; bill halted in Senate.", "label": "true", "id": "train_0_40"}
+{"text": " Critics argue that Mark Zuckerberg isn\u2019t really \u201cgiving away\u201d 99% of his Facebook stock (about $45 billion), as he announced in December 2015. ", "label": "mixture", "id": "train_0_41"}
+{"text": " Claims that safflower oil and/or conjugated linoleic acids (CLAs) supplements can help\u00a0you lose weight, particularly in the belly area, have been circulating for years. ", "label": "unproven", "id": "train_0_42"}
+{"text": "Bitter taste receptors may hold the key to managing preterm labor", "label": "false", "id": "train_0_43"}
+{"text": "To test for the new coronavirus, take a deep breath and hold for more than 10 seconds. If you complete it successfully without coughing, discomfort, stuffiness or tightness it proves there is no fibrosis in the lungs, basically indicating no infection.", "label": "unproven", "id": "train_0_44"}
+{"text": "Climate change activists target BlackRock in London.", "label": "true", "id": "train_0_45"}
+{"text": "Colored glasses may provide light sensitivity relief post-concussion", "label": "mixture", "id": "train_0_46"}
+{"text": "\u201cI didn\u2019t say that\u201d some of the medical equipment that governors are requesting, they don't actually need.", "label": "false", "id": "train_0_47"}
+{"text": "In 2012, Usher paid $1.1 million to settle a lawsuit brought by a woman claiming he had knowingly infected her with herpes.", "label": "unproven", "id": "train_0_48"}
+{"text": "Most of the people that work in finance make $70,000, $80,000 a year.", "label": "mixture", "id": "train_0_49"}
+{"text": "Because there's no local option to allow communities to ban, limit or restrict the location of pot shops, if Amendment 2 passes you can expect the seedy elements of the pot industry to move in right next door to your neighborhood, your church, your business and even your child's school.", "label": "false", "id": "train_0_50"}
+{"text": "Jobless claims decline as New Mexico prepares for reopening.", "label": "true", "id": "train_0_51"}
+{"text": "Emails: Trump official pressed NASA on climate science.", "label": "true", "id": "train_0_52"}
+{"text": "\"Secret Service and military personnel have used the designation \"\"Broomstick One\"\" for aircraft carrying Hillary Clinton.\"", "label": "unproven", "id": "train_0_53"}
+{"text": "\"A school uniform policy helps with \"\"school safety, helps with truancy.\"", "label": "mixture", "id": "train_0_54"}
+{"text": "Under the mayor\u2019s COVID-19 order, Kansas City \u201cchurchgoers must register with the government.\u201d", "label": "false", "id": "train_0_55"}
+{"text": "A trail cam in Alabama snapped a photograph of an unknown creature's horrifying feet in March 2018.", "label": "false", "id": "train_0_56"}
+{"text": "There are several different versions of emails warning against taking medications that contain phenylpropanolamine, which is popular in cold and decongestant products as well as some weight loss products.\u00a0\u00a0\u00a0Some of the emails list the over-the-counter products that contain phenylpropanolamine.\u00a0It also urges you to call the product manufacturers to get a refund.", "label": "mixture", "id": "train_0_57"}
+{"text": "Banana Boat brand sunscreen is causing severe burns, particularly on toddlers and young children.", "label": "unproven", "id": "train_0_58"}
+{"text": "China drafts new rules to control rural plastic pollution.", "label": "true", "id": "train_0_59"}
+{"text": "Capsaicin, the spice-causing molecule in chili peppers, can help beat breast cancer.", "label": "unproven", "id": "train_0_60"}
+{"text": "Viruses are dead material expelled from healing cells. Everyone has thousands of viruses inside their body.", "label": "false", "id": "train_0_61"}
+{"text": "Zoos turn to social media to delight, raise money amid virus.", "label": "true", "id": "train_0_62"}
+{"text": "Workers who pick produce in Georgia\u2019s fields can make $12 to $18 an hour.", "label": "mixture", "id": "train_0_63"}
+{"text": "\"The United States \"\"refused\"\" COVID-19 diagnostic tests offered by the World Health Organization.\"", "label": "mixture", "id": "train_0_64"}
+{"text": "Human and animal cells from sources like aborted foetuses are in vaccines and are linked to childhood leukaemia and diabetes.", "label": "unproven", "id": "train_0_65"}
+{"text": "As novice runners hit the open road, experts say take it slow.", "label": "true", "id": "train_0_66"}
+{"text": "Fecal transplant effective against immunotherapy-induced colitis", "label": "false", "id": "train_0_67"}
+{"text": "A traveler from Beijing was caught at Dulles International Airport with a suitcase full of dead birds that the person tried to disguise as pet food. ", "label": "mixture", "id": "train_0_68"}
+{"text": "The symptoms of Covid-19 are that it first infects the throat, so you\u2019ll have a sore throat lasting 3 or 4 days. The virus then blends into nasal fluid that enters the trachea and then the lungs causing pneumonia. This takes about 5 or 6 days. With pneumonia comes high fever and difficulty breathing", "label": "unproven", "id": "train_0_69"}
+{"text": " The FDA has approved a heroin-based vaccine for children to eradicate\u00a0chicken\u00a0pox. ", "label": "false", "id": "train_0_70"}
+{"text": "In a dying act of defiance, Polish dancer and Holocaust victim Franceska Mann shot and killed SS officer Josef Schillinger.", "label": "true", "id": "train_0_71"}
+{"text": "\"Research demonstrated the Sturgis Motorcycle Rally in August 2020 served as a \"\"super-spreader event,\"\" generating an estimated $12 billion in healthcare costs and possibly causing upwards of 250,000 new cases.\"", "label": "unproven", "id": "train_0_72"}
+{"text": "After actor Christopher Reeve was paralyzed in an accident, his friend and colleague Robin Williams lifted his spirits by pretending to be a proctologist.", "label": "true", "id": "train_0_73"}
+{"text": "Watching horror movies increases calorie consumption and reduces the risk of obesity.", "label": "mixture", "id": "train_0_74"}
+{"text": "A university medical school will pay you upwards of $50,000 for the donation of a testicle.", "label": "false", "id": "train_0_75"}
+{"text": "Under a new law, doctors performing drug-induced abortions could be charged if women don\u2019t return to them for follow-up care", "label": "false", "id": "train_0_76"}
+{"text": "Produce in California (namely tangerines) is being grown in toxic wastewater from oil company fracking activities.", "label": "mixture", "id": "train_0_77"}
+{"text": "If the new coronavirus gets into your mouth, drinking water or other liquids will wash them down through the oesophagus. Once they\u2019re in the stomach, the acid will kill the virus. If you don't drink enough water more regularly, the virus can enter your windpipes and into the lungs.", "label": "true", "id": "train_0_78"}
+{"text": "One or more U.S. presidents (or members of their families) kept live alligators either in the White House or on its grounds.", "label": "unproven", "id": "train_0_79"}

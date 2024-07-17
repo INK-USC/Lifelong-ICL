@@ -1,0 +1,120 @@
+{"text": "Who are the two sons of Ozzie and Harriet Nelson ?", "label": "Person", "id": "train_0_0"}
+{"text": "What newspaper returned a Pulitzer Prize for the fraudulent story Jimmy 's World ?", "label": "Entity", "id": "train_0_1"}
+{"text": "How can I transport files from one computer to another ?", "label": "Description", "id": "train_0_2"}
+{"text": "What two cities usually mark the extremes of English Channel swims ?", "label": "Location", "id": "train_0_3"}
+{"text": "What does pH stand for ?", "label": "Abbreviation", "id": "train_0_4"}
+{"text": "How many people does Honda employ in the U.S. ?", "label": "Number", "id": "train_0_5"}
+{"text": "Who was the mother of the man who would not be king , the duke of Windsor ?", "label": "Person", "id": "train_0_6"}
+{"text": "What does VCR stand for ?", "label": "Abbreviation", "id": "train_0_7"}
+{"text": "What are my legal rights in an automobile repossession in California ?", "label": "Description", "id": "train_0_8"}
+{"text": "Where was helium first discovered , hence its name ?", "label": "Location", "id": "train_0_9"}
+{"text": "What is the temperature for cooking ?", "label": "Number", "id": "train_0_10"}
+{"text": "Name the Islamic counterpart to the Red Cross .", "label": "Entity", "id": "train_0_11"}
+{"text": "What chocolate company gives you a one-pound kiss ?", "label": "Person", "id": "train_0_12"}
+{"text": "What James Michener book is subtitled Spanish Travels and Reflections ?", "label": "Entity", "id": "train_0_13"}
+{"text": "What does laser stand for ?", "label": "Description", "id": "train_0_14"}
+{"text": "What does NECROSIS mean ?", "label": "Abbreviation", "id": "train_0_15"}
+{"text": "What is the Homelite Inc. home page ?", "label": "Location", "id": "train_0_16"}
+{"text": "How much money did the Marcos steal from their country ?", "label": "Number", "id": "train_0_17"}
+{"text": "What is the fear of cockroaches called ?", "label": "Entity", "id": "train_0_18"}
+{"text": "How do you reference a website ?", "label": "Description", "id": "train_0_19"}
+{"text": "Whom does Uncle Duke 's girl friend , Honey , room with ?", "label": "Person", "id": "train_0_20"}
+{"text": "What are the two cities in Dicken 's `` A Tale of Two Cities '' ?", "label": "Location", "id": "train_0_21"}
+{"text": "What phone number can I call to have a tree planted ?", "label": "Number", "id": "train_0_22"}
+{"text": "What is the abbreviation of the company name ` General Motors ' ?", "label": "Abbreviation", "id": "train_0_23"}
+{"text": "Which hair care product told us `` hate that gray , wash it away '' ?", "label": "Entity", "id": "train_0_24"}
+{"text": "Who invented television ?", "label": "Person", "id": "train_0_25"}
+{"text": "From what cause does tuberculosis stem ?", "label": "Description", "id": "train_0_26"}
+{"text": "What is RCD ?", "label": "Abbreviation", "id": "train_0_27"}
+{"text": "How many tenths of the Earth 's surface lie under water ?", "label": "Number", "id": "train_0_28"}
+{"text": "What canal does the Thatcher Ferry Bridge span ?", "label": "Location", "id": "train_0_29"}
+{"text": "What is molybdenum ?", "label": "Description", "id": "train_0_30"}
+{"text": "What is the most popular sports car color ?", "label": "Entity", "id": "train_0_31"}
+{"text": "What is the abbreviated term used for the National Bureau of Investigation ?", "label": "Abbreviation", "id": "train_0_32"}
+{"text": "Who led the Normans to victory in the Battle of Hastings ?", "label": "Person", "id": "train_0_33"}
+{"text": "What is the web address of the list of e-mail addresses of members of the House of Representatives ?", "label": "Location", "id": "train_0_34"}
+{"text": "What year did Montana become a state ?", "label": "Number", "id": "train_0_35"}
+{"text": "How many people in Tucson ?", "label": "Number", "id": "train_0_36"}
+{"text": "What is a term for behavior , appearance , or expression that violates the accepted standards of sexual morality ?", "label": "Entity", "id": "train_0_37"}
+{"text": "Who was the second man to walk on the moon ?", "label": "Person", "id": "train_0_38"}
+{"text": "What does NAFTA stand for ?", "label": "Abbreviation", "id": "train_0_39"}
+{"text": "Why do eyes sometimes look red in photographs ?", "label": "Description", "id": "train_0_40"}
+{"text": "What is the habitat of the chickadee ?", "label": "Location", "id": "train_0_41"}
+{"text": "Where does Ray Bradbury 's Chronicles take place ?", "label": "Location", "id": "train_0_42"}
+{"text": "Who is the man behind the pig-the man who pulls the strings and speaks for Miss Piggy ?", "label": "Person", "id": "train_0_43"}
+{"text": "What does JESSICA mean ?", "label": "Abbreviation", "id": "train_0_44"}
+{"text": "What 1895 H.G. Wells novel was written under the title The Chronic Argonauts ?", "label": "Entity", "id": "train_0_45"}
+{"text": "What is the temperature today ?", "label": "Number", "id": "train_0_46"}
+{"text": "What is InterLata Internet service ?", "label": "Description", "id": "train_0_47"}
+{"text": "What is literary criticism ?", "label": "Description", "id": "train_0_48"}
+{"text": "What is the movie Jonathan Livingstone Seagull ?", "label": "Entity", "id": "train_0_49"}
+{"text": "What U.S. state includes the San Juan Islands ?", "label": "Location", "id": "train_0_50"}
+{"text": "What President once told Gene Autry : `` Please give my regards to your wife Dale '' ?", "label": "Person", "id": "train_0_51"}
+{"text": "Independent silversmith 's account for what percentage of silver production ?", "label": "Number", "id": "train_0_52"}
+{"text": "What does A&W of root beer fame stand for ?", "label": "Abbreviation", "id": "train_0_53"}
+{"text": "What mystery writer penned `` ...the glory that was Greece , and the grandeur that was Rome '' ?", "label": "Person", "id": "train_0_54"}
+{"text": "What is a fear of everything ?", "label": "Entity", "id": "train_0_55"}
+{"text": "What is DEET ?", "label": "Abbreviation", "id": "train_0_56"}
+{"text": "How many megawatts will the power project in Indonesia , built by a consortium headed by Mission Energy of US , produce ?", "label": "Number", "id": "train_0_57"}
+{"text": "Where can I find all the information I need to know about the English Civil War , 1642-1649 , ?", "label": "Location", "id": "train_0_58"}
+{"text": "What is real time processing ?", "label": "Description", "id": "train_0_59"}
+{"text": "How can I get started in writing for television ?", "label": "Description", "id": "train_0_60"}
+{"text": "What is the only primate to lack pigment in the palms of its hands ?", "label": "Entity", "id": "train_0_61"}
+{"text": "What will the increase be in the California gas tax by 2000 ?", "label": "Number", "id": "train_0_62"}
+{"text": "Name the poet of the poem which begins : I do not know much about gods ; but I think that the river Is a strong brown god-sullen , and untamed ?", "label": "Person", "id": "train_0_63"}
+{"text": "What does the abbreviation cwt. ?", "label": "Abbreviation", "id": "train_0_64"}
+{"text": "What U.S. city 's skyline boasts the Gateway Arch ?", "label": "Location", "id": "train_0_65"}
+{"text": "What does it take to become a lawyer ?", "label": "Entity", "id": "train_0_66"}
+{"text": "What is p.m. an abbreviation for , as in 5 p.m. ?", "label": "Abbreviation", "id": "train_0_67"}
+{"text": "Who was the first person to study the stars ?", "label": "Person", "id": "train_0_68"}
+{"text": "How can you contact play producers and promoters on-line ?", "label": "Description", "id": "train_0_69"}
+{"text": "What are the world 's three largest oceans , in order of size ?", "label": "Location", "id": "train_0_70"}
+{"text": "How many meters are in a mile ?", "label": "Number", "id": "train_0_71"}
+{"text": "What food did Marco Polo introduce into Italy from the court of Kubla Khan ?", "label": "Entity", "id": "train_0_72"}
+{"text": "What actress starred in `` The Lion in Winter '' ?", "label": "Person", "id": "train_0_73"}
+{"text": "Why was Muhammad Ali stripped of his title and barred from boxing in 1967 ?", "label": "Description", "id": "train_0_74"}
+{"text": "What country are you in if you woo in the Wu dialect ?", "label": "Location", "id": "train_0_75"}
+{"text": "What does HIV stand for ?", "label": "Abbreviation", "id": "train_0_76"}
+{"text": "What are the numbers that fit into Fermont 's last theorem ?", "label": "Number", "id": "train_0_77"}
+{"text": "What year did nylon stockings first go on sale ?", "label": "Number", "id": "train_0_78"}
+{"text": "Who is the richest person in the world ?", "label": "Person", "id": "train_0_79"}
+{"text": "What is the largest natural lake in Pennsylvania ?", "label": "Location", "id": "train_0_80"}
+{"text": "What generation am I in ?", "label": "Entity", "id": "train_0_81"}
+{"text": "What does the word LASER mean ?", "label": "Abbreviation", "id": "train_0_82"}
+{"text": "What is the Golden Rule ?", "label": "Description", "id": "train_0_83"}
+{"text": "Where can I find a picture of a Blue Meanie ?", "label": "Location", "id": "train_0_84"}
+{"text": "What brand of white rum is still made in Cuba ?", "label": "Entity", "id": "train_0_85"}
+{"text": "What does MSG stand for ?", "label": "Abbreviation", "id": "train_0_86"}
+{"text": "How long does it take the typical American to eat 23 quarts of ice cream ?", "label": "Number", "id": "train_0_87"}
+{"text": "Who wrote The Collector ?", "label": "Person", "id": "train_0_88"}
+{"text": "Why are the ears your center of balance ?", "label": "Description", "id": "train_0_89"}
+{"text": "Where can I find information on the Narragansett Indians and other tribes in Rhode Island ?", "label": "Location", "id": "train_0_90"}
+{"text": "What does snafu stand for ?", "label": "Abbreviation", "id": "train_0_91"}
+{"text": "Name the two blob members of the animated Herculoids .", "label": "Person", "id": "train_0_92"}
+{"text": "What chapter of the Bible has the most verses ?", "label": "Number", "id": "train_0_93"}
+{"text": "Winnie the Pooh is what kind of animal ?", "label": "Entity", "id": "train_0_94"}
+{"text": "Why are there olives in martinis ?", "label": "Description", "id": "train_0_95"}
+{"text": "What happened to Moon Maiden ?", "label": "Description", "id": "train_0_96"}
+{"text": "Who banned Peter Rose from baseball for betting on games ?", "label": "Person", "id": "train_0_97"}
+{"text": "What is HTML ?", "label": "Abbreviation", "id": "train_0_98"}
+{"text": "How many fiddlers did Old King Cole have ?", "label": "Number", "id": "train_0_99"}
+{"text": "What foods contain the most protein ?", "label": "Entity", "id": "train_0_100"}
+{"text": "What two South American countries do n't border Brazil ?", "label": "Location", "id": "train_0_101"}
+{"text": "What does the abbreviation AIDS stand for ?", "label": "Abbreviation", "id": "train_0_102"}
+{"text": "How long was the longest hiccup attack ?", "label": "Number", "id": "train_0_103"}
+{"text": "What capital is built around Monument Circle which contains soldiers and sailors monument ?", "label": "Location", "id": "train_0_104"}
+{"text": "What cooking oil has `` corn goodness '' ?", "label": "Entity", "id": "train_0_105"}
+{"text": "What does verdandi mean ?", "label": "Description", "id": "train_0_106"}
+{"text": "Who 's the only man to have won the Olympic decathlon twice ?", "label": "Person", "id": "train_0_107"}
+{"text": "Who created Dennis the Menace ?", "label": "Person", "id": "train_0_108"}
+{"text": "How do you make a computer chip ?", "label": "Description", "id": "train_0_109"}
+{"text": "What ocean was Amelia Earhart flying over when she disappeared ?", "label": "Location", "id": "train_0_110"}
+{"text": "How long would it take for a $ savings bond to mature ?", "label": "Number", "id": "train_0_111"}
+{"text": "What 's the international radio code word for the letter F ?", "label": "Entity", "id": "train_0_112"}
+{"text": "What does IQ stand for ?", "label": "Abbreviation", "id": "train_0_113"}
+{"text": "What U.S. state has sagebrush as its state flower ?", "label": "Location", "id": "train_0_114"}
+{"text": "The major league baseball team in Pittsburgh is called what ?", "label": "Person", "id": "train_0_115"}
+{"text": "What is the length of border between the Ukraine and Russia ?", "label": "Number", "id": "train_0_116"}
+{"text": "What were the ceremony traditions like during the Elizabethian times ?", "label": "Entity", "id": "train_0_117"}
+{"text": "What 's the abbreviation for trinitrotoluene ?", "label": "Abbreviation", "id": "train_0_118"}
+{"text": "What caused Harry Houdini 's death ?", "label": "Description", "id": "train_0_119"}

@@ -1,0 +1,9 @@
+{
+    "name": "clickbait",
+    "task_type": "classification",
+    "options": ["yes", "no"],
+    "instruction": "Classify whether the headline is a clickbait. Label with yes or no.",
+    "instruction_2": "Is the headline a clickbait? Answer with no or yes.",
+    "demonstration_prompt": "Headline: {text}\nLabel: {label}",
+    "inference_prompt": "Headline: {text}\nLabel:"
+}
