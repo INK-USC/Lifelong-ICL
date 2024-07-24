@@ -2,7 +2,7 @@
 <h2 align="center">Stress-Testing Long-Context Language Models <br>with Lifelong ICL and Task Haystack </h2>
 
 <p align="center">
-📃 <a href="https://github.com/INK-USC/Lifelong-ICL" target="_blank">[Paper]</a> • 🏠 <a href="https://inklab.usc.edu/lifelong-icl/" target="_blank">[Website]</a> • 🚀 <a href="#quick-start" target="_blank">[Quick Start]</a> 
+📃 <a href="https://arxiv.org/abs/2407.16695" target="_blank">[Paper]</a> • 🏠 <a href="https://inklab.usc.edu/lifelong-icl/" target="_blank">[Website]</a> • 🚀 <a href="#quick-start" target="_blank">[Quick Start]</a> 
 </p>
 </div>
 
@@ -133,7 +133,7 @@ bash run_recall.sh
 ```python
 # set your baseline and recall results directory
 home_dir = "" # your project path
-model = "" # you model name
+model = "" # your model name
 ```
 
 
