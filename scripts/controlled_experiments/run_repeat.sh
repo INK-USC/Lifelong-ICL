@@ -2,12 +2,11 @@
 
 cd ../../
 
-
-MODEL_NAME="" # your model name
+MODEL_NAME="" # set model name
 SPLIT_NAME="default"
 
-N_TASK=64
-N_SHOT=2
+N_TASK=16
+N_SHOT=4
 
 SETTING_NAME="repeat"
 

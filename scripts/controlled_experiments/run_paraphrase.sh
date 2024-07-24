@@ -2,13 +2,13 @@
 
 cd ../../
 
-MODEL_NAME=""
+MODEL_NAME="" # set model name
 SPLIT_NAME="default"
-
-N_TASK=64
-N_SHOT=2
-
 SETTING_NAME="recall"
+
+N_TASK=16
+N_SHOT=4
+
 python cli.py \
 --use_paraphrase \
 --output_dir output/${SPLIT_NAME}/${SETTING_NAME}/${MODEL_NAME}/ntask${N_TASK}_nshot${N_SHOT}_paraphrase \
