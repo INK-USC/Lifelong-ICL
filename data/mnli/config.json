@@ -1,9 +1,0 @@
-{
-    "name": "mnli",
-    "task_type": "classification",
-    "options": ["entailment", "neutral", "contradiction"],
-    "instruction": "Classify the relation between the premise and the hypothesis into entailment, neutral or contradiction.",
-    "instruction_2": "Assess the relationship between the premise and hypothesis, categorizing it as contradiction, entailment, or neutral.",
-    "demonstration_prompt": "premise: {premise}\nhypothesis: {hypothesis}\nlabel: {label}",
-    "inference_prompt": "premise: {premise}\nhypothesis: {hypothesis}\nlabel:"
-}

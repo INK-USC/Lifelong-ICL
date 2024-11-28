@@ -1,9 +1,0 @@
-{
-    "name": "tcfd_recommendations",
-    "task_type": "classification",
-    "options": ["risk", "governance", "strategy", "metrics", "none"],
-    "instruction": "TCFD stands for Task Force on Climate-related Financial Disclosures. Classify a paragraph into the following TCFD recommendation categories: governance, strategy, risks, metrics, or none.",
-    "instruction_2": "Determine which category from the TCFD (Task Force on Climate-related Financial Disclosures) recommendations best describes the paragraph: risks, governance, strategy, metrics, or none.",
-    "demonstration_prompt": "Text: {text}\nLabel: {label}",
-    "inference_prompt": "Text: {text}\nLabel:"
-}

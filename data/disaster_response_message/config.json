@@ -1,9 +1,0 @@
-{
-    "name": "disaster_response_message",
-    "task_type": "classification",
-    "options": ["true", "false"],
-    "instruction": "Evaluate if the message is related to a disaster event. Answer with true or false.",
-    "instruction_2": "Does the message pertain to a disaster event? Respond with false or true.",
-    "demonstration_prompt": "Message: {text}\nLabel: {label}",
-    "inference_prompt": "Message: {text}\nLabel:"
-}

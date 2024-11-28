@@ -1,9 +1,0 @@
-{
-    "name": "student_question_categories",
-    "task_type": "classification",
-    "options": ["maths", "biology", "physics", "chemistry"],
-    "instruction": "Classify the question into four categories: maths, biology, physics, chemistry.",
-    "instruction_2": "Determine which of these subjects the question pertains to: physics, biology, maths, chemistry.",
-    "demonstration_prompt": "Question: {text}\nLabel: {label}",
-    "inference_prompt": "Question: {text}\nLabel:"
-}

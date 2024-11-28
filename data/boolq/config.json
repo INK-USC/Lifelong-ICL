@@ -1,9 +1,0 @@
-{
-    "name": "boolq",
-    "task_type": "classification",
-    "options": ["no", "yes"],
-    "instruction": "Based on the passage, determine whether the answer to the question is yes or no.",
-    "instruction_2": "Assess the given passage to conclude if the response to the question should be no or yes.",
-    "demonstration_prompt": "{passage}\nquestion: {question}\nanswer: {label}",
-    "inference_prompt": "{passage}\nquestion: {question}\nanswer:"
-}

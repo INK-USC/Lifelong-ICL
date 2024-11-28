@@ -1,9 +1,0 @@
-{
-    "name": "climate_sentiment",
-    "task_type": "classification",
-    "options": ["risk", "neutral", "opportunity"],
-    "instruction": "Classify the sentiment of the text as risk, neutral, or opportunity.",
-    "instruction_2": "Assess the text and determine if it expresses a sentiment of opportunity, risk, or neutral.",
-    "demonstration_prompt": "Text: {text}\nLabel: {label}",
-    "inference_prompt": "Text: {text}\nLabel:"
-}

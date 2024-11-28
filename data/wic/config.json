@@ -1,9 +1,0 @@
-{
-    "name": "wic",
-    "task_type": "classification",
-    "options": ["no", "yes"],
-    "instruction": "Determine whether a word is used in the same way in the two sentences. Answer with yes or no.",
-    "instruction_2": "Decide if the word is used in the same sense in both sentences. Respond with no or yes.",
-    "demonstration_prompt": "{sentence1}\n{sentence2}\nquestion: Is the word {word} used in the same way in the two sentences above?\nanswer: {label}",
-    "inference_prompt": "{sentence1}\n{sentence2}\nquestion: Is the word {word} used in the same way in the two sentences above?\nanswer:"
-}

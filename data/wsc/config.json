@@ -1,9 +1,0 @@
-{
-    "name": "wsc",
-    "task_type": "classification",
-    "options": ["true", "false"],
-    "instruction": "Determine if the two phrases marked by '<span>' refer to the same entity. Answer with true or false.",
-    "instruction_2": "Assess whether the two phrases marked by '<span>' in the sentence point to the same referent: false or true.",
-    "demonstration_prompt": "Sentence: {text}\nPhrase1: {span1_text}\nPhrase2: {span2_text}\nLabel: {label}",
-    "inference_prompt": "Sentence: {text}\nPhrase1: {span1_text}\nPhrase2: {span2_text}\nLabel:"
-}

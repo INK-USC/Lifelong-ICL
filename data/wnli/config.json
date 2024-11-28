@@ -1,9 +1,0 @@
-{
-    "name": "wnli",
-    "task_type": "classification",
-    "options": ["entailment", "not entailment"],
-    "instruction": "Predict if the new sentence with the pronoun substituted is entailed by the original sentence. Respond with entailment or not entailment.",
-    "instruction_2": "Determine whether the original sentence entails the new sentence with the pronoun replaced. Answer with not entailment or entailment.",
-    "demonstration_prompt": "original sentence: {sentence1}\nnew sentence: {sentence2}\nlabel: {label}",
-    "inference_prompt": "original sentence: {sentence1}\nnew sentence: {sentence2}\nlabel:"
-}

@@ -1,9 +1,0 @@
-{
-    "name": "insincere_questions",
-    "task_type": "classification",
-    "options": ["insincere question", "valid question"],
-    "instruction": "An insincere question is defined as a question intended to make a statement rather than to seek helpful answers. Classify each question as insincere question or valid question.",
-    "instruction_2": "Insincere questions are questions that try to state a view rather than genuinely seeking information. Determine the question is a valid question or an insincere question.",
-    "demonstration_prompt": "Question: {text}\nLabel: {label}",
-    "inference_prompt": "Question: {text}\nLabel:"
-}

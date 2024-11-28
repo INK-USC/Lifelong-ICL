@@ -1,9 +1,0 @@
-{
-    "name": "senteval_subj",
-    "task_type": "classification",
-    "options": ["subjective", "objective"],
-    "instruction": "Classify the sentence into subjective or objective.",
-    "instruction_2": "Determine if the sentence expresses an objective or subjective opinion.",
-    "demonstration_prompt": "Sentence: {text}\nLabel: {label}",
-    "inference_prompt": "Sentence: {text}\nLabel:"
-}

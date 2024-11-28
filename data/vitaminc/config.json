@@ -1,9 +1,0 @@
-{
-    "name": "vitaminc",
-    "task_type": "classification",
-    "options": ["supports", "refutes", "not enough info"],
-    "instruction": "Classify whether the evidence supports the claim. Respond with supports, refutes or not enough info.",
-    "instruction_2": "Determine if the evidence supports the claim. Answer with refutes, supports, or not enough info.",
-    "demonstration_prompt": "evidence: {evidence}\nclaim: {claim}\nlabel: {label}",
-    "inference_prompt": "evidence: {evidence}\nclaim: {claim}\nlabel:"
-}

@@ -1,9 +1,0 @@
-{
-    "name": "copa",
-    "task_type": "classification",
-    "options": ["cause", "effect"],
-    "instruction": "Given two sentences, decide whether sentence 2 is a cause or an effect of sentence 1.",
-    "instruction_2": "Assess the relation between the two sentences and determine if sentence 2 acts as an effect or a cause of sentence 1.",
-    "demonstration_prompt": "Sentence 1: {premise}\nSentence 2: {answer}\nRelation: {label}",
-    "inference_prompt": "Sentence 1: {premise}\nSentence 2: {answer}\nRelation:"
-}

@@ -1,9 +1,0 @@
-{
-    "name": "brag_action",
-    "task_type": "classification",
-    "options": ["bragging", "not bragging"],
-    "instruction": "Decide whether the tweet is bragging about an action. Label with bragging or not bragging.",
-    "instruction_2": "Is the tweet bragging about an action? Choose between not bragging or bragging.",
-    "demonstration_prompt": "Tweet: {text}\nLabel: {label}",
-    "inference_prompt": "Tweet: {text}\nLabel:"
-}

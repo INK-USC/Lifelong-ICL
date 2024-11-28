@@ -1,9 +1,0 @@
-{
-    "name": "dbpedia_14",
-    "task_type": "classification",
-    "options": ["company", "educational institution", "artist", "athlete", "office holder", "mean of transportation", "building", "natural place", "village", "animal", "plant", "album", "film", "written work"],
-    "instruction": "Classify the subject based on the title and content into one of the 14 categories: company, educational institution, artist, athlete, office holder, mean of transportation, building, natural place, village, animal, plant, album, film, written work.",
-    "instruction_2": "Read the title and content, then determine the appropriate category among the 14 options: album, plant, athlete, animal, film, village, artist, building, educational institution, office holder, natural place, company, written work, mean of transportation.",
-    "demonstration_prompt": "Title: {title}\nContent: {content}\nLabel: {label}",
-    "inference_prompt": "Title: {title}\nContent: {content}\nLabel:"
-}

@@ -1,9 +1,0 @@
-{
-    "name": "wiki_qa",
-    "task_type": "classification",
-    "options": ["yes", "no"],
-    "instruction": "Evaluate whether the answer can correctly answer the question. Choose yes or no.",
-    "instruction_2": "Decide if the answer adequately addresses the question. Respond with no or yes.",
-    "demonstration_prompt": "Question: {question}\nAnswer: {answer}\nLabel: {label}",
-    "inference_prompt": "Question: {question}\nAnswer: {answer}\nLabel:"
-}

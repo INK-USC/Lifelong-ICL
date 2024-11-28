@@ -1,9 +1,0 @@
-{
-    "name": "amazon_massive_scenario",
-    "task_type": "classification",
-    "options": ["cooking", "audio", "news", "lists", "datetime", "takeaway", "weather", "play", "recommendation", "qa", "alarm", "calendar", "iot", "social", "music", "email", "general", "transport"],
-    "instruction": "Classify query into one of the following categories: cooking, audio, news, lists, datetime, takeaway, weather, play, recommendation, qa, alarm, calendar, iot, social, music, email, general, transport.",
-    "instruction_2": "Determine which category best describes the query: social, alarm, datetime, cooking, transport, general, music, email, lists, recommendation, qa, play, news, audio, calendar, weather, takeaway, iot.",
-    "demonstration_prompt": "Query: {text}\nLabel: {label}",
-    "inference_prompt": "Query: {text}\nLabel:"
-}

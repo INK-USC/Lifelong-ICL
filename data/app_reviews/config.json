@@ -1,9 +1,0 @@
-{
-    "name": "app_reviews",
-    "task_type": "classification",
-    "options": ["one", "two", "three", "four", "five"],
-    "instruction": "Predict the star rating of an app based on its user review. Choose from one, two, three, four, five.",
-    "instruction_2": "Analyze the user review and assign a star rating of five, four, three, two, one.",
-    "demonstration_prompt": "Review: {text}\nStar Rating: {label}",
-    "inference_prompt": "Review: {text}\nStar Rating:"
-}

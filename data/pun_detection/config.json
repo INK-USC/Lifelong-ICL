@@ -1,9 +1,0 @@
-{
-    "name": "pun_detection",
-    "task_type": "classification",
-    "options": ["yes", "no"],
-    "instruction": "Does the sentence contain a pun? Label with yes or no.",
-    "instruction_2": "Determine if the sentence contains a pun, responding with no or yes.",
-    "demonstration_prompt": "sentence: {text}\nlabel: {label}",
-    "inference_prompt": "sentence: {text}\nlabel:"
-}

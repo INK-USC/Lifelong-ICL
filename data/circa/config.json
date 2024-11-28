@@ -1,9 +1,0 @@
-{
-    "name": "circa",
-    "task_type": "classification",
-    "options": ["yes", "no"],
-    "instruction": "Evaluate the indirect answer to the question and determine if it suggests yes or no.",
-    "instruction_2": "Interpret the indirect answer to the question and decide whether it implies no or yes.",
-    "demonstration_prompt": "Context: {context}\nQuestion: {question}\nAnswer: {answer}\nLabel: {label}",
-    "inference_prompt": "Context: {context}\nQuestion: {question}\nAnswer: {answer}\nLabel:"
-}

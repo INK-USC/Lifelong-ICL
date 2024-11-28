@@ -1,9 +1,0 @@
-{
-    "name": "mrpc",
-    "task_type": "classification",
-    "options": ["equivalent", "not equivalent"],
-    "instruction": "Classify the sentences in the pair as semantically equivalent or not equivalent.",
-    "instruction_2": "Examine the pair of sentences and decide if they are semantically not equivalent or equivalent.",
-    "demonstration_prompt": "Sentence1: {sentence1}\nSentence2: {sentence2}\nLabel: {label}",
-    "inference_prompt": "Sentence1: {sentence1}\nSentence2: {sentence2}\nLabel:"
-}

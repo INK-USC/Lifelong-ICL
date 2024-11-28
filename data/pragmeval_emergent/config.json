@@ -1,9 +1,0 @@
-{
-    "name": "pragmeval_emergent",
-    "task_type": "classification",
-    "options": ["observing", "for", "against"],
-    "instruction": "Determine whether the paragraph is for, against, or observing the claim.",
-    "instruction_2": "Classify the relationship between the paragraph and claim as against, for, or observing.",
-    "demonstration_prompt": "Claim: {sentence1}\nParagraph: {sentence2}\nLabel: {label}",
-    "inference_prompt": "Claim: {sentence1}\nParagraph: {sentence2}\nLabel:"
-}

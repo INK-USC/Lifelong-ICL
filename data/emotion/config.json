@@ -1,9 +1,0 @@
-{
-    "name": "emotion",
-    "task_type": "classification",
-    "options": ["sadness", "joy", "love", "anger", "fear", "surprise"],
-    "instruction": "Classify an English Twitter message into six basic emotions: anger, fear, joy, love, sadness, and surprise.",
-    "instruction_2": "Determine which of the six emotions best describes the English Twitter message: sadness, joy, love, anger, fear, surprise.",
-    "demonstration_prompt": "Tweet: {text}\nEmotion: {label}",
-    "inference_prompt": "Tweet: {text}\nEmotion:"
-}

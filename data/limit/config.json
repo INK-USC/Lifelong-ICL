@@ -1,9 +1,0 @@
-{
-    "name": "limit",
-    "task_type": "classification",
-    "options": ["yes", "no"],
-    "instruction": "Classify if the sentence describes a physical occurrence of motion. Answer with yes or no.",
-    "instruction_2": "Determine whether the sentence describes a physical occurrence of motion, choosing from no or yes.",
-    "demonstration_prompt": "Sentence: {text}\nLabel: {label}",
-    "inference_prompt": "Sentence: {text}\nLabel:"
-}

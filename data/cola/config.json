@@ -1,9 +1,0 @@
-{
-    "name": "cola",
-    "task_type": "classification",
-    "options": ["acceptable", "unacceptable"],
-    "instruction": "Classify if the sentence is grammatically acceptable or unacceptable.",
-    "instruction_2": "Assess the grammar of the sentence and classify it as unacceptable or acceptable.",
-    "demonstration_prompt": "Sentence: {text}\nLabel: {label}",
-    "inference_prompt": "Sentence: {text}\nLabel: "
-}

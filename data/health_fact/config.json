@@ -1,9 +1,0 @@
-{
-    "name": "health_fact",
-    "task_type": "classification",
-    "options": ["false", "mixture", "true", "unproven"],
-    "instruction": "Classify the claim as false, mixture, true, or unproven.",
-    "instruction_2": "Evaluate the claim and determine if it is true, false, mixture, or unproven.",
-    "demonstration_prompt": "Claim: {text}\nLabel: {label}",
-    "inference_prompt": "Claim: {text}\nLabel:"
-}
