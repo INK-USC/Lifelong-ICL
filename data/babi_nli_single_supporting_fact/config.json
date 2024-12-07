@@ -1,9 +1,0 @@
-{
-    "name": "babi_nli_single_supporting_fact",
-    "task_type": "classification",
-    "options": ["True", "False"],
-    "instruction": "Based on the context, decide whether the answer to the question is True or False.",
-    "instruction_2": "Evaluate the context provided to determine if the answer to the question is False or True.",
-    "demonstration_prompt": "{premise}\nquestion: {hypothesis} True or False?\nanswer: {label}",
-    "inference_prompt": "{premise}\nquestion: {hypothesis} True or False?\nanswer:"
-}

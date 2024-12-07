@@ -19,7 +19,7 @@
 ---
 
 ### Result Summary
-We benchmark 10 open-weight models and 2 closed models using Lifelong ICL. Here is the summary of our results:
+We benchmark 11 open-weight models and 3 closed models using Lifelong ICL. Here is the summary of our results:
 
 <p align="center">
     <img src="./assets/main_results.jpg" width="600">
@@ -28,6 +28,7 @@ We benchmark 10 open-weight models and 2 closed models using Lifelong ICL. Here 
 
 
 * State-of-the-art closed models such as GPT-4o still struggle in this setting, failing 15% of the cases on average. Open models we evaluate further lack behind by a large margin.
+* Llama3.1-70B is the best open-weight model we tested.
 * Check out the [full result table](RESULTS.md).
 
 ### Diagnosing Models with Task Haystack

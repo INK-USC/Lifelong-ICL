@@ -1,9 +1,0 @@
-{
-    "name": "trec",
-    "task_type": "classification",
-    "options": ["Abbreviation", "Entity", "Description", "Person", "Location", "Number"],
-    "instruction": "Classify the questions based on whether their answer type is a Number, Location, Person, Description, Entity, or Abbreviation.",
-    "instruction_2": "Determine the answer type of the questions and classify them into one of the following categories: Entity, Abbreviation, Number, Location, Description, or Person.",
-    "demonstration_prompt": "Question: {text}\nAnswer Type: {label}",
-    "inference_prompt": "Question: {text}\nAnswer Type:"
-}

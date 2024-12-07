@@ -1,9 +1,0 @@
-{
-    "name": "fever",
-    "task_type": "classification",
-    "options": ["supported", "not enough info", "refuted"],
-    "instruction": "Classify the claim into supported, not enough info, and refuted.",
-    "instruction_2": "Determine if the claim is refuted, supported, or not enough info.",
-    "demonstration_prompt": "Text: {text}\nLabel: {label}",
-    "inference_prompt": "Text: {text}\nLabel:"
-}

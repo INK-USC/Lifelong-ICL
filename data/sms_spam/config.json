@@ -1,9 +1,0 @@
-{
-    "name": "sms_spam",
-    "task_type": "classification",
-    "options": ["ham", "spam"],
-    "instruction": "Classify the message as ham or spam.",
-    "instruction_2": "Determine if the sms message is spam or ham.",
-    "demonstration_prompt": "Message: {text}\nLabel: {label}",
-    "inference_prompt": "Message: {text}\nLabel:"
-}

@@ -1,9 +1,0 @@
-{
-    "name": "cb",
-    "task_type": "classification",
-    "options": ["entailment", "contradiction", "neutral"],
-    "instruction": "Based on the conversation, determine whether the hypothesis should be classified as entailment, contradiction, or neutral.",
-    "instruction_2": "Classify the hypothesis as neutral, entailment, or contradiction based on the conversation.",
-    "demonstration_prompt": "conversation: {premise}\nhypothesis: {hypothesis}\nlabel: {label}",
-    "inference_prompt": "conversation: {premise}\nhypothesis: {hypothesis}\nlabel:"
-}

@@ -1,9 +1,0 @@
-{
-    "name": "pragmeval_sarcasm",
-    "task_type": "classification",
-    "options": ["not sarcasm", "sarcasm"],
-    "instruction": "Evaluate whether the response is sarcasm. Choose from sarcasm or not sarcasm.",
-    "instruction_2": "Determine if the response to the message is sarcasm. Answer with not sarcasm or sarcasm.",
-    "demonstration_prompt": "Message: {sentence1}\nResponse: {sentence2}\nLabel: {label}",
-    "inference_prompt": "Message: {sentence1}\nResponse: {sentence2}\nLabel:"
-}

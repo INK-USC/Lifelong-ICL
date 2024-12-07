@@ -1,9 +1,0 @@
-{
-    "name": "logical_fallacy_detection",
-    "task_type": "classification",
-    "options": ["valid", "invalid"],
-    "instruction": "Do you think the following argument is logically valid or invalid?",
-    "instruction_2": "Assess whether the argument holds logically invalid or valid reasoning.",
-    "demonstration_prompt": "Argument: {text}\nLabel: {label}",
-    "inference_prompt": "Argument: {text}\nLabel:"
-}

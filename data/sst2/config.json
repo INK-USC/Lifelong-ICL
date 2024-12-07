@@ -1,9 +1,0 @@
-{
-    "name": "sst2",
-    "task_type": "classification",
-    "options": ["positive", "negative"],
-    "instruction": "Classify the movie review into either positive or negative.",
-    "instruction_2": "Determine whether the sentiment of the movie review is negative or positive.",
-    "demonstration_prompt": "Review: {text}\nSentiment: {label}",
-    "inference_prompt": "Review: {text}\nSentiment:"
-}

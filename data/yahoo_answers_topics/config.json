@@ -1,9 +1,0 @@
-{
-    "name": "yahoo_answers_topics",
-    "task_type": "classification",
-    "options": ["society & culture", "science & mathematics", "health", "education & reference", "computers & internet", "sports", "business & finance", "entertainment & music", "family & relationships", "politics & government"],
-    "instruction": "Classify the topic of question based on its title and content into one of the 10 classes: society & culture, science & mathematics, health, education & reference, computers & internet, sports, business & finance, entertainment & music, family & relationships, politics & government.",
-    "instruction_2": "Determine the category of a Yahoo Answers question by analyzing its title and content. Categories include family & relationships, entertainment & music, education & reference, business & finance, sports, society & culture, science & mathematics, computers & internet, health, politics & government.",
-    "demonstration_prompt": "Title: {title}\nContent: {content}\nTopic: {label}",
-    "inference_prompt": "Title: {title}\nContent: {content}\nTopic:"
-}

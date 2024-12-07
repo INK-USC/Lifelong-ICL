@@ -1,9 +1,0 @@
-{
-    "name": "metaphor_boolean",
-    "task_type": "classification",
-    "options": ["true", "false"],
-    "instruction": "Given a metaphoric sentence, identify if the paraphrase of the sentence is correct: true or false.",
-    "instruction_2": "Determine if the given paraphrase correctly represents the metaphoric sentence. Choose false or true.",
-    "demonstration_prompt": "Sentence: {text}\nParaphrase: {explanation}\nLabel: {label}",
-    "inference_prompt": "Sentence: {text}\nParaphrase: {explanation}\nLabel:"
-}

@@ -1,9 +1,0 @@
-{
-    "name": "wiki_hades",
-    "task_type": "classification",
-    "options": ["hallucinated", "not hallucinated"],
-    "instruction": "Hallucination is when a language model presents false information as if it were true. Classify whether the target span (wrapped with ===) in the text is hallucinated or not hallucinated.",
-    "instruction_2": "Hallucination occurs when a language model generates false information that appears to be true. Decide if the target span (marked with ===) in the text is not hallucinated or hallucinated.",
-    "demonstration_prompt": "Text: {text}\nLabel: {label}",
-    "inference_prompt": "Text: {text}\nLabel:"
-}

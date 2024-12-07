@@ -1,9 +1,0 @@
-{
-    "name": "pragmeval_verifiability",
-    "task_type": "classification",
-    "options": ["experiential", "unverifiable", "non-experiential"],
-    "instruction": "Classify the proposition in online user comment as unverifiable, non-experiential or experiential.",
-    "instruction_2": "Determine whether the online user comment's proposition is experiential, non-experiential, or unverifiable.",
-    "demonstration_prompt": "proposition: {sentence}\nlabel: {label}",
-    "inference_prompt": "proposition: {sentence}\nlabel:"
-}

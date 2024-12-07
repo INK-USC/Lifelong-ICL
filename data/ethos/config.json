@@ -1,9 +1,0 @@
-{
-    "name": "ethos",
-    "task_type": "classification",
-    "options": ["hate speech", "no hate speech"],
-    "instruction": "Classify the sentence into hate speech or no hate speech.",
-    "instruction_2": "Evaluate if the sentence contains hate speech. Answer with no hate speech or hate speech.",
-    "demonstration_prompt": "Sentence: {text}\nLabel: {label}",
-    "inference_prompt": "Sentence: {text}\nLabel:"
-}

@@ -1,9 +1,0 @@
-{
-    "name": "sara_entailment",
-    "task_type": "classification",
-    "options": ["entailment", "contradiction"],
-    "instruction": "Given a statute, a fact pattern, and an assertion, determine if the assertion is entailed by the fact pattern and statute. The label is either entailment or contradiction",
-    "instruction_2": "Assess whether the given assertion, when considered in the context of the statute and fact pattern, is an entailment or a contradiction.",
-    "demonstration_prompt": "Statute: {statute}\nFact pattern: {description}\nAssertion: {question}\nLabel: {label}",
-    "inference_prompt": "Statute: {statute}\nFact pattern: {description}\nAssertion: {question}\nLabel:"
-}

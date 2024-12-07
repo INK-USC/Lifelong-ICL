@@ -1,9 +1,0 @@
-{
-    "name": "acl_arc",
-    "task_type": "classification",
-    "options": ["Background", "Uses", "Comparison", "Motivation", "Continuation", "Future"],
-    "instruction": "Classify the citation intent of the article marked by @@CITATION into Background, Uses, Comparison, Motivation, Continuation, or Future.",
-    "instruction_2": "Determine the intent of the citation labeled by @@CITATION and categorize it as Comparison, Motivation, Future, Continuation, Background, or Uses." ,
-    "demonstration_prompt": "Input: {input}\nLabel: {label}",
-    "inference_prompt": "Input: {input}\nLabel:"
-}
